@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Test Reg",
+            "type": "python",
+            "request": "launch",
+            "program": "r.py",
+            "args" : ["--output_file", "SYSTEM.md", "--root_dir", "Z:\\", "d16a1cca-3eee-41d9-9952-5f04f75b40a7", "1c103928-9a3d-4d59-bde1-9a01e428d506"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
