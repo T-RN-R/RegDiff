@@ -8,6 +8,7 @@ import pathlib, functools
 from reporting.serializers import SystemHiveSerializer
 from reporting.visitors import CoreReportMarkdownVisitor
 
+import struct
 
 
 
@@ -85,7 +86,7 @@ class MarkdownSerializer():
         
 
 
-        self.md.new_table_of_contents("Table of contents", 4)
+        self.md.new_table_of_contents("Table of contents", 5)
 
         with open(self.output_file, "w+") as f:
             f.write(self.md.get_md_text())
@@ -149,17 +150,17 @@ def main(argv=None):
             j = {"added":added, "removed":removed, "modified": modified}
             hive_results[hive] = j
         diff_result[edition] = hive_results
-        
+        #break
     md_serializer = MarkdownSerializer(output_file)
     md_serializer.serialize(src_uid, dst_uid, data=diff_result)
 
 
 
-    """
+    
     import json
-    with open(output_file, "w+") as f :
-        json.dump( j,f)
-    """
+    with open(output_file+".json", "w+", encoding="utf-8") as f :
+        f.write(str(diff_result))
+    
 
 
 
@@ -193,7 +194,6 @@ class RegType(Enum):
 def is_string_type(key):
     return (key ==RegType.LIBREGF_VALUE_TYPE_STRING or key == RegType.LIBREGF_VALUE_TYPE_EXPANDABLE_STRING or key == RegType.LIBREGF_VALUE_TYPE_SYMBOLIC_LINK)
 
-import struct
 
 def processKey(key, coll, path=''):
     '''
@@ -202,11 +202,37 @@ def processKey(key, coll, path=''):
     @coll: the set object to collect parsed info into
     @path: parent key's path string built by recursive calls
     '''
+
+    KEYS_TO_IGNORE = ["DriverDatabase", #Maybe handle these eventually. Differ can't handle the changes in hashes in the keys
+                      "Control\\Power", #Not very interesting
+                      "Control\\OSExtensionDatabase",
+                      "Control\\Notifications", #Maybe handle this eventually, these need to be reverse engineered
+                      "Control\\NetworkSetup", #Likely not interesting
+                      "Software\\Microsoft\\BuildLayers" #Don't think its interesting
+                      ]
+    
+    """     
+    # To develop:
+
+    "ControlSet001\\Control\\Cryptography"
+    ControlSet001\\Control\\Class\\
+    ControlSet001\\Control\\CI\\"
+    ControlSet001\\Control\\Tpm
+    ControlSet001\\Control\\SafeBoot
+    ControlSet001\\Control\\Session Manager
+    ControlSet001\\Control\\WMI\\Security
+    ControlSet001\\Control\\FileSystem
+    ControlSet001\\Control\\FeatureManagement
+    
+    """
     #print(key.get_name())
     #build & save printable key path
     expanded = os.path.join(path, key.get_name())
     coll[expanded] = None
-    
+    if IGNORE_SOME_KEYS:
+        for ignore_key in KEYS_TO_IGNORE:
+            if ignore_key in expanded:
+                return
     for cur in key.values: #build & save printable value record paths
         curName = cur.get_name()
         data = None
@@ -235,7 +261,7 @@ def processKey(key, coll, path=''):
         tmpStr = '{}'.format(curName)
         tmpPath = os.path.join(expanded, tmpStr)
         coll[tmpPath] = data
-        
+
     for cur in key.sub_keys: #recursive call on each subkey
         processKey(cur, coll, expanded)
 
@@ -246,7 +272,7 @@ def report(reportSet, reportName):
     pprint.pprint(reportSet, indent=2)
     print()
 
-    
+IGNORE_SOME_KEYS = True  
 def parseArgs(argv):
     '''
     Parse cmd line arguments

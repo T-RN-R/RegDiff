@@ -12,6 +12,24 @@
             "args" : ["--output_file", "SYSTEM.md", "--root_dir", "Z:\\", "d16a1cca-3eee-41d9-9952-5f04f75b40a7", "1c103928-9a3d-4d59-bde1-9a01e428d506"],
             "console": "integratedTerminal",
             "justMyCode": true
+        },
+        {
+            "name": "Python: Test Reg Wide",
+            "type": "python",
+            "request": "launch",
+            "program": "r.py",
+            "args" : ["--output_file", "SYSTEM_WIDE.md", "--root_dir", "Z:\\", "50f703d5-26d3-4f4a-930f-3db18b3a322b", "804bab7d-450d-4a8d-a315-52601d77d322"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: 21H2, Win11",
+            "type": "python",
+            "request": "launch",
+            "program": "r.py",
+            "args" : ["--output_file", "SYSTEM_WIN11.md", "--root_dir", "Z:\\", "804bab7d-450d-4a8d-a315-52601d77d322", "348cc840-2674-4338-96eb-39824bfa447b"],
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
     ]
 }

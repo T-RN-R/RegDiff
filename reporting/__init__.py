@@ -29,4 +29,7 @@ class AddedContainer(DiffContainer):
     pass
 
 
+class RemovedContainer(DiffContainer):
+    pass
+
 

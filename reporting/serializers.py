@@ -84,5 +84,9 @@ class SystemHiveSerializer(HiveSerializer):
             if diff == "added":
                 added_data = self.to_nested_dict(data) #convert into collapsible dict form
                 results += [AddedContainer(self.handle_control_set(self.filter_on_key_string(added_data, "ControlSet001", True)))]
+            elif diff == "removed":
+                removed_data = self.to_nested_dict(data)
+                results += [RemovedContainer(self.handle_control_set(self.filter_on_key_string(removed_data, "ControlSet001", True)))]
+
 
         return SystemHiveContainer(results)
