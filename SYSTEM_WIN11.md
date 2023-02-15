@@ -187,121 +187,98 @@ Table of contents
 # Professional
 
 ## SYSTEM
-
+  
+<br></br><br></br>Added
 ### WMI AutoLoggers
+  
 
+---
+<br></br>
 #### BioEnrollment
   
-Start : `0x00`  
-{4b8b1947-ae4d-54e2-826a-1aee78ef05b2} : `{'Enabled': 0}`  
-{a55d5a23-1a5b-580a-2be5-d7188f43fae1} : `{'Enabled': 0}`
-|guid|
-| :---: |
-|Start|
-|{4b8b1947-ae4d-54e2-826a-1aee78ef05b2}|
-|{a55d5a23-1a5b-580a-2be5-d7188f43fae1}|
+Start : `0x00`
+|Enabled|guid|
+| :---: | :---: |
+|None|Start|
+|0x00|{4b8b1947-ae4d-54e2-826a-1aee78ef05b2}|
+|0x00|{a55d5a23-1a5b-580a-2be5-d7188f43fae1}|
   
 
 ---
 <br></br>
 #### EventLog-Application
-  
-{04d66358-c4a1-419b-8023-23b73902de2c} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{15f4cd44-ca53-5422-db17-4e76821b5a69} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{6e0df32c-7f11-54f7-e8ee-5ad4032727ce} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 2305843009213693952, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{7628e972-6d6f-4974-b58f-6428622ec09a} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{7d44233d-3055-4b9c-ba64-0d47ca40a232} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 2305843009213693952, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{9068a924-f97e-5506-c3a3-5c020c00e8e0} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{a70ff94f-570b-4979-ba5c-e59c9feab61b} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 4611686018427387904, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{ad8aa069-a01b-40a0-ba40-948d1d8dedc5} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`
-|guid|
-| :---: |
-|{04d66358-c4a1-419b-8023-23b73902de2c}|
-|{15f4cd44-ca53-5422-db17-4e76821b5a69}|
-|{6e0df32c-7f11-54f7-e8ee-5ad4032727ce}|
-|{7628e972-6d6f-4974-b58f-6428622ec09a}|
-|{7d44233d-3055-4b9c-ba64-0d47ca40a232}|
-|{9068a924-f97e-5506-c3a3-5c020c00e8e0}|
-|{a70ff94f-570b-4979-ba5c-e59c9feab61b}|
-|{ad8aa069-a01b-40a0-ba40-948d1d8dedc5}|
+
+|EnableLevel|EnableProperty|Enabled|LoggerName|MatchAllKeyword|MatchAnyKeyword|guid|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|0x00|0x01|0x01|EventLog-Application|0x00|0x8000000000000000|{04d66358-c4a1-419b-8023-23b73902de2c}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0x8000000000000000|{15f4cd44-ca53-5422-db17-4e76821b5a69}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0x2000000000000000|{6e0df32c-7f11-54f7-e8ee-5ad4032727ce}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0x8000000000000000|{7628e972-6d6f-4974-b58f-6428622ec09a}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0x2000000000000000|{7d44233d-3055-4b9c-ba64-0d47ca40a232}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0x8000000000000000|{9068a924-f97e-5506-c3a3-5c020c00e8e0}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0x4000000000000000|{a70ff94f-570b-4979-ba5c-e59c9feab61b}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0x8000000000000000|{ad8aa069-a01b-40a0-ba40-948d1d8dedc5}|
   
 
 ---
 <br></br>
 #### EventLog-System
-  
-{0075e1ab-e1d1-5d1f-35f5-da36fb4f41b1} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 4611686018427387904, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{17d2a329-4539-5f4d-3435-f510634ce3b9} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{5bcf2a5c-2e90-5a03-aa4e-2e459bae21b4} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 13835058055282163712, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{6600e712-c3b6-44a2-8a48-935c511f28c8} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 2305843009213693952, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{7f54ca8a-6c72-5cbc-b96f-d0ef905b8bce} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{87a623f0-8db5-5c11-7c80-a2ebbcbe5189} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{93db76c2-63ab-5de1-88b3-c068686675b8} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{9799276c-fb04-47e8-845e-36946045c218} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 2305843009213693952, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{a2d34bf1-70ab-5b21-c819-5a0dd42748fd} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{b931ed29-66f4-576e-0579-0b8818a5dc6b} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{bcf0c6a7-6130-5208-f27d-fa77a91f12df} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{d07e8c3f-78fb-4c22-b77c-2203d00bfdf3} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{f6cf91be-e7d7-57d6-2a3d-278ca406d190} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`
-|guid|
-| :---: |
-|{0075e1ab-e1d1-5d1f-35f5-da36fb4f41b1}|
-|{17d2a329-4539-5f4d-3435-f510634ce3b9}|
-|{5bcf2a5c-2e90-5a03-aa4e-2e459bae21b4}|
-|{6600e712-c3b6-44a2-8a48-935c511f28c8}|
-|{7f54ca8a-6c72-5cbc-b96f-d0ef905b8bce}|
-|{87a623f0-8db5-5c11-7c80-a2ebbcbe5189}|
-|{93db76c2-63ab-5de1-88b3-c068686675b8}|
-|{9799276c-fb04-47e8-845e-36946045c218}|
-|{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}|
-|{b931ed29-66f4-576e-0579-0b8818a5dc6b}|
-|{bcf0c6a7-6130-5208-f27d-fa77a91f12df}|
-|{d07e8c3f-78fb-4c22-b77c-2203d00bfdf3}|
-|{f6cf91be-e7d7-57d6-2a3d-278ca406d190}|
+
+|EnableLevel|EnableProperty|Enabled|LoggerName|MatchAllKeyword|MatchAnyKeyword|guid|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|0x00|0x01|0x01|EventLog-System|0x00|0x4000000000000000|{0075e1ab-e1d1-5d1f-35f5-da36fb4f41b1}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{17d2a329-4539-5f4d-3435-f510634ce3b9}|
+|0x00|0x01|0x01|EventLog-System|0x00|0xc000000000000000|{5bcf2a5c-2e90-5a03-aa4e-2e459bae21b4}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x2000000000000000|{6600e712-c3b6-44a2-8a48-935c511f28c8}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{7f54ca8a-6c72-5cbc-b96f-d0ef905b8bce}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{87a623f0-8db5-5c11-7c80-a2ebbcbe5189}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{93db76c2-63ab-5de1-88b3-c068686675b8}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x2000000000000000|{9799276c-fb04-47e8-845e-36946045c218}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{b931ed29-66f4-576e-0579-0b8818a5dc6b}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{bcf0c6a7-6130-5208-f27d-fa77a91f12df}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{d07e8c3f-78fb-4c22-b77c-2203d00bfdf3}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{f6cf91be-e7d7-57d6-2a3d-278ca406d190}|
   
 
 ---
 <br></br>
 #### FaceCredProv
   
-Start : `0x00`  
-{1D480C11-3870-4B19-9144-47A53CD973BD} : `{'Enabled': 0}`
-|guid|
-| :---: |
-|Start|
-|{1D480C11-3870-4B19-9144-47A53CD973BD}|
+Start : `0x00`
+|Enabled|guid|
+| :---: | :---: |
+|None|Start|
+|0x00|{1D480C11-3870-4B19-9144-47A53CD973BD}|
   
 
 ---
 <br></br>
 #### FaceTel
   
-Start : `0x00`  
-{22eb0808-0b6c-5cd4-5511-6a77e6e73a93} : `{'Enabled': 0}`
-|guid|
-| :---: |
-|Start|
-|{22eb0808-0b6c-5cd4-5511-6a77e6e73a93}|
+Start : `0x00`
+|Enabled|guid|
+| :---: | :---: |
+|None|Start|
+|0x00|{22eb0808-0b6c-5cd4-5511-6a77e6e73a93}|
   
 
 ---
 <br></br>
 #### NetCore
-  
-{923C0FFD-7933-4B52-8A49-121ABF2DC357} : `{'@': 'triage_routepolicymanagement_tracelogging', 'Enabled': 1, 'EnableLevel': 5, 'MatchAnyKeyword': 0}`
-|guid|
-| :---: |
-|{923C0FFD-7933-4B52-8A49-121ABF2DC357}|
+
+|@|EnableLevel|Enabled|MatchAnyKeyword|guid|
+| :---: | :---: | :---: | :---: | :---: |
+|triage_routepolicymanagement_tracelogging|0x05|0x01|0x00|{923C0FFD-7933-4B52-8A49-121ABF2DC357}|
   
 
 ---
 <br></br>
 #### NtfsLog
-  
-{aa381297-bccb-4569-8e39-bbbb3b400893} : `{'_Description': 'TmLog Trace Provider', 'Enabled': 1, 'EnableFlags': 15, 'EnableLevel': 5}`
-|guid|
-| :---: |
-|{aa381297-bccb-4569-8e39-bbbb3b400893}|
+
+|EnableFlags|EnableLevel|Enabled|_Description|guid|
+| :---: | :---: | :---: | :---: | :---: |
+|0x0f|0x05|0x01|TmLog Trace Provider|{aa381297-bccb-4569-8e39-bbbb3b400893}|
   
 
 ---
@@ -310,55 +287,52 @@ Start : `0x00`
   
 ClockType : `0x02`  
 GUID : `{81a69395-9f48-48f2-b88c-2401db1e3a91}`  
-Start : `0x01`  
-{740f3c34-57df-4bad-8eea-72ac69ad5df5} : `{'_Description': 'ReFS WPP Trace', 'Enabled': 1, 'EnableFlags': 7, 'EnableLevel': 3}`
-|guid|
-| :---: |
-|ClockType|
-|GUID|
-|Start|
-|{740f3c34-57df-4bad-8eea-72ac69ad5df5}|
+Start : `0x01`
+|EnableFlags|EnableLevel|Enabled|_Description|guid|
+| :---: | :---: | :---: | :---: | :---: |
+|None|None|None|None|ClockType|
+|None|None|None|None|GUID|
+|None|None|None|None|Start|
+|0x07|0x03|0x01|ReFS WPP Trace|{740f3c34-57df-4bad-8eea-72ac69ad5df5}|
   
 
 ---
 <br></br>
 #### SetupPlatformTel
-  
-{D2F37B94-92A5-44E2-AFC9-2F4489D39268} : `{'Enabled': 1, 'EnableLevel': 255}`
-|guid|
-| :---: |
-|{D2F37B94-92A5-44E2-AFC9-2F4489D39268}|
+
+|EnableLevel|Enabled|guid|
+| :---: | :---: | :---: |
+|0xff|0x01|{D2F37B94-92A5-44E2-AFC9-2F4489D39268}|
   
 
 ---
 <br></br>
 #### SpoolerLogger
-  
-{ba4936a1-31db-4edc-89ce-9190e3c0653b} : `{'Enabled': 1, 'EnableFlags': 0, 'EnableLevel': 5}`
-|guid|
-| :---: |
-|{ba4936a1-31db-4edc-89ce-9190e3c0653b}|
+
+|EnableFlags|EnableLevel|Enabled|guid|
+| :---: | :---: | :---: | :---: |
+|0x00|0x05|0x01|{ba4936a1-31db-4edc-89ce-9190e3c0653b}|
   
 
 ---
 <br></br>
 #### WiFiSession
-  
-{745976be-5e09-5c76-eabd-76c93c9212d2} : `{'Enabled': 1, 'EnableLevel': 5, 'MatchAnyKeyword': 0}`  
-{ae164ede-2246-5b24-c145-29c484f7362a} : `{'Enabled': 1, 'EnableLevel': 5, 'MatchAnyKeyword': 0}`  
-{EA893635-5AB7-562B-75A2-A22107D8058F} : `{'Enabled': 1, 'EnableLevel': 5, 'MatchAnyKeyword': 0}`
-|guid|
-| :---: |
-|{745976be-5e09-5c76-eabd-76c93c9212d2}|
-|{ae164ede-2246-5b24-c145-29c484f7362a}|
-|{EA893635-5AB7-562B-75A2-A22107D8058F}|
+
+|EnableLevel|Enabled|MatchAnyKeyword|guid|
+| :---: | :---: | :---: | :---: |
+|0x05|0x01|0x00|{745976be-5e09-5c76-eabd-76c93c9212d2}|
+|0x05|0x01|0x00|{ae164ede-2246-5b24-c145-29c484f7362a}|
+|0x05|0x01|0x00|{EA893635-5AB7-562B-75A2-A22107D8058F}|
   
 
 ---
 <br></br>  
 <br></br>
 ### <span style="text-align: center; font-size:2em;">Services </span>
+  
 
+---
+<br></br>
 #### <span style="text-align: center; font-size:2em;">ACPI Service </span>
 
 
@@ -1297,9 +1271,13 @@ FeatureLevel : `0x01`
 
 ---
 <br></br>  
-<br></br>
+<br></br>  
+<br></br><br></br>Deleted
 ### WMI AutoLoggers
+  
 
+---
+<br></br>
 #### DataMarket
   
 BufferSize : `0x50`  
@@ -1311,128 +1289,108 @@ LogFileMode : `0x80000002`
 MaxFileSize : `0x0c`  
 MaximumBuffers : `0x10`  
 MinimumBuffers : `0x02`  
-Start : `0x00`  
-{B1D067C7-2F8C-436E-9E82-C5C2C22229D5} : `{'Enabled': 0, 'EnableLevel': 4, 'MatchAnyKeyword': 18374686479671623680}`
-|guid|
-| :---: |
-|BufferSize|
-|ClockType|
-|FileMax|
-|FileName|
-|Guid|
-|LogFileMode|
-|MaxFileSize|
-|MaximumBuffers|
-|MinimumBuffers|
-|Start|
-|{B1D067C7-2F8C-436E-9E82-C5C2C22229D5}|
+Start : `0x00`
+|EnableLevel|Enabled|MatchAnyKeyword|guid|
+| :---: | :---: | :---: | :---: |
+|None|None|None|BufferSize|
+|None|None|None|ClockType|
+|None|None|None|FileMax|
+|None|None|None|FileName|
+|None|None|None|Guid|
+|None|None|None|LogFileMode|
+|None|None|None|MaxFileSize|
+|None|None|None|MaximumBuffers|
+|None|None|None|MinimumBuffers|
+|None|None|None|Start|
+|0x04|0x00|0xff00000000000000|{B1D067C7-2F8C-436E-9E82-C5C2C22229D5}|
   
 
 ---
 <br></br>
 #### EventLog-Application
-  
-{28e25b07-c47f-473d-8b24-2e171cca808a} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 4611686018427387904, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{579402a2-883c-45d8-b70a-9bc856407751} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 13835058055282163712, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{5b5ab841-7d2e-4a95-bb4f-095cdf66d8f0} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{83d6e83b-900b-48a3-9835-57656b6f6474} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 13835058055282163712, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{973143dd-f3c7-4ef5-b156-544ac38c39b6} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{9f973c1d-d056-4e38-84a5-7be81cdd6ab6} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 13835058055282163712, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{af0a5a6d-e009-46d4-8867-42f2240f8a72} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 4611686018427387904, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{c9bdb4eb-9287-4c8e-8378-6896f0d1c5ef} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{f43c3c35-22e2-53eb-f169-07594054779e} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-Application', 'MatchAnyKeyword': 13835058055282163712, 'MatchAllKeyword': 0, 'EnableProperty': 1}`
-|guid|
-| :---: |
-|{28e25b07-c47f-473d-8b24-2e171cca808a}|
-|{579402a2-883c-45d8-b70a-9bc856407751}|
-|{5b5ab841-7d2e-4a95-bb4f-095cdf66d8f0}|
-|{83d6e83b-900b-48a3-9835-57656b6f6474}|
-|{973143dd-f3c7-4ef5-b156-544ac38c39b6}|
-|{9f973c1d-d056-4e38-84a5-7be81cdd6ab6}|
-|{af0a5a6d-e009-46d4-8867-42f2240f8a72}|
-|{c9bdb4eb-9287-4c8e-8378-6896f0d1c5ef}|
-|{f43c3c35-22e2-53eb-f169-07594054779e}|
+
+|EnableLevel|EnableProperty|Enabled|LoggerName|MatchAllKeyword|MatchAnyKeyword|guid|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|0x00|0x01|0x01|EventLog-Application|0x00|0x4000000000000000|{28e25b07-c47f-473d-8b24-2e171cca808a}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0xc000000000000000|{579402a2-883c-45d8-b70a-9bc856407751}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0x8000000000000000|{5b5ab841-7d2e-4a95-bb4f-095cdf66d8f0}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0xc000000000000000|{83d6e83b-900b-48a3-9835-57656b6f6474}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0x8000000000000000|{973143dd-f3c7-4ef5-b156-544ac38c39b6}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0xc000000000000000|{9f973c1d-d056-4e38-84a5-7be81cdd6ab6}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0x4000000000000000|{af0a5a6d-e009-46d4-8867-42f2240f8a72}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0x8000000000000000|{c9bdb4eb-9287-4c8e-8378-6896f0d1c5ef}|
+|0x00|0x01|0x01|EventLog-Application|0x00|0xc000000000000000|{f43c3c35-22e2-53eb-f169-07594054779e}|
   
 
 ---
 <br></br>
 #### EventLog-System
-  
-{2bef5442-d402-5a72-58e1-cb7e491bf179} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{3903d5b9-988d-4c31-9ccd-4022f96703f0} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{928f7d29-0577-5be5-3bd3-b6bdab9ab307} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{9f7b5df4-b902-48bc-bc94-95068c6c7d26} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{b99317e5-89b7-4c0d-abd1-6e705f7912dc} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{c18672d1-dc18-4dfd-91e4-170cf37160cf} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 4611686018427387904, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{ea216962-877b-5b73-f7c5-8aef5375959e} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`  
-{ed8cc261-2123-567e-063e-75fc5f8e8a48} : `{'Enabled': 1, 'EnableLevel': 0, 'LoggerName': 'EventLog-System', 'MatchAnyKeyword': 9223372036854775808, 'MatchAllKeyword': 0, 'EnableProperty': 1}`
-|guid|
-| :---: |
-|{2bef5442-d402-5a72-58e1-cb7e491bf179}|
-|{3903d5b9-988d-4c31-9ccd-4022f96703f0}|
-|{928f7d29-0577-5be5-3bd3-b6bdab9ab307}|
-|{9f7b5df4-b902-48bc-bc94-95068c6c7d26}|
-|{b99317e5-89b7-4c0d-abd1-6e705f7912dc}|
-|{c18672d1-dc18-4dfd-91e4-170cf37160cf}|
-|{ea216962-877b-5b73-f7c5-8aef5375959e}|
-|{ed8cc261-2123-567e-063e-75fc5f8e8a48}|
+
+|EnableLevel|EnableProperty|Enabled|LoggerName|MatchAllKeyword|MatchAnyKeyword|guid|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{2bef5442-d402-5a72-58e1-cb7e491bf179}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{3903d5b9-988d-4c31-9ccd-4022f96703f0}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{928f7d29-0577-5be5-3bd3-b6bdab9ab307}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{9f7b5df4-b902-48bc-bc94-95068c6c7d26}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{b99317e5-89b7-4c0d-abd1-6e705f7912dc}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x4000000000000000|{c18672d1-dc18-4dfd-91e4-170cf37160cf}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{ea216962-877b-5b73-f7c5-8aef5375959e}|
+|0x00|0x01|0x01|EventLog-System|0x00|0x8000000000000000|{ed8cc261-2123-567e-063e-75fc5f8e8a48}|
   
 
 ---
 <br></br>
 #### LwtNetLog
-  
-{7868B0D4-1423-4681-AFDF-27913575441E} : `{'Enabled': 1, 'EnableLevel': 4, 'MatchAnyKeyword': 1}`
-|guid|
-| :---: |
-|{7868B0D4-1423-4681-AFDF-27913575441E}|
+
+|EnableLevel|Enabled|MatchAnyKeyword|guid|
+| :---: | :---: | :---: | :---: |
+|0x04|0x01|0x01|{7868B0D4-1423-4681-AFDF-27913575441E}|
   
 
 ---
 <br></br>
 #### NtfsLog
-  
-{740f3c34-57df-4bad-8eea-72ac69ad5df5} : `{'_Description': 'ReFS WPP Trace', 'Enabled': 1, 'EnableFlags': 7, 'EnableLevel': 3}`
-|guid|
-| :---: |
-|{740f3c34-57df-4bad-8eea-72ac69ad5df5}|
+
+|EnableFlags|EnableLevel|Enabled|_Description|guid|
+| :---: | :---: | :---: | :---: | :---: |
+|0x07|0x03|0x01|ReFS WPP Trace|{740f3c34-57df-4bad-8eea-72ac69ad5df5}|
   
 
 ---
 <br></br>
 #### SQMLogger
-  
-{017BA13C-9A55-4f1f-8200-323055AAC810} : `{'Enabled': 1, 'EnableLevel': 4, 'EnableProperty': 2, 'LoggerName': 'SQMLogger', 'MatchAnyKeyword': 2251799813685248}`
-|guid|
-| :---: |
-|{017BA13C-9A55-4f1f-8200-323055AAC810}|
+
+|EnableLevel|EnableProperty|Enabled|LoggerName|MatchAnyKeyword|guid|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|0x04|0x02|0x01|SQMLogger|0x8000000000000|{017BA13C-9A55-4f1f-8200-323055AAC810}|
   
 
 ---
 <br></br>
 #### WiFiSession
-  
-{60523747-6516-48B7-84B1-3264FA2CB359} : `{'Enabled': 1, 'EnableLevel': 5, 'MatchAnyKeyword': 0}`
-|guid|
-| :---: |
-|{60523747-6516-48B7-84B1-3264FA2CB359}|
+
+|EnableLevel|Enabled|MatchAnyKeyword|guid|
+| :---: | :---: | :---: | :---: |
+|0x05|0x01|0x00|{60523747-6516-48B7-84B1-3264FA2CB359}|
   
 
 ---
 <br></br>
 #### WinPhoneCritical
-  
-{A9C11050-9E93-4fa4-8FE0-7C4750A345B2} : `{'Enabled': 1, 'EnableLevel': 2, 'EnableProperty': 2, 'LoggerName': 'SmsRouter', 'MatchAnyKeyword': 0}`
-|guid|
-| :---: |
-|{A9C11050-9E93-4fa4-8FE0-7C4750A345B2}|
+
+|EnableLevel|EnableProperty|Enabled|LoggerName|MatchAnyKeyword|guid|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|0x02|0x02|0x01|SmsRouter|0x00|{A9C11050-9E93-4fa4-8FE0-7C4750A345B2}|
   
 
 ---
 <br></br>  
 <br></br>
 ### <span style="text-align: center; font-size:2em;">Services </span>
+  
 
+---
+<br></br>
 #### <span style="text-align: center; font-size:2em;">BluetoothUserService Service </span>
 
 

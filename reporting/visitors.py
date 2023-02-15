@@ -97,9 +97,12 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
         return f"<span style=\"text-align: center; font-size:2em;\">{text} </span>"
     def handle_container(self, container: DiffContainer):
         if isinstance(container, AddedContainer):
+            self.md.new_line("<br></br><br></br>Added")
+
             #self.md.new_line("<summary> Added </summary>")
             self.handle_raw(container.data)
         elif isinstance(container, RemovedContainer):
+            self.md.new_line("<br></br><br></br>Deleted")
             #self.md.new_line("<summary> Removed </summary>")
             self.handle_raw(container.data)
 
@@ -121,13 +124,15 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
 
     def handle_system_auto_logger(self, entry: RegAutoLogger):
         self.md.new_header(3, "WMI AutoLoggers")
+        self.md.new_line("\n---\n<br></br>")
+
         al = entry.data
         for k, v in al.items():
             self.md.new_header(4, k)
             known_keys = set()
             known_keys.add("guid")
             for _, values in v.items():
-                if isinstance(values, list):
+                if isinstance(values, dict):
                     for kk in values:
                         known_keys.add(kk)
                 else:
@@ -142,12 +147,11 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
                 init_dict = {key: None for key in known_keys}
                 for key in known_keys:
                     if not isinstance(values, dict):
-                        continue
+                        break
                     value = values.get(key, None)
                     init_dict[key] = self.get_printable_value(value)
                 init_dict["guid"] = self.get_printable_value(guid)
                 data.append(init_dict)
-
             d = []
             for e in data:
                 for k, val in e.items():
@@ -159,6 +163,7 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
 
     def handle_system_services(self, entry: RegServices):
         self.md.new_header(3, self.emphasize_text("Services"))
+        self.md.new_line("\n---\n<br></br>")
         services = entry.data
         for service_name, service_data in services.items():
             self.handle_single_service(service_name, service_data)
