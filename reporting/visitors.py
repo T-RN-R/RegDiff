@@ -80,9 +80,9 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
     def get_markdown(self, md: MdUtils, data: list) -> MdUtils:
         self.md = md
         for container in data:
-            self.md.new_line("\n<details>\n")
+            #self.md.new_line("\n<details>\n")
             self.handle_container(container)
-            self.md.new_line("\n</details>\n")
+            #self.md.new_line("\n</details>\n")
 
         return md
 
@@ -97,10 +97,10 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
         return f"<span style=\"text-align: center; font-size:2em;\">{text} </span>"
     def handle_container(self, container: DiffContainer):
         if isinstance(container, AddedContainer):
-            self.md.new_line("<summary> Added </summary>")
+            #self.md.new_line("<summary> Added </summary>")
             self.handle_raw(container.data)
         elif isinstance(container, RemovedContainer):
-            self.md.new_line("<summary> Removed </summary>")
+            #self.md.new_line("<summary> Removed </summary>")
             self.handle_raw(container.data)
 
     def handle_raw(self, visitable_list):
@@ -155,7 +155,7 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
 
             self.md.new_table(
                 len(known_keys), (len(v.keys()) + 1), known_keys+d)
-            self.md.new_line("<br></br>")
+            self.md.new_line("\n---\n<br></br>")
 
     def handle_system_services(self, entry: RegServices):
         self.md.new_header(3, self.emphasize_text("Services"))

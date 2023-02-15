@@ -27,7 +27,7 @@
             "type": "python",
             "request": "launch",
             "program": "r.py",
-            "args" : ["--output_file", "SYSTEM_WIN11.md", "--root_dir", "Z:\\", "804bab7d-450d-4a8d-a315-52601d77d322", "348cc840-2674-4338-96eb-39824bfa447b"],
+            "args" : ["--output_file", "SYSTEM_WIN11.md", "--root_dir", "Z:\\", "804bab7d-450d-4a8d-a315-52601d77d322", "348cc840-2674-4338-96eb-39824bfa447b", "--title", "Win10 (21H2 19044.1706) -> Win11 (22000.1100)"],
             "console": "integratedTerminal",
             "justMyCode": true
         }

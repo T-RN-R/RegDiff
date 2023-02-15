@@ -36,8 +36,8 @@ class MarkdownSerializer():
 
 
 
-    def serialize(self, src_uid:str, dst_uid:str, data:dict):
-        self.md = MdUtils('example', f"{src_uid} {dst_uid} Diff")
+    def serialize(self, src_uid:str, dst_uid:str, data:dict, title:str):
+        self.md = MdUtils('example', title)
         for edition, hives in data.items():
             self.md.new_header(1, edition)
             for hive, diffs in hives.items():
@@ -93,7 +93,7 @@ class MarkdownSerializer():
 
 
 def main(argv=None):
-    src_uid, dst_uid, output_file, root_dir = parseArgs2(argv)
+    src_uid, dst_uid, output_file, root_dir, title= parseArgs2(argv)
 
     src_uid_dir = pathlib.Path(root_dir, src_uid)
     dst_uid_dir = pathlib.Path(root_dir, dst_uid)
@@ -105,8 +105,15 @@ def main(argv=None):
 
     editions_to_diff = list(src_editions.intersection(dst_editions))
     editions_to_diff.sort()
-    print(f"Diffing editions: {editions_to_diff}")
+    print(f"Diffable editions: {editions_to_diff}")
     diff_result = {}
+    if "Core" in editions_to_diff and "CoreN" in editions_to_diff:
+        editions_to_diff.remove("CoreN")
+    if "Professional" in editions_to_diff and "ProfessionalN" in editions_to_diff:
+        editions_to_diff.remove("ProfessionalN")
+    if "Professional" in editions_to_diff  and "Core" in editions_to_diff:
+        editions_to_diff.remove("Core")
+
     for edition in editions_to_diff:
         hive_results = {}
         for hive in HIVE_NAMES:
@@ -152,7 +159,7 @@ def main(argv=None):
         diff_result[edition] = hive_results
         #break
     md_serializer = MarkdownSerializer(output_file)
-    md_serializer.serialize(src_uid, dst_uid, data=diff_result)
+    md_serializer.serialize(src_uid, dst_uid, data=diff_result, title=title)
 
 
 
@@ -307,11 +314,13 @@ def parseArgs2(argv):
     parser.add_argument('--root_dir', help='Print debugging statements.')
     parser.add_argument('src_uid', type=str, help='Primary registry file to diff with')
     parser.add_argument('dst_uid', type=str, help='Second registry file to diff with') 
+    parser.add_argument('--title', type=str, help="Title of diff", default = None)
     args = parser.parse_args()
     
-    
+    if not args.title:
+        args.title=f"{args.src_uid} -> {args.dst_uid} Diff"
     #return the filenames
-    return args.src_uid, args.dst_uid, os.path.abspath(args.output_file),os.path.abspath(args.root_dir)
+    return args.src_uid, args.dst_uid, os.path.abspath(args.output_file),os.path.abspath(args.root_dir),args.title
 
 
 if __name__ == '__main__':
