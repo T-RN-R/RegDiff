@@ -142,7 +142,7 @@ class SystemHiveSerializer(HiveSerializer):
                 #wmi = self.to_nested_dict(diffs,"ControlSet001\\Control\\WMI\\Autologger")
                 #svcs = self.to_nested_dict(diffs,"ControlSet001\\Services")
             d = self.to_nested_dict(diffs)
-            results+= self.handle_control_set(self.filter_on_key_string(d, "ControlSet001", True))
+            results+= [DiffContainer(self.handle_control_set(self.filter_on_key_string(d, "ControlSet001", True)))]
             return SystemHiveContainer(results)
 
         for diff, data in diffs.items():

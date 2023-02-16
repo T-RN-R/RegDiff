@@ -1,7 +1,7 @@
 from enum import Enum
 import pprint
 import argparse
-
+from windows import RegHiveDictView
 import pyregf
 import os
 from mdutils.tools.Table import Table
@@ -72,8 +72,10 @@ def cli_hive(hive_type, report_title, json_file, report_file, src):
     hive_results = {}
 
     regA = pyregf.file()
-    regA.open(str(src_reg))
-    src = processRoot(regA.get_root_key())
+    regA.open(str(src_reg)
+              )
+    #src = processRoot(regA.get_root_key())
+    src = RegHiveDictView(regA.get_root_key())
     hive_results[hive_type] = src
 
     md_serializer = MarkdownSerializer(report_file)

@@ -109,11 +109,21 @@ class ACE_TYPES:
     ACCESS_DENIED_OBJECT_ACE_TYPE = 6
     SYSTEM_AUDIT_OBJECT_ACE_TYPE = 7
     SYSTEM_ALARM_OBJECT_ACE_TYPE = 8
-    ACCESS_MAX_MS_OBJECT_ACE_TYPE = 8
-    ACCESS_MAX_MS_V4_ACE_TYPE = 8
+
+    ACCESS_ALLOWED_CALLBACK_ACE_TYPE = 9
+    ACCESS_DENIED_CALLBACK_ACE_TYPE = 10
+    ACCESS_ALLOWED_CALLBACK_OBJECT_ACE_TYPE = 11
+    ACCESS_DENIED_CALLBACK_OBJECT_ACE_TYPE = 12
+    SYSTEM_AUDIT_CALLBACK_ACE_TYPE = 13
+    SYSTEM_ALARM_CALLBACK_ACE_TYPE= 14
+    SYSTEM_AUDIT_CALLBACK_OBJECT_ACE_TYPE = 15
+    SYSTEM_ALARM_CALLBACK_OBJECT_ACE_TYPE = 16
+    SYSTEM_MANDATORY_LABEL_ACE_TYPE = 17
+    ACCESS_MAX_MS_OBJECT_ACE_TYPE = 17
+    ACCESS_MAX_MS_V4_ACE_TYPE = 17
 
     # This one is for WinNT/2k.
-    ACCESS_MAX_MS_ACE_TYPE = 8
+    ACCESS_MAX_MS_ACE_TYPE = 17
 
 
 class ACE_FLAGS:
@@ -176,6 +186,15 @@ class ACE(Block):
     @staticmethod
     def get_ace(buf, offset, parent):
         header = ACE(buf, offset, parent)
+        ACCESS_ALLOWED_CALLBACK_ACE_TYPE = 9
+        ACCESS_DENIED_CALLBACK_ACE_TYPE = 10
+        ACCESS_ALLOWED_CALLBACK_OBJECT_ACE_TYPE = 11
+        ACCESS_DENIED_CALLBACK_OBJECT_ACE_TYPE = 12
+        SYSTEM_AUDIT_CALLBACK_ACE_TYPE = 13
+        SYSTEM_ALARM_CALLBACK_ACE_TYPE= 14
+        SYSTEM_AUDIT_CALLBACK_OBJECT_ACE_TYPE = 15
+        SYSTEM_ALARM_CALLBACK_OBJECT_ACE_TYPE = 16
+        SYSTEM_MANDATORY_LABEL_ACE_TYPE = 17
         if header.ace_type() == ACE_TYPES.ACCESS_ALLOWED_ACE_TYPE:
             return ACCESS_ALLOWED_ACE(buf, offset, parent)
         elif header.ace_type() == ACE_TYPES.ACCESS_DENIED_ACE_TYPE:
@@ -186,16 +205,30 @@ class ACE(Block):
             return SYSTEM_ALARM_ACE(buf, offset, parent)
         elif header.ace_type() == ACE_TYPES.ACCESS_ALLOWED_OBJECT_ACE_TYPE:
             return ACCESS_ALLOWED_OBJECT_ACE(buf, offset, parent)
-        elif header.ace_type() == ACE_TYPES.ACCESS_DENIED_OBJECT_ACE_TYPE:
-            return ACCESS_DENIED_OBJECT_ACE(buf, offset, parent)
-        elif header.ace_type() == ACE_TYPES.SYSTEM_AUDIT_OBJECT_ACE_TYPE:
-            return SYSTEM_AUDIT_OBJECT_ACE(buf, offset, parent)
-        elif header.ace_type() == ACE_TYPES.SYSTEM_ALARM_OBJECT_ACE_TYPE:
-            return SYSTEM_ALARM_OBJECT_ACE(buf, offset, parent)
+        elif header.ace_type() == ACE_TYPES.ACCESS_ALLOWED_CALLBACK_ACE_TYPE:
+            return ACCESS_ALLOWED_CALLBACK_ACE(buf, offset, parent)
+        elif header.ace_type() == ACE_TYPES.ACCESS_DENIED_CALLBACK_ACE_TYPE:
+            return ACCESS_DENIED_CALLBACK_ACE(buf, offset, parent)
+        elif header.ace_type() == ACE_TYPES.ACCESS_ALLOWED_CALLBACK_OBJECT_ACE_TYPE:
+            return ACCESS_ALLOWED_CALLBACK_OBJECT_ACE(buf, offset, parent)
+        elif header.ace_type() == ACE_TYPES.ACCESS_DENIED_CALLBACK_OBJECT_ACE_TYPE:
+            return ACCESS_DENIED_CALLBACK_OBJECT_ACE(buf, offset, parent)
+        elif header.ace_type() == ACE_TYPES.SYSTEM_AUDIT_CALLBACK_ACE_TYPE:
+            return SYSTEM_AUDIT_CALLBACK_ACE(buf, offset, parent)
+        elif header.ace_type() == ACE_TYPES.SYSTEM_ALARM_CALLBACK_ACE_TYPE:
+            return SYSTEM_ALARM_CALLBACK_ACE(buf, offset, parent)
+        elif header.ace_type() == ACE_TYPES.SYSTEM_AUDIT_CALLBACK_OBJECT_ACE_TYPE:
+            return SYSTEM_AUDIT_CALLBACK_OBJECT_ACE(buf, offset, parent)
+        elif header.ace_type() == ACE_TYPES.SYSTEM_ALARM_CALLBACK_OBJECT_ACE_TYPE:
+            return SYSTEM_ALARM_CALLBACK_OBJECT_ACE(buf, offset, parent)
+        elif header.ace_type() == ACE_TYPES.SYSTEM_MANDATORY_LABEL_ACE_TYPE:
+            return SYSTEM_MANDATORY_LABEL_ACE(buf, offset, parent)
+
+
         else:
+            ace_type = header.ace_type()
             # TODO(wb): raise a custom exception type
             raise ParseException("unknown ACE type")
-
 
 
 class StandardACE(ACE, Nestable):
@@ -262,7 +295,13 @@ class ObjectACE(ACE, Nestable):
 
     def __len__(self):
         return self.size()
-
+    def pretty_string(self, indent, indent_level):
+        print(self.__class__.__name__)
+        idt = "  "*indent*indent_level
+        output=f"{idt}Object ACE:\n"
+        idt+="  "
+        output += f"{idt}Type:  {str(self.__class__.__name__)}\n{idt}Flags: {'0x{:02x}'.format(self.ace_flags())}\n{idt}Access: {'0x{:02x}'.format(self.access_mask())}\n{idt}Object Flags: {self.object_flags()}\n{idt}"#Object Type Guid: {self.object_type()}\n{idt}Inherited Object Type Guid: {self.inherited_object_type()}"
+        return output
 
 class ACCESS_ALLOWED_OBJECT_ACE(ObjectACE):
     def __init__(self, buf, offset, parent):
@@ -282,6 +321,42 @@ class SYSTEM_AUDIT_OBJECT_ACE(ObjectACE):
 class SYSTEM_ALARM_OBJECT_ACE(ObjectACE):
     def __init__(self, buf, offset, parent):
         super(SYSTEM_ALARM_OBJECT_ACE, self).__init__(buf, offset, parent)
+
+class ACCESS_ALLOWED_CALLBACK_ACE(ObjectACE):
+    def __init__(self, buf, offset, parent):
+        super(ACCESS_ALLOWED_CALLBACK_ACE, self).__init__(buf, offset, parent)
+
+class ACCESS_DENIED_CALLBACK_ACE(ObjectACE):
+    def __init__(self, buf, offset, parent):
+        super(ACCESS_DENIED_CALLBACK_ACE, self).__init__(buf, offset, parent)
+
+class ACCESS_ALLOWED_CALLBACK_OBJECT_ACE(ObjectACE):
+    def __init__(self, buf, offset, parent):
+        super(ACCESS_ALLOWED_CALLBACK_OBJECT_ACE, self).__init__(buf, offset, parent)
+
+class ACCESS_DENIED_CALLBACK_OBJECT_ACE(ObjectACE):
+    def __init__(self, buf, offset, parent):
+        super(ACCESS_DENIED_CALLBACK_OBJECT_ACE, self).__init__(buf, offset, parent)
+
+class SYSTEM_AUDIT_CALLBACK_ACE(ObjectACE):
+    def __init__(self, buf, offset, parent):
+        super(SYSTEM_AUDIT_CALLBACK_ACE, self).__init__(buf, offset, parent)
+
+class SYSTEM_ALARM_CALLBACK_ACE(ObjectACE):
+    def __init__(self, buf, offset, parent):
+        super(SYSTEM_ALARM_CALLBACK_ACE, self).__init__(buf, offset, parent)
+
+class SYSTEM_AUDIT_CALLBACK_OBJECT_ACE(ObjectACE):
+    def __init__(self, buf, offset, parent):
+        super(SYSTEM_AUDIT_CALLBACK_OBJECT_ACE, self).__init__(buf, offset, parent)
+
+class SYSTEM_ALARM_CALLBACK_OBJECT_ACE(ObjectACE):
+    def __init__(self, buf, offset, parent):
+        super(SYSTEM_ALARM_CALLBACK_OBJECT_ACE, self).__init__(buf, offset, parent)
+
+class SYSTEM_MANDATORY_LABEL_ACE(StandardACE):
+    def __init__(self, buf, offset, parent):
+        super(SYSTEM_MANDATORY_LABEL_ACE, self).__init__(buf, offset, parent)
 
 
 class ACL(Block, Nestable):

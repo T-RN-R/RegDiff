@@ -96,6 +96,7 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
     def emphasize_text(self, text:str) -> str:
         return f"<span style=\"text-align: center; font-size:2em;\">{text} </span>"
     def handle_container(self, container: DiffContainer):
+        assert isinstance(container, DiffContainer), "Did not pass a DiffContainer to handle_container"
         if isinstance(container, AddedContainer):
             self.md.new_line("<br></br><br></br>Added")
 
@@ -105,11 +106,15 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
             self.md.new_line("<br></br><br></br>Deleted")
             #self.md.new_line("<summary> Removed </summary>")
             self.handle_raw(container.data)
+        elif isinstance(container, DiffContainer):
+            self.handle_raw(container.data)
         else:
-            self.handle_raw(container)
+            raise Exception(f"Unhandled Container: {type(container)}")
 
-    def handle_raw(self, visitable_list):
+    def handle_raw(self, visitable_list:list[MarkdownVisitable]):
+        assert isinstance(visitable_list, list), "Did not pass a list to handle_raw!"
         for entry in visitable_list:
+            assert isinstance(entry, MarkdownVisitable)
             if isinstance(entry, RegAutoLogger):
                 self.handle_system_auto_logger(entry)
             elif isinstance(entry, RegServices):
@@ -215,6 +220,12 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
 
             elif k == "Security":
                 sec = v.get("Security", b'')
+                if sec is None:
+                    continue
+                if not isinstance(sec, bytes):
+                    continue
+                if len(sec)==0:
+                    continue
                 self.md.new_line(f"{k} : \n```\n{self.get_printable_value(get_sid_string(sec))}\n```")
             elif k =="Methods":
                 self.md.new_line(f"{k} : `{self.get_printable_value(v)}`")

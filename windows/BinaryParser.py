@@ -909,7 +909,7 @@ class Block(object):
             raise OverrunBufferException(o, len(self._buf))
 
         # Yeah, this is ugly
-        h = map(ord, _bin)
+        h = list(map(ord, _bin))
         return "%02x%02x%02x%02x-%02x%02x-%02x%02x-%02x%02x-%02x%02x%02x%02x%02x%02x" % \
             (h[3], h[2], h[1], h[0],
              h[5], h[4],
