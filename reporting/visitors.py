@@ -179,14 +179,13 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
         self.md.new_header(4, self.emphasize_text(f"{service_name} Service"))
         table_column_headers = []
         table_row = []
-        custom_view_headings = ["parameters", "triggerinfo", "security", "methods"]
+        custom_view_headings = ["parameters", "triggerinfo", "security", "methods", ]
 
         # loop to generate summary table
         for k, v in service_data.items():
             if k.lower() in custom_view_headings or v is None:
                 continue
-
-            table_column_headers.append(k)
+            should_add = True
             if k == "RequiredPrivileges":
                 v = f"`{self.get_printable_value(self.convert_privilege_bytes_to_string(v))}`"
             elif k == "ServiceSidType":
@@ -201,9 +200,19 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
                 v = f"`{self.utf8_bytes_to_str(v)}`"
             elif k == "Owners":
                 v = f"`{self.utf8_bytes_to_str(v)}`"
+            elif k == "Defaults":
+                if "FirewallPolicy" in v:
+                    self.handle_firewall_policy(v.get("FirewallPolicy"))
+                    del v["FirewallPolicy"]
+                if len(v) >0:
+                    v = f"`{self.get_printable_value(v)}`"
+                else:
+                    should_add =False
             elif v != None:
                 v = f"`{self.get_printable_value(v)}`"
-            table_row.append(v)
+            if should_add:
+                table_column_headers.append(k)
+                table_row.append(v)
         if len(table_column_headers) != 0:
             # sometimes we don't have a table to show!
             self.md.new_table(len(table_column_headers), 2, table_column_headers+table_row)
@@ -213,12 +222,12 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
                 self.md.new_paragraph()
                 self.handle_service_parameters(v)
                 self.md.new_line("<br></br>")
-            elif k == "TriggerInfo":
+            elif k.lower() == "TriggerInfo".lower():
                 self.md.new_paragraph()
                 self.handle_trigger_infos(v)
                 self.md.new_line("<br></br>")
 
-            elif k == "Security":
+            elif k.lower() == "Security".lower():
                 sec = v.get("Security", b'')
                 if sec is None:
                     continue
@@ -227,20 +236,111 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
                 if len(sec)==0:
                     continue
                 self.md.new_line(f"{k} : \n```\n{self.get_printable_value(get_sid_string(sec))}\n```")
-            elif k =="Methods":
+            elif k.lower() =="Methods".lower():
                 self.md.new_line(f"{k} : `{self.get_printable_value(v)}`")
+            elif k.lower() =="FirewallPolicy".lower():
+                print("WFAFA")
+                self.md.new_line(f"{k} : `{self.get_printable_value(v)}`")
+                self.handle_firewall_policy(v)
+                #self.md.new_line(f"{k} : `{self.get_printable_value(v)}`")
             # elif k == "Defaults"
 
         self.md.new_line("\n---\n<br></br>")
+
+
+    def handle_firewall_policy(self, fp):
+        from windows.ipfw import FirewallRuleString
+
+        col_hdrs = set()
+        frs  =fp.get("FirewallRules", None)
+        if frs is None:
+            print(fp)
+            raise Exception("No FirewallRules!")
+        self.md.new_header(5, "Firewall Rules")
+        
+        rules = {}
+        for id, rule in  frs.items():
+            rules[id] = FirewallRuleString(rule).parse()
+            for c in rules[id]:
+                col_hdrs.add(c)
+
+
+        real_column_headers = ["ID"] + list(col_hdrs)
+        data = []
+        for id, rule in rules.items():
+            init_dict = {key: "" for key in real_column_headers}
+            init_dict["ID"] = id
+            for k, v in rule.items():
+                init_dict[k] = f"`{self.get_printable_value(v)}`"
+            data.append(init_dict)
+
+        d = []
+        for e in data:
+            for k, val in e.items():
+                d.append(val)
+
+        self.md.new_table(len(real_column_headers), (len(
+            rules.keys()) + 1), list(real_column_headers)+list(d))
+        
+
+
+        rss =  fp.get("RestrictedServices", None)
+        if rss is None:
+            return
+        
+        statics = rss.get("Static", None)
+        if statics is None:
+            print(rss)
+            raise Exception("please support more fw rule types")
+
+        systems = statics.get("System", None)
+        if systems is None:
+            print(statics)
+            raise Exception("please support more fw rule types")
+
+
+        
+        self.md.new_header(5, "Restricted Services Static System Firewall Rules")
+        frs = systems
+        rules = {}
+        for id, rule in  frs.items():
+            rules[id] = FirewallRuleString(rule).parse()
+            for c in rules[id]:
+                col_hdrs.add(c)
+
+
+        real_column_headers = ["ID"] + list(col_hdrs)
+        data = []
+        for id, rule in rules.items():
+            init_dict = {key: "" for key in real_column_headers}
+            init_dict["ID"] = id
+            for k, v in rule.items():
+                init_dict[k] = f"`{self.get_printable_value(v)}`"
+            data.append(init_dict)
+
+        d = []
+        for e in data:
+            for k, val in e.items():
+                d.append(val)
+
+        self.md.new_table(len(real_column_headers), (len(
+            rules.keys()) + 1), list(real_column_headers)+list(d))
+        
+
+
+        
 
     def handle_service_parameters(self, parameters):
         self.md.new_header(5, "Service Parameters")
         for param_name, value in parameters.items():
             if param_name == "Policy":
                 self.handle_service_parameters_policy(value)
+            elif param_name == "FirewallPolicy":
+                self.handle_firewall_policy(value)
             else:
                 self.md.new_line(
                     f"{param_name} : `{self.get_printable_value(value)}`")
+                
 
     def handle_service_parameters_policy(self, policy: dict):
         self.md.new_line("Policy")
@@ -265,7 +365,6 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
     def handle_trigger_infos(self, triggers):
 
         self.md.new_header(5, "Service Triggers")
-        self
         col_headers = ["ID", "Action", "GUID", "Type"]
         data = []
         for enum, fields in triggers.items():
