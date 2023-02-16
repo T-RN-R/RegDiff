@@ -296,7 +296,6 @@ class ObjectACE(ACE, Nestable):
     def __len__(self):
         return self.size()
     def pretty_string(self, indent, indent_level):
-        print(self.__class__.__name__)
         idt = "  "*indent*indent_level
         output=f"{idt}Object ACE:\n"
         idt+="  "

@@ -361,9 +361,9 @@ def cli():
         "--json-file", type=str, help="Output file for the JSON dump", required=False)
     diff_parser.add_argument("--report-file", type=str,
                              help="Output file for the markdown report")
-    diff_parser.add_argument('src_hive', type=str,
+    diff_parser.add_argument('src', type=str,
                              help='Source registry file to diff ')
-    diff_parser.add_argument('dst_hive', type=str,
+    diff_parser.add_argument('dst', type=str,
                              help='Destination registry file to diff ')
     diff_parser.set_defaults(func=cli_diff)
 
