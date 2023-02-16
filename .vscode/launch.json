@@ -5,11 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Test Reg",
+            "name": "Python: Test Single Hive Full",
             "type": "python",
             "request": "launch",
             "program": "r.py",
-            "args" : ["--output_file", "SYSTEM.md", "--root_dir", "Z:\\", "d16a1cca-3eee-41d9-9952-5f04f75b40a7", "1c103928-9a3d-4d59-bde1-9a01e428d506"],
+            "args": [
+                "hive",
+                "--report-title",
+                "Win10 (21H2 19044.1706)",
+                "--report-file",
+                "SYSTEM_WIN10_21H2_Pro_FULL_DUMP.md",
+                "--hive_type",
+                "SYSTEM",
+                "Z:\\804bab7d-450d-4a8d-a315-52601d77d322\\Professional\\Windows\\System32\\config\\SYSTEM",
+            ],
             "console": "integratedTerminal",
             "justMyCode": true
         },
@@ -18,7 +27,17 @@
             "type": "python",
             "request": "launch",
             "program": "r.py",
-            "args" : ["--output_file", "SYSTEM_WIDE.md", "--root_dir", "Z:\\", "50f703d5-26d3-4f4a-930f-3db18b3a322b", "804bab7d-450d-4a8d-a315-52601d77d322"],
+            "args": [
+                "diff",
+                "--report-title",
+                "Win10 (21H2 19044.1706)",
+                "--report-file",
+                "SYSTEM_WIN10_21H2_Pro_Win11_Diff.md",
+                "--hive_type",
+                "SYSTEM",
+                "Z:\\804bab7d-450d-4a8d-a315-52601d77d322\\Professional\\Windows\\System32\\config\\SYSTEM",
+                "Z:\\348cc840-2674-4338-96eb-39824bfa447b\\Professional\\Windows\\System32\\config\\SYSTEM"
+            ],
             "console": "integratedTerminal",
             "justMyCode": true
         },
@@ -27,7 +46,17 @@
             "type": "python",
             "request": "launch",
             "program": "r.py",
-            "args" : ["--output_file", "SYSTEM_WIN11.md", "--root_dir", "Z:\\", "804bab7d-450d-4a8d-a315-52601d77d322", "348cc840-2674-4338-96eb-39824bfa447b", "--title", "Win10 (21H2 19044.1706) -> Win11 (22000.1100)"],
+            "args": [
+                "builddiff",
+                "--report-title",
+                "Win10 (21H2 19044.1706) -> Win11 (22000.1100)",
+                "--report-file",
+                "SYSTEM_WIN11.md",
+                "--root_dir",
+                "Z:\\",
+                "804bab7d-450d-4a8d-a315-52601d77d322",
+                "348cc840-2674-4338-96eb-39824bfa447b"
+            ],
             "console": "integratedTerminal",
             "justMyCode": true
         }

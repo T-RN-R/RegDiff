@@ -105,6 +105,8 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
             self.md.new_line("<br></br><br></br>Deleted")
             #self.md.new_line("<summary> Removed </summary>")
             self.handle_raw(container.data)
+        else:
+            self.handle_raw(container)
 
     def handle_raw(self, visitable_list):
         for entry in visitable_list:
@@ -272,7 +274,7 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
         for enum, fields in triggers.items():
             init_dict = {key: "" for key in col_headers}
             init_dict["ID"] = enum
-            for k, v in fields.copy().items():
+            for k, v in fields.items():
                 if k not in fields:
                     raise Exception(f"Unhandled service triggerInfo field {k}")
                 if k == "Type":
