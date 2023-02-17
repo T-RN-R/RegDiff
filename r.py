@@ -1,7 +1,7 @@
 from enum import Enum
 import pprint
 import argparse
-from windows import RegHiveDictView
+from windows.registry import RegHiveDictView
 import pyregf
 import os
 from mdutils.tools.Table import Table
@@ -9,7 +9,7 @@ from mdutils.mdutils import MdUtils
 import pathlib
 import functools
 from reporting.serializers import SystemHiveSerializer
-from reporting.visitors import CoreReportMarkdownVisitor
+from reporting.visitors.visitors import CoreReportMarkdownVisitor
 
 import struct
 
