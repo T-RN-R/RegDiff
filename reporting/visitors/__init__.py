@@ -1,7 +1,9 @@
 from mdutils.mdutils import MdUtils
 
 
-
+class Visitor():
+    def visit(self):
+        pass
 class MarkdownVisitor():
     def get_markdown(self, md:MdUtils, data:list) -> MdUtils:
         raise Exception("Please Implement Custom Markdown Visitor")

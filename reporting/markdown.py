@@ -8,3 +8,4 @@ def table_helper(md: MdUtils, headers, rows):
     num_rows = int(len(rows)/len(headers)) + 1
     table = headers+rows
     md.new_table(num_cols, num_rows, table)
+    return md

@@ -22,134 +22,103 @@ Table of contents
 		* [<span style="text-align: center; font-size:2em;">Services </span>](#span-styletext-align-center-font-size2emservices-span)
 			* [<span style="text-align: center; font-size:2em;">ACPI Service </span>](#span-styletext-align-center-font-size2emacpi-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Appinfo Service </span>](#span-styletext-align-center-font-size2emappinfo-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">AppleSSD Service </span>](#span-styletext-align-center-font-size2emapplessd-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">BFE Service </span>](#span-styletext-align-center-font-size2embfe-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">cbdhsvc Service </span>](#span-styletext-align-center-font-size2emcbdhsvc-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">CldFlt Service </span>](#span-styletext-align-center-font-size2emcldflt-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">dcsvc Service </span>](#span-styletext-align-center-font-size2emdcsvc-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">DeviceInstall Service </span>](#span-styletext-align-center-font-size2emdeviceinstall-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">disk Service </span>](#span-styletext-align-center-font-size2emdisk-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Dnscache Service </span>](#span-styletext-align-center-font-size2emdnscache-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">EapHost Service </span>](#span-styletext-align-center-font-size2emeaphost-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">ebdrv0 Service </span>](#span-styletext-align-center-font-size2emebdrv0-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">EhStorClass Service </span>](#span-styletext-align-center-font-size2emehstorclass-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">EventLog Service </span>](#span-styletext-align-center-font-size2emeventlog-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">ExecutionContext Service </span>](#span-styletext-align-center-font-size2emexecutioncontext-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">FrameServerMonitor Service </span>](#span-styletext-align-center-font-size2emframeservermonitor-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">fvevol Service </span>](#span-styletext-align-center-font-size2emfvevol-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">hidspi Service </span>](#span-styletext-align-center-font-size2emhidspi-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">HidSpiCx Service </span>](#span-styletext-align-center-font-size2emhidspicx-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Hsp Service </span>](#span-styletext-align-center-font-size2emhsp-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">hvservice Service </span>](#span-styletext-align-center-font-size2emhvservice-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">IntelPMT Service </span>](#span-styletext-align-center-font-size2emintelpmt-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">iorate Service </span>](#span-styletext-align-center-font-size2emiorate-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">lfsvc Service </span>](#span-styletext-align-center-font-size2emlfsvc-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">McpManagementService Service </span>](#span-styletext-align-center-font-size2emmcpmanagementservice-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">mpi3drvi Service </span>](#span-styletext-align-center-font-size2emmpi3drvi-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">NDIS Service </span>](#span-styletext-align-center-font-size2emndis-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">NDKPerf Service </span>](#span-styletext-align-center-font-size2emndkperf-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">NPSMSvc Service </span>](#span-styletext-align-center-font-size2emnpsmsvc-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">nvmedisk Service </span>](#span-styletext-align-center-font-size2emnvmedisk-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">P9NP Service </span>](#span-styletext-align-center-font-size2emp9np-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">P9Rdr Service </span>](#span-styletext-align-center-font-size2emp9rdr-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">P9RdrService Service </span>](#span-styletext-align-center-font-size2emp9rdrservice-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">partmgr Service </span>](#span-styletext-align-center-font-size2empartmgr-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">PcaSvc Service </span>](#span-styletext-align-center-font-size2empcasvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">pci Service </span>](#span-styletext-align-center-font-size2empci-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">PenService Service </span>](#span-styletext-align-center-font-size2empenservice-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
@@ -157,69 +126,54 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">PerfDisk Service </span>](#span-styletext-align-center-font-size2emperfdisk-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">PerfNet Service </span>](#span-styletext-align-center-font-size2emperfnet-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">PerfOS Service </span>](#span-styletext-align-center-font-size2emperfos-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">PerfProc Service </span>](#span-styletext-align-center-font-size2emperfproc-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">PrintWorkflowUserSvc Service </span>](#span-styletext-align-center-font-size2emprintworkflowusersvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">PRM Service </span>](#span-styletext-align-center-font-size2emprm-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">RasMan Service </span>](#span-styletext-align-center-font-size2emrasman-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">rdyboost Service </span>](#span-styletext-align-center-font-size2emrdyboost-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">RemoteAccess Service </span>](#span-styletext-align-center-font-size2emremoteaccess-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">RetailDemo Service </span>](#span-styletext-align-center-font-size2emretaildemo-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">SecurityHealthService Service </span>](#span-styletext-align-center-font-size2emsecurityhealthservice-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">SensorService Service </span>](#span-styletext-align-center-font-size2emsensorservice-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">SNMPTrap Service </span>](#span-styletext-align-center-font-size2emsnmptrap-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">StiSvc Service </span>](#span-styletext-align-center-font-size2emstisvc-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">stornvme Service </span>](#span-styletext-align-center-font-size2emstornvme-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">TapiSrv Service </span>](#span-styletext-align-center-font-size2emtapisrv-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">TermService Service </span>](#span-styletext-align-center-font-size2emtermservice-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">TPM Service </span>](#span-styletext-align-center-font-size2emtpm-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">tzautoupdate Service </span>](#span-styletext-align-center-font-size2emtzautoupdate-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
@@ -227,39 +181,29 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">UGatherer Service </span>](#span-styletext-align-center-font-size2emugatherer-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">UGTHRSVC Service </span>](#span-styletext-align-center-font-size2emugthrsvc-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Usb4DeviceRouter Service </span>](#span-styletext-align-center-font-size2emusb4devicerouter-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Usb4HostRouter Service </span>](#span-styletext-align-center-font-size2emusb4hostrouter-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">usbhub Service </span>](#span-styletext-align-center-font-size2emusbhub-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">volmgr Service </span>](#span-styletext-align-center-font-size2emvolmgr-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">volsnap Service </span>](#span-styletext-align-center-font-size2emvolsnap-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">volume Service </span>](#span-styletext-align-center-font-size2emvolume-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">WifiCx Service </span>](#span-styletext-align-center-font-size2emwificx-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">XblGameSave Service </span>](#span-styletext-align-center-font-size2emxblgamesave-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 		* [WMI AutoLoggers](#wmi-autologgers)
 			* [DataMarket](#datamarket)
 			* [EventLog-Application](#eventlog-application)
@@ -275,13 +219,10 @@ Table of contents
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">BthEnum Service </span>](#span-styletext-align-center-font-size2embthenum-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">BthLEEnum Service </span>](#span-styletext-align-center-font-size2embthleenum-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">BTHPORT Service </span>](#span-styletext-align-center-font-size2embthport-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">dmwappushservice Service </span>](#span-styletext-align-center-font-size2emdmwappushservice-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
@@ -289,53 +230,41 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">Eaphost Service </span>](#span-styletext-align-center-font-size2emeaphost-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">EventLog Service </span>](#span-styletext-align-center-font-size2emeventlog-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">FrameServer Service </span>](#span-styletext-align-center-font-size2emframeserver-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">HomeGroupListener Service </span>](#span-styletext-align-center-font-size2emhomegrouplistener-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">HomeGroupProvider Service </span>](#span-styletext-align-center-font-size2emhomegroupprovider-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">hvservice Service </span>](#span-styletext-align-center-font-size2emhvservice-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Lsa Service </span>](#span-styletext-align-center-font-size2emlsa-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">LSI_SSS Service </span>](#span-styletext-align-center-font-size2emlsi_sss-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">megasas Service </span>](#span-styletext-align-center-font-size2emmegasas-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">mshidkmdf Service </span>](#span-styletext-align-center-font-size2emmshidkmdf-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">MSSCNTRS Service </span>](#span-styletext-align-center-font-size2emmsscntrs-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">NlaSvc Service </span>](#span-styletext-align-center-font-size2emnlasvc-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">RFCOMM Service </span>](#span-styletext-align-center-font-size2emrfcomm-service-span)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">SensorService Service </span>](#span-styletext-align-center-font-size2emsensorservice-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
@@ -344,31 +273,24 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Firewall Rules](#firewall-rules)
 				* [Restricted Services Static Firewall Rules](#restricted-services-static-firewall-rules)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">SNMPTRAP Service </span>](#span-styletext-align-center-font-size2emsnmptrap-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">stisvc Service </span>](#span-styletext-align-center-font-size2emstisvc-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Synth3dVsc Service </span>](#span-styletext-align-center-font-size2emsynth3dvsc-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">TapiSrv Service </span>](#span-styletext-align-center-font-size2emtapisrv-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Telemetry Service </span>](#span-styletext-align-center-font-size2emtelemetry-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">wcnfs Service </span>](#span-styletext-align-center-font-size2emwcnfs-service-span)
 				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
-				* [Service Triggers](#service-triggers)
 
 # Professional
 
@@ -528,13 +450,7 @@ Start : `0x01`
 PnpAsyncNewDevices : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -549,9 +465,9 @@ PnpAsyncNewDevices : `0x01`
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`0f738e20-73c0-4ca8-aa6a-8dfef545fea8`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`0f738e20-73c0-4ca8-aa6a-8dfef545fea8`|
   
 <br></br>  
 
@@ -574,13 +490,7 @@ Device : `{'MaxTranLenInPages': 64}`
 PnpInterface : `{'5': 1}`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -600,13 +510,7 @@ ProviderContext
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -624,13 +528,7 @@ ProviderContext
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -643,13 +541,7 @@ ProviderContext
 USMsgTimeoutMillis : `0x3e8`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -674,10 +566,10 @@ ServiceMain : `ServiceMain`
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`59beb977-d037-48f4-af74-ca075493a523`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`0a0db614-e9fb-48cf-9143-7ae718ff2c83`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`59beb977-d037-48f4-af74-ca075493a523`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`0a0db614-e9fb-48cf-9143-7ae718ff2c83`|
   
 <br></br>  
 
@@ -692,13 +584,7 @@ ServiceMain : `ServiceMain`
 DeviceInstallMode : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -711,13 +597,7 @@ DeviceInstallMode : `0x01`
 StorageSupportedFeatures : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -730,13 +610,7 @@ StorageSupportedFeatures : `0x01`
 DohWellKnownServers : `{'1.0.0.1': {'Template': 'https://cloudflare-dns.com/dns-query'}, '1.1.1.1': {'Template': 'https://cloudflare-dns.com/dns-query'}, '149.112.112.112': {'Template': 'https://dns.quad9.net/dns-query'}, '2001:4860:4860::8844': {'Template': 'https://dns.google/dns-query'}, '2001:4860:4860::8888': {'Template': 'https://dns.google/dns-query'}, '2606:4700:4700::1001': {'Template': 'https://cloudflare-dns.com/dns-query'}, '2606:4700:4700::1111': {'Template': 'https://cloudflare-dns.com/dns-query'}, '2620:fe::fe': {'Template': 'https://dns.quad9.net/dns-query'}, '2620:fe::fe:9': {'Template': 'https://dns.quad9.net/dns-query'}, '8.8.4.4': {'Template': 'https://dns.google/dns-query'}, '8.8.8.8': {'Template': 'https://dns.google/dns-query'}, '9.9.9.9': {'Template': 'https://dns.quad9.net/dns-query'}}`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -758,14 +632,8 @@ ServiceDllUnloadOnStop : `0x01`
 EapProvPlugin : `{'(Default)': '%SystemRoot%\\System32\\eapprovp.dll', 'DllEntryPoint': 'EapProvPlugGetInfo'}`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
-`<windows.registry.services.SystemHiveServiceMethod object at 0x000001A08B0D7150>`  
+`<windows.registry.services.SystemHiveServiceMethod object at 0x0000028515397950>`  
 
 ---
 <br></br>
@@ -783,13 +651,7 @@ EapProvPlugin : `{'(Default)': '%SystemRoot%\\System32\\eapprovp.dll', 'DllEntry
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -802,13 +664,7 @@ EapProvPlugin : `{'(Default)': '%SystemRoot%\\System32\\eapprovp.dll', 'DllEntry
 StorageSupportedFeatures : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -826,13 +682,7 @@ StorageSupportedFeatures : `0x01`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -850,13 +700,7 @@ StorageSupportedFeatures : `0x01`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -877,14 +721,14 @@ StorageSupportedFeatures : `0x01`
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`BE0D95BA-21A5-4A5F-A1F0-9ADA84AC1144`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 26 1d 90 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`35 21 bc a3 2e 0f 8b 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`773732e5-76f9-5b4f-9b55-b94699c46e44`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`d752e524-2365-f747-a647-d3465bf1f5ca`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 b8 bc a3 3d 01 c6 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`BE0D95BA-21A5-4A5F-A1F0-9ADA84AC1144`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 26 1d 90 41`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`35 21 bc a3 2e 0f 8b 41`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`773732e5-76f9-5b4f-9b55-b94699c46e44`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`d752e524-2365-f747-a647-d3465bf1f5ca`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 b8 bc a3 3d 01 c6 41`|
   
 <br></br>  
 
@@ -899,13 +743,7 @@ StorageSupportedFeatures : `0x01`
 StorageSupportedFeatures : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -923,13 +761,7 @@ StorageSupportedFeatures : `0x01`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -947,13 +779,7 @@ StorageSupportedFeatures : `0x01`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -972,13 +798,7 @@ StorageSupportedFeatures : `0x01`
 Wdf : `{'KmdfLibraryVersion': '1.15'}`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -996,13 +816,7 @@ Wdf : `{'KmdfLibraryVersion': '1.15'}`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1020,13 +834,7 @@ Wdf : `{'KmdfLibraryVersion': '1.15'}`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1039,13 +847,7 @@ Wdf : `{'KmdfLibraryVersion': '1.15'}`
 StorageSupportedFeatures : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1063,13 +865,7 @@ StorageSupportedFeatures : `0x01`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1089,13 +885,7 @@ ServiceDll : `%SystemRoot%\System32\McpManagementService.dll`
 ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1116,13 +906,7 @@ Device : `{'DriverParameter': 'PlaceHolder=0;', 'EnableQueryAccessAlignment': 1}
 PnpInterface : `{'5': 1}`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1135,13 +919,7 @@ PnpInterface : `{'5': 1}`
 Reserved : `{'ExecutionContextProfiles': {'Balanced': {'DpcWatchdogTimerThreshold': 80, 'Flags': 0, 'MaxPacketsReceiveAtDispatch': 64, 'MaxPacketsReceiveAtPassive': 64, 'MaxPacketsReceiveCompleteAtDispatch': 64, 'MaxPacketsReceiveCompleteAtPassive': 64, 'MaxPacketsSendAtDispatch': 64, 'MaxPacketsSendAtPassive': 64, 'MaxPacketsSendCompleteAtDispatch': 64, 'MaxPacketsSendCompleteAtPassive': 64, 'MaxTimeAtDispatch': 0, 'WorkerThreadPriority': 10}}}`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1159,13 +937,7 @@ Reserved : `{'ExecutionContextProfiles': {'Balanced': {'DpcWatchdogTimerThreshol
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1185,13 +957,7 @@ ServiceDll : `%SystemRoot%\System32\npsm.dll`
 ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 Security: : 
 ```
 Owner: S-1-0-18
@@ -1247,13 +1013,7 @@ SACL:
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1271,13 +1031,7 @@ SACL:
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1295,13 +1049,7 @@ SACL:
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1322,9 +1070,9 @@ SACL:
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 54 1e c6 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 54 1e c6 41`|
   
 <br></br>  
 
@@ -1339,13 +1087,7 @@ SACL:
 StorageSupportedFeatures : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1360,11 +1102,11 @@ StorageSupportedFeatures : `0x01`
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 d0 be a3 2e 0b 8a 0d`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 2e 07 c6 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 2e 03 96 15`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 d0 be a3 2e 0b 8a 0d`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 2e 07 c6 41`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 2e 03 96 15`|
   
 <br></br>  
 
@@ -1379,13 +1121,7 @@ StorageSupportedFeatures : `0x01`
 PnpAsyncNewDevices : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1409,9 +1145,9 @@ ServiceMain : `ServiceMain`
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|Data1|Data2|Data3|DataType0|DataType1|DataType2|DataType3|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`b2551e4d-6ff1-cf11-88cb-001111000030`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|`HID_DEVICE_UP:000D_U:0001`|`HID_DEVICE_UP:000D_U:0002`|`HID_DEVICE_UP:000D_U:0003`|`HID_DEVICE_UP:000D_U:000F`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|Parameter 1|Parameter 2|Parameter 3|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`b2551e4d-6ff1-cf11-88cb-001111000030`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|`HID_DEVICE_UP:000D_U:0001`|`HID_DEVICE_UP:000D_U:0002`|`HID_DEVICE_UP:000D_U:0003`|`HID_DEVICE_UP:000D_U:000F`|
   
 <br></br>  
 
@@ -1431,13 +1167,7 @@ ServiceMain : `ServiceMain`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1455,13 +1185,7 @@ ServiceMain : `ServiceMain`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1479,13 +1203,7 @@ ServiceMain : `ServiceMain`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1503,13 +1221,7 @@ ServiceMain : `ServiceMain`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1524,9 +1236,9 @@ ServiceMain : `ServiceMain`
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 3d 0a 8b 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 3d 0a 8b 41`|
   
 <br></br>  
 
@@ -1546,13 +1258,7 @@ ServiceMain : `ServiceMain`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1570,13 +1276,7 @@ ServiceMain : `ServiceMain`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1589,13 +1289,7 @@ ServiceMain : `ServiceMain`
 StorageSupportedFeatures : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1613,13 +1307,7 @@ StorageSupportedFeatures : `0x01`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1637,13 +1325,7 @@ StorageSupportedFeatures : `0x01`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1655,13 +1337,7 @@ StorageSupportedFeatures : `0x01`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 Security: : 
 ```
 Owner: S-1-0-18
@@ -1715,12 +1391,12 @@ Sensors : `{'{934F17E7-42EF-470B-BE7C-1AD0983C9E6C}': {'RequiredHingeJointsCount
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`D09BDEB5-6171-4A34-BFE2-06FA82652568:8489BE1C-80A4-48BC-901A-AA91BD827A7C`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`DB2CE634-191D-42AF-A28C-16BE97924CA7`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|6|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`97BE9507-17DA-4999-87D7-66C0B2D83CC7`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|7|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`6328DCC4-1658-4133-8062-A9943DAC2093`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`D09BDEB5-6171-4A34-BFE2-06FA82652568:8489BE1C-80A4-48BC-901A-AA91BD827A7C`|
+|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`DB2CE634-191D-42AF-A28C-16BE97924CA7`|
+|6|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`97BE9507-17DA-4999-87D7-66C0B2D83CC7`|
+|7|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`6328DCC4-1658-4133-8062-A9943DAC2093`|
   
 <br></br>  
 
@@ -1740,13 +1416,7 @@ Sensors : `{'{934F17E7-42EF-470B-BE7C-1AD0983C9E6C}': {'RequiredHingeJointsCount
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1823,13 +1493,7 @@ SACL:
 StorageSupportedFeatures : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1847,13 +1511,7 @@ StorageSupportedFeatures : `0x01`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1871,13 +1529,7 @@ StorageSupportedFeatures : `0x01`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1890,13 +1542,7 @@ StorageSupportedFeatures : `0x01`
 KsrGuid : `{F141DC89-3D00-450A-B2D2-AD995267F8FC}`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1917,11 +1563,11 @@ KsrGuid : `{F141DC89-3D00-450A-B2D2-AD995267F8FC}`
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`35 58 bc a3 3e 06 83 0d`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 30 bc a3 2e 0b 8a 0d`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|6|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 d0 be a3 2e 0b 8a 0d`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`35 58 bc a3 3e 06 83 0d`|
+|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 30 bc a3 2e 0b 8a 0d`|
+|6|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 d0 be a3 2e 0b 8a 0d`|
   
 <br></br>  
 
@@ -1941,13 +1587,7 @@ KsrGuid : `{F141DC89-3D00-450A-B2D2-AD995267F8FC}`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1965,13 +1605,7 @@ KsrGuid : `{F141DC89-3D00-450A-B2D2-AD995267F8FC}`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -1990,13 +1624,7 @@ KsrGuid : `{F141DC89-3D00-450A-B2D2-AD995267F8FC}`
 ForceLogsInMiniDump : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2016,13 +1644,7 @@ DmaRemappingCompatible : `0x01`
 ForceLogsInMiniDump : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2040,13 +1662,7 @@ ForceLogsInMiniDump : `0x01`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2059,13 +1675,7 @@ ForceLogsInMiniDump : `0x01`
 StorageSupportedFeatures : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2078,13 +1688,7 @@ StorageSupportedFeatures : `0x01`
 StorageSupportedFeatures : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2097,13 +1701,7 @@ StorageSupportedFeatures : `0x01`
 StorageSupportedFeatures : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2121,13 +1719,7 @@ StorageSupportedFeatures : `0x01`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2140,13 +1732,7 @@ StorageSupportedFeatures : `0x01`
 FeatureLevel : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>  
@@ -2281,9 +1867,9 @@ Start : `0x00`
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 68 bc a3 2f 02 92 09`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 68 bc a3 2f 02 92 09`|
   
 <br></br>  
 
@@ -2308,13 +1894,7 @@ PM_ServicesAllowedList : `00`
 PM_RequireRestrictedMode : `0x00`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2337,13 +1917,7 @@ PM_ServicesAllowedList : `00`
 PM_RequireRestrictedMode : `0x00`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2366,13 +1940,7 @@ PM_ServicesAllowedList : `00`
 PM_RequireRestrictedMode : `0x00`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2393,10 +1961,10 @@ PM_RequireRestrictedMode : `0x00`
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`0a0db614-e9fb-48cf-9143-7ae718ff2c83`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 90 bc a3 28 00 92 13`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`0a0db614-e9fb-48cf-9143-7ae718ff2c83`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 90 bc a3 28 00 92 13`|
   
 <br></br>  
 
@@ -2420,14 +1988,8 @@ ServiceDllUnloadOnStop : `0x01`
 EapProvPlugin : `{'(Default)': '%SystemRoot%\\System32\\eapprovp.dll', 'DllEntryPoint': 'EapProvPlugGetInfo'}`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
-`<windows.registry.services.SystemHiveServiceMethod object at 0x000001A08B0F8250>`  
+`<windows.registry.services.SystemHiveServiceMethod object at 0x00000285153BA4D0>`  
 
 ---
 <br></br>
@@ -2445,13 +2007,7 @@ EapProvPlugin : `{'(Default)': '%SystemRoot%\\System32\\eapprovp.dll', 'DllEntry
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2466,11 +2022,11 @@ EapProvPlugin : `{'(Default)': '%SystemRoot%\\System32\\eapprovp.dll', 'DllEntry
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`35 21 bc a3 2e 0f 8b 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`773732e5-76f9-5b4f-9b55-b94699c46e44`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`d752e524-2365-f747-a647-d3465bf1f5ca`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`35 21 bc a3 2e 0f 8b 41`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`773732e5-76f9-5b4f-9b55-b94699c46e44`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`d752e524-2365-f747-a647-d3465bf1f5ca`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
   
 <br></br>  
 
@@ -2493,13 +2049,7 @@ ServiceDllUnloadOnStop : `0x01`
 ServiceMain : `ListenerServiceMain`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2520,13 +2070,7 @@ ServiceDllUnloadOnStop : `0x01`
 ServiceMain : `ProviderServiceMain`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2544,13 +2088,7 @@ ServiceMain : `ProviderServiceMain`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2568,13 +2106,7 @@ ServiceMain : `ProviderServiceMain`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2595,13 +2127,7 @@ Device : `{'DriverParameter': 'PlaceHolder=0;', 'EnableQueryAccessAlignment': 1}
 PnpInterface : `{'5': 1}`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2623,13 +2149,7 @@ Device : `{'DriverParameter': 'nobusywait=1', 'EnableQueryAccessAlignment': 1}`
 PnpInterface : `{'5': 1}`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2647,13 +2167,7 @@ PnpInterface : `{'5': 1}`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2671,13 +2185,7 @@ PnpInterface : `{'5': 1}`
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2696,13 +2204,7 @@ PnpInterface : `{'5': 1}`
 ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 Security: : 
 ```
 Owner: S-1-0-18
@@ -2757,13 +2259,7 @@ PM_ServicesAllowedList : `00`
 PM_RequireRestrictedMode : `0x00`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2779,11 +2275,11 @@ Sensors : `{'{0D49D945-FA83-4630-A22C-01387F906DE6}': {'PersistentUniqueId': '{9
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|1||||`D09BDEB5-6171-4A34-BFE2-06FA82652568:8489BE1C-80A4-48BC-901A-AA91BD827A7C`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2||||`DB2CE634-191D-42AF-A28C-16BE97924CA7`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|3||||`97BE9507-17DA-4999-87D7-66C0B2D83CC7`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|1||||`D09BDEB5-6171-4A34-BFE2-06FA82652568:8489BE1C-80A4-48BC-901A-AA91BD827A7C`|
+|2||||`DB2CE634-191D-42AF-A28C-16BE97924CA7`|
+|3||||`97BE9507-17DA-4999-87D7-66C0B2D83CC7`|
   
 <br></br>  
 
@@ -2794,12 +2290,12 @@ Sensors : `{'{0D49D945-FA83-4630-A22C-01387F906DE6}': {'PersistentUniqueId': '{9
 Default Firewall Policy
 ##### Firewall Rules
 
-|Rule Name|RA6|Desc|App|RPort|Version|RA4|LPort|Dir|Action|Active|EmbedCtxt|Profile|Name|Svc|Protocol|
+|Rule Name|RPort|Protocol|Action|Dir|RA4|RA6|App|Svc|Profile|Active|Version|Name|Desc|LPort|EmbedCtxt|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-In|`LocalSubnet`|`@%systemroot%\system32\provsvc.dll,-201`|`%systemroot%\system32\svchost.exe`||`v2.30`|`LocalSubnet`|`3587`|`In`|`Allow`|`FALSE`|`@%systemroot%\system32\provsvc.dll,-202`|`Private`|`@%systemroot%\system32\provsvc.dll,-200`|`p2psvc`|`6`|
-|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-Out|`LocalSubnet`|`@%systemroot%\system32\provsvc.dll,-204`|`%systemroot%\system32\svchost.exe`|`3587`|`v2.30`|`LocalSubnet`||`Out`|`Allow`|`FALSE`|`@%systemroot%\system32\provsvc.dll,-202`|`Private`|`@%systemroot%\system32\provsvc.dll,-203`|`p2psvc`|`6`|
-|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-In|`LocalSubnet`|`@%systemroot%\system32\provsvc.dll,-206`|`%systemroot%\system32\svchost.exe`||`v2.30`|`LocalSubnet`|`3540`|`In`|`Allow`|`FALSE`|`@%systemroot%\system32\provsvc.dll,-202`|`Private`|`@%systemroot%\system32\provsvc.dll,-205`|`pnrpsvc`|`17`|
-|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-Out|`LocalSubnet`|`@%systemroot%\system32\provsvc.dll,-208`|`%systemroot%\system32\svchost.exe`|`3540`|`v2.30`|`LocalSubnet`||`Out`|`Allow`|`FALSE`|`@%systemroot%\system32\provsvc.dll,-202`|`Private`|`@%systemroot%\system32\provsvc.dll,-207`|`pnrpsvc`|`17`|
+|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-In||`6`|`Allow`|`In`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`p2psvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-200`|`@%systemroot%\system32\provsvc.dll,-201`|`3587`|`@%systemroot%\system32\provsvc.dll,-202`|
+|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-Out|`3587`|`6`|`Allow`|`Out`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`p2psvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-203`|`@%systemroot%\system32\provsvc.dll,-204`||`@%systemroot%\system32\provsvc.dll,-202`|
+|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-In||`17`|`Allow`|`In`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`pnrpsvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-205`|`@%systemroot%\system32\provsvc.dll,-206`|`3540`|`@%systemroot%\system32\provsvc.dll,-202`|
+|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-Out|`3540`|`17`|`Allow`|`Out`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`pnrpsvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-207`|`@%systemroot%\system32\provsvc.dll,-208`||`@%systemroot%\system32\provsvc.dll,-202`|
 
 
 
@@ -2807,36 +2303,30 @@ Default Firewall Policy
 
 ##### Firewall Rules
 
-|Rule Name|RA6|Desc|App|RPort|Version|RA4|LPort|Dir|Action|Active|EmbedCtxt|Profile|Name|Svc|Protocol|
+|Rule Name|RPort|Protocol|Action|Dir|RA4|RA6|App|Svc|Profile|Active|Version|Name|Desc|LPort|EmbedCtxt|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-In|`LocalSubnet`|`@%systemroot%\system32\provsvc.dll,-201`|`%systemroot%\system32\svchost.exe`||`v2.30`|`LocalSubnet`|`3587`|`In`|`Allow`|`FALSE`|`@%systemroot%\system32\provsvc.dll,-202`|`Private`|`@%systemroot%\system32\provsvc.dll,-200`|`p2psvc`|`6`|
-|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-Out|`LocalSubnet`|`@%systemroot%\system32\provsvc.dll,-204`|`%systemroot%\system32\svchost.exe`|`3587`|`v2.30`|`LocalSubnet`||`Out`|`Allow`|`FALSE`|`@%systemroot%\system32\provsvc.dll,-202`|`Private`|`@%systemroot%\system32\provsvc.dll,-203`|`p2psvc`|`6`|
-|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-In|`LocalSubnet`|`@%systemroot%\system32\provsvc.dll,-206`|`%systemroot%\system32\svchost.exe`||`v2.30`|`LocalSubnet`|`3540`|`In`|`Allow`|`FALSE`|`@%systemroot%\system32\provsvc.dll,-202`|`Private`|`@%systemroot%\system32\provsvc.dll,-205`|`pnrpsvc`|`17`|
-|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-Out|`LocalSubnet`|`@%systemroot%\system32\provsvc.dll,-208`|`%systemroot%\system32\svchost.exe`|`3540`|`v2.30`|`LocalSubnet`||`Out`|`Allow`|`FALSE`|`@%systemroot%\system32\provsvc.dll,-202`|`Private`|`@%systemroot%\system32\provsvc.dll,-207`|`pnrpsvc`|`17`|
+|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-In||`6`|`Allow`|`In`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`p2psvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-200`|`@%systemroot%\system32\provsvc.dll,-201`|`3587`|`@%systemroot%\system32\provsvc.dll,-202`|
+|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-Out|`3587`|`6`|`Allow`|`Out`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`p2psvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-203`|`@%systemroot%\system32\provsvc.dll,-204`||`@%systemroot%\system32\provsvc.dll,-202`|
+|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-In||`17`|`Allow`|`In`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`pnrpsvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-205`|`@%systemroot%\system32\provsvc.dll,-206`|`3540`|`@%systemroot%\system32\provsvc.dll,-202`|
+|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-Out|`3540`|`17`|`Allow`|`Out`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`pnrpsvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-207`|`@%systemroot%\system32\provsvc.dll,-208`||`@%systemroot%\system32\provsvc.dll,-202`|
 
 ##### Restricted Services Static Firewall Rules
 
-|Rule Name|RPort|App|Version|LPort|Dir|Action|Name|Svc|Protocol|
+|Rule Name|RPort|Protocol|Action|Dir|App|Svc|Name|Version|LPort|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|HomeGroup Allow In||`%SystemRoot%\system32\svchost.exe`|`v2.0`|`3587`|`In`|`Allow`|`Allow Grouping to receive from port 3587`|`HomeGroupProvider`|`6`|
-|HomeGroup Allow In (PRNP)||`%SystemRoot%\system32\svchost.exe`|`v2.0`|`3540`|`In`|`Allow`|`Allow PNRP to receive from port 3540`|`HomeGroupProvider`|`17`|
-|HomeGroup Allow Out|`3587`|`%SystemRoot%\system32\svchost.exe`|`v2.0`||`Out`|`Allow`|`Allow Grouping to send to port 3587`|`HomeGroupProvider`|`6`|
-|HomeGroup Allow Out (PRNP)|`3540`|`%SystemRoot%\system32\svchost.exe`|`v2.0`||`Out`|`Allow`|`Allow PNRP to send from port 3540`|`HomeGroupProvider`|`17`|
-|HomeGroup Block In||`%SystemRoot%\system32\svchost.exe`|`V2.0`||`In`|`Block`|`Block homegroup incoming`|`HomeGroupProvider`||
-|HomeGroup Block Out||`%SystemRoot%\system32\svchost.exe`|`V2.0`||`Out`|`Block`|`Block homegroup outgoing`|`HomeGroupProvider`||
-|HomeGroup Listener Block In||`%SystemRoot%\system32\svchost.exe`|`V2.0`||`In`|`Block`|`Block all incoming`|`HomeGroupListener`||
-|HomeGroup Listener Block Out||`%SystemRoot%\system32\svchost.exe`|`V2.0`||`Out`|`Block`|`Block all outgoing`|`HomeGroupListener`||
-|SettingSyncHost||`%SystemRoot%\system32\settingsynchost.exe`|`V2.0`||`In`|`Block`|`Block IP traffic to SettingSyncHost`|||
+|HomeGroup Allow In||`6`|`Allow`|`In`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupProvider`|`Allow Grouping to receive from port 3587`|`v2.0`|`3587`|
+|HomeGroup Allow In (PRNP)||`17`|`Allow`|`In`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupProvider`|`Allow PNRP to receive from port 3540`|`v2.0`|`3540`|
+|HomeGroup Allow Out|`3587`|`6`|`Allow`|`Out`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupProvider`|`Allow Grouping to send to port 3587`|`v2.0`||
+|HomeGroup Allow Out (PRNP)|`3540`|`17`|`Allow`|`Out`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupProvider`|`Allow PNRP to send from port 3540`|`v2.0`||
+|HomeGroup Block In|||`Block`|`In`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupProvider`|`Block homegroup incoming`|`V2.0`||
+|HomeGroup Block Out|||`Block`|`Out`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupProvider`|`Block homegroup outgoing`|`V2.0`||
+|HomeGroup Listener Block In|||`Block`|`In`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupListener`|`Block all incoming`|`V2.0`||
+|HomeGroup Listener Block Out|||`Block`|`Out`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupListener`|`Block all outgoing`|`V2.0`||
+|SettingSyncHost|||`Block`|`In`|`%SystemRoot%\system32\settingsynchost.exe`||`Block IP traffic to SettingSyncHost`|`V2.0`||
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2854,13 +2344,7 @@ Default Firewall Policy
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2879,13 +2363,7 @@ Default Firewall Policy
 ServiceDll : `%SystemRoot%\System32\wiaservc.dll`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 Security: : 
 ```
 Owner: S-1-0-18
@@ -2941,13 +2419,7 @@ SACL:
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2965,13 +2437,7 @@ SACL:
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -2989,13 +2455,7 @@ SACL:
   
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>
@@ -3014,13 +2474,7 @@ SACL:
 DebugOptions : `0x00`  
 <br></br>
 
-
-##### Service Triggers
-
-|ID|Action|GUID|Type|
-| :---: | :---: | :---: | :---: |
   
-<br></br>  
 
 ---
 <br></br>  

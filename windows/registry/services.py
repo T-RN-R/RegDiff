@@ -1,6 +1,8 @@
 from windows.registry import Factory
 from windows.sd import SECURITY_DESCRIPTOR_RELATIVE
 from windows.ipfw import FirewallRuleString
+import struct
+import uuid
 SERVICE_SID_TYPES = {
     0: "SERVICE_SID_TYPE_NONE",
     1: "SERVICE_SID_TYPE_UNRESTRICTED",
@@ -214,16 +216,74 @@ class SystemHiveServiceParameterFactory(Factory):
         else:
             return SystemHiveServiceParameter(name, value)
 
+class SystemHiveServiceTriggerDataEntry(SystemHiveDataClass):
+    def __init__(self, _type, data):
+        self._type = SERVICE_TRIGGER_DATA_TYPES.get(_type, _type)
+        if _type == 1:
+            self._data =  data
+        elif _type ==2:
+            self._data = data.decode("utf-16").strip().replace("\x00", "")
+        elif _type ==3:
+            self._data = struct.unpack("<B", data)
+        elif _type == 4 or _type == 5:
+            self._data = struct.unpack("<Q", data)
+        else:
+            raise Exception(f"Unknown data type: {_type}")
+
+    @property
+    def value(self):
+        return self._data
+class SystemHiveServiceTriggerData(SystemHiveDataClass):
+    def __init__(self, items:dict):
+        data_types = []
+        data = []
+        for name, item in items.items():
+            if "DataType" in name:
+                idx = int(name.split("DataType",1)[1])
+                data_types.insert(idx, item)
+            elif "Data" in name:
+                idx = int(name.split("Data",1)[1])
+                data.insert(idx, item)
+            else:
+                raise Exception("Unreachable")
+        
+        self._item_arr = [SystemHiveServiceTriggerDataEntry(data_types[i], data[i]) for i in range(0, len(data))]
+    @property
+    def trigger_data(self):
+        return self._item_arr
+
+
+class SystemHiveServiceTriggerFields(SystemHiveDataClass):
+    def __init__(self, fields:dict):
+        self._entries = {}
+        for k, v in fields.items():
+            if k == "Type":
+                v = SERVICE_TRIGGER_TYPES.get(v, v)
+            elif k == "GUID":
+                g = str(uuid.UUID(bytes=v))
+                # TODO GUID bytes to GUID string
+                v = SERVICE_TRIGGER_GUIDS.get(g, g)
+            elif k == "Action":
+                v = SERVICE_TRIGGER_ACTION_TYPES.get(v, v)
+            self._entries[k] = v
+
+    @property
+    def entries(self):
+        return self._entries
 
 class SystemHiveServiceTriggerInfo(SystemHiveDataClass):
     def __init__(self, ordinal, trigger):
         self._ordinal = ordinal
-        self._trigger = trigger
+        d = {k:v for k, v in trigger.items() if "Data" in k} 
+        self._parameters = SystemHiveServiceTriggerData(d)
+        self._trigger_data = SystemHiveServiceTriggerFields({k:v for k,v in trigger.items() if "Data" not in k})
 
     @property
-    def trigger(self):
-        return self._trigger
-
+    def trigger_data(self):
+        return self._trigger_data
+    @property
+    def parameters(self):
+        return self._parameters
     @property
     def ordinal(self):
         return self._ordinal
