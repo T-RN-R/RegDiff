@@ -1,6 +1,6 @@
 from reporting import *
 from reporting.system import *
-
+from reporting.visitors import DiffContainer, AddedContainer, RemovedContainer
 import functools
 
 
@@ -120,7 +120,7 @@ class SystemHiveSerializer(HiveSerializer):
         return RegAutoLogger(d)
         
     def handle_services(self, d:dict) -> MarkdownVisitable:
-        return RegServices(d)
+        return RegServices(SystemHiveServices(d))
         
     def handle_control_set(self,data:dict) -> list[MarkdownVisitable]:
         WMI_AUTOLOGGER = "Control\\WMI\\Autologger"
