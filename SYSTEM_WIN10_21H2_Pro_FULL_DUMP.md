@@ -48,44 +48,91 @@ Table of contents
 			* [WinPhoneCritical](#winphonecritical)
 		* [<span style="text-align: center; font-size:2em;">Services </span>](#span-styletext-align-center-font-size2emservices-span)
 			* [<span style="text-align: center; font-size:2em;">.NET CLR Data Service </span>](#span-styletext-align-center-font-size2emnet-clr-data-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">.NET CLR Networking Service </span>](#span-styletext-align-center-font-size2emnet-clr-networking-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">.NET CLR Networking 4.0.0.0 Service </span>](#span-styletext-align-center-font-size2emnet-clr-networking-4000-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">.NET Data Provider for Oracle Service </span>](#span-styletext-align-center-font-size2emnet-data-provider-for-oracle-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">.NET Data Provider for SqlServer Service </span>](#span-styletext-align-center-font-size2emnet-data-provider-for-sqlserver-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">.NET Memory Cache 4.0 Service </span>](#span-styletext-align-center-font-size2emnet-memory-cache-40-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">.NETFramework Service </span>](#span-styletext-align-center-font-size2emnetframework-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">1394ohci Service </span>](#span-styletext-align-center-font-size2em1394ohci-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">3ware Service </span>](#span-styletext-align-center-font-size2em3ware-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AarSvc Service </span>](#span-styletext-align-center-font-size2emaarsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ACPI Service </span>](#span-styletext-align-center-font-size2emacpi-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AcpiDev Service </span>](#span-styletext-align-center-font-size2emacpidev-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">acpiex Service </span>](#span-styletext-align-center-font-size2emacpiex-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">acpipagr Service </span>](#span-styletext-align-center-font-size2emacpipagr-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AcpiPmi Service </span>](#span-styletext-align-center-font-size2emacpipmi-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">acpitime Service </span>](#span-styletext-align-center-font-size2emacpitime-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Acx01000 Service </span>](#span-styletext-align-center-font-size2emacx01000-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ADOVMPPackage Service </span>](#span-styletext-align-center-font-size2emadovmppackage-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ADP80XX Service </span>](#span-styletext-align-center-font-size2emadp80xx-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">adsi Service </span>](#span-styletext-align-center-font-size2emadsi-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AFD Service </span>](#span-styletext-align-center-font-size2emafd-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">afunix Service </span>](#span-styletext-align-center-font-size2emafunix-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ahcache Service </span>](#span-styletext-align-center-font-size2emahcache-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AJRouter Service </span>](#span-styletext-align-center-font-size2emajrouter-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">ALG Service </span>](#span-styletext-align-center-font-size2emalg-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">amdgpio2 Service </span>](#span-styletext-align-center-font-size2emamdgpio2-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">amdi2c Service </span>](#span-styletext-align-center-font-size2emamdi2c-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AmdK8 Service </span>](#span-styletext-align-center-font-size2emamdk8-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AmdPPM Service </span>](#span-styletext-align-center-font-size2emamdppm-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">amdsata Service </span>](#span-styletext-align-center-font-size2emamdsata-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">amdsbs Service </span>](#span-styletext-align-center-font-size2emamdsbs-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">amdxata Service </span>](#span-styletext-align-center-font-size2emamdxata-service-span)
 				* [Service Parameters](#service-parameters)
@@ -98,15 +145,25 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">applockerfltr Service </span>](#span-styletext-align-center-font-size2emapplockerfltr-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AppMgmt Service </span>](#span-styletext-align-center-font-size2emappmgmt-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AppReadiness Service </span>](#span-styletext-align-center-font-size2emappreadiness-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AppVClient Service </span>](#span-styletext-align-center-font-size2emappvclient-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AppvStrm Service </span>](#span-styletext-align-center-font-size2emappvstrm-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AppvVemgr Service </span>](#span-styletext-align-center-font-size2emappvvemgr-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AppvVfs Service </span>](#span-styletext-align-center-font-size2emappvvfs-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AppXSvc Service </span>](#span-styletext-align-center-font-size2emappxsvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">arcsas Service </span>](#span-styletext-align-center-font-size2emarcsas-service-span)
@@ -115,7 +172,11 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">AsyncMac Service </span>](#span-styletext-align-center-font-size2emasyncmac-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">atapi Service </span>](#span-styletext-align-center-font-size2ematapi-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">AudioEndpointBuilder Service </span>](#span-styletext-align-center-font-size2emaudioendpointbuilder-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Audiosrv Service </span>](#span-styletext-align-center-font-size2emaudiosrv-service-span)
@@ -126,29 +187,44 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">AxInstSV Service </span>](#span-styletext-align-center-font-size2emaxinstsv-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">b06bdrv Service </span>](#span-styletext-align-center-font-size2emb06bdrv-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">bam Service </span>](#span-styletext-align-center-font-size2embam-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BasicDisplay Service </span>](#span-styletext-align-center-font-size2embasicdisplay-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BasicRender Service </span>](#span-styletext-align-center-font-size2embasicrender-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BattC Service </span>](#span-styletext-align-center-font-size2embattc-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BcastDVRUserService Service </span>](#span-styletext-align-center-font-size2embcastdvruserservice-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">bcmfn2 Service </span>](#span-styletext-align-center-font-size2embcmfn2-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BDESVC Service </span>](#span-styletext-align-center-font-size2embdesvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Beep Service </span>](#span-styletext-align-center-font-size2embeep-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BFE Service </span>](#span-styletext-align-center-font-size2embfe-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">bindflt Service </span>](#span-styletext-align-center-font-size2embindflt-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BITS Service </span>](#span-styletext-align-center-font-size2embits-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BluetoothUserService Service </span>](#span-styletext-align-center-font-size2embluetoothuserservice-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">bowser Service </span>](#span-styletext-align-center-font-size2embowser-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BrokerInfrastructure Service </span>](#span-styletext-align-center-font-size2embrokerinfrastructure-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Browser Service </span>](#span-styletext-align-center-font-size2embrowser-service-span)
@@ -158,25 +234,41 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">BthA2dp Service </span>](#span-styletext-align-center-font-size2embtha2dp-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BthAvctpSvc Service </span>](#span-styletext-align-center-font-size2embthavctpsvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">BthEnum Service </span>](#span-styletext-align-center-font-size2embthenum-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BthHFEnum Service </span>](#span-styletext-align-center-font-size2embthhfenum-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BthLEEnum Service </span>](#span-styletext-align-center-font-size2embthleenum-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BthMini Service </span>](#span-styletext-align-center-font-size2embthmini-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BTHMODEM Service </span>](#span-styletext-align-center-font-size2embthmodem-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">BTHPORT Service </span>](#span-styletext-align-center-font-size2embthport-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">bthserv Service </span>](#span-styletext-align-center-font-size2embthserv-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">BTHUSB Service </span>](#span-styletext-align-center-font-size2embthusb-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">bttflt Service </span>](#span-styletext-align-center-font-size2embttflt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">buttonconverter Service </span>](#span-styletext-align-center-font-size2embuttonconverter-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CAD Service </span>](#span-styletext-align-center-font-size2emcad-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">camsvc Service </span>](#span-styletext-align-center-font-size2emcamsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CaptureService Service </span>](#span-styletext-align-center-font-size2emcaptureservice-service-span)
@@ -184,12 +276,16 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">cbdhsvc Service </span>](#span-styletext-align-center-font-size2emcbdhsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">cdfs Service </span>](#span-styletext-align-center-font-size2emcdfs-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CDPSvc Service </span>](#span-styletext-align-center-font-size2emcdpsvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">CDPUserSvc Service </span>](#span-styletext-align-center-font-size2emcdpusersvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">cdrom Service </span>](#span-styletext-align-center-font-size2emcdrom-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CertPropSvc Service </span>](#span-styletext-align-center-font-size2emcertpropsvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
@@ -198,9 +294,14 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">cht4vbd Service </span>](#span-styletext-align-center-font-size2emcht4vbd-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CimFS Service </span>](#span-styletext-align-center-font-size2emcimfs-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">circlass Service </span>](#span-styletext-align-center-font-size2emcirclass-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CldFlt Service </span>](#span-styletext-align-center-font-size2emcldflt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CLFS Service </span>](#span-styletext-align-center-font-size2emclfs-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ClipSVC Service </span>](#span-styletext-align-center-font-size2emclipsvc-service-span)
@@ -209,27 +310,52 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">cloudidsvc Service </span>](#span-styletext-align-center-font-size2emcloudidsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">clr_optimization_v4.0.30319_32 Service </span>](#span-styletext-align-center-font-size2emclr_optimization_v4030319_32-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">clr_optimization_v4.0.30319_64 Service </span>](#span-styletext-align-center-font-size2emclr_optimization_v4030319_64-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CmBatt Service </span>](#span-styletext-align-center-font-size2emcmbatt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CNG Service </span>](#span-styletext-align-center-font-size2emcng-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">cnghwassist Service </span>](#span-styletext-align-center-font-size2emcnghwassist-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CompositeBus Service </span>](#span-styletext-align-center-font-size2emcompositebus-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">COMSysApp Service </span>](#span-styletext-align-center-font-size2emcomsysapp-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">condrv Service </span>](#span-styletext-align-center-font-size2emcondrv-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ConsentUxUserSvc Service </span>](#span-styletext-align-center-font-size2emconsentuxusersvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CoreMessagingRegistrar Service </span>](#span-styletext-align-center-font-size2emcoremessagingregistrar-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CoreUI Service </span>](#span-styletext-align-center-font-size2emcoreui-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CredentialEnrollmentManagerUserSvc Service </span>](#span-styletext-align-center-font-size2emcredentialenrollmentmanagerusersvc-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CryptSvc Service </span>](#span-styletext-align-center-font-size2emcryptsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CSC Service </span>](#span-styletext-align-center-font-size2emcsc-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">CscService Service </span>](#span-styletext-align-center-font-size2emcscservice-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">dam Service </span>](#span-styletext-align-center-font-size2emdam-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">DCLocator Service </span>](#span-styletext-align-center-font-size2emdclocator-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">DcomLaunch Service </span>](#span-styletext-align-center-font-size2emdcomlaunch-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">defragsvc Service </span>](#span-styletext-align-center-font-size2emdefragsvc-service-span)
@@ -252,8 +378,11 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">Dfsc Service </span>](#span-styletext-align-center-font-size2emdfsc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Dhcp Service </span>](#span-styletext-align-center-font-size2emdhcp-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">diagnosticshub.standardcollector.service Service </span>](#span-styletext-align-center-font-size2emdiagnosticshubstandardcollectorservice-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">diagsvc Service </span>](#span-styletext-align-center-font-size2emdiagsvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
@@ -262,6 +391,8 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">DialogBlockingService Service </span>](#span-styletext-align-center-font-size2emdialogblockingservice-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">disk Service </span>](#span-styletext-align-center-font-size2emdisk-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">DispBrokerDesktopSvc Service </span>](#span-styletext-align-center-font-size2emdispbrokerdesktopsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">DisplayEnhancementService Service </span>](#span-styletext-align-center-font-size2emdisplayenhancementservice-service-span)
@@ -270,19 +401,25 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">DmEnrollmentSvc Service </span>](#span-styletext-align-center-font-size2emdmenrollmentsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">dmvsc Service </span>](#span-styletext-align-center-font-size2emdmvsc-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">dmwappushservice Service </span>](#span-styletext-align-center-font-size2emdmwappushservice-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Dnscache Service </span>](#span-styletext-align-center-font-size2emdnscache-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">DoSvc Service </span>](#span-styletext-align-center-font-size2emdosvc-service-span)
+				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">dot3svc Service </span>](#span-styletext-align-center-font-size2emdot3svc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">DPS Service </span>](#span-styletext-align-center-font-size2emdps-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">drmkaud Service </span>](#span-styletext-align-center-font-size2emdrmkaud-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">DsmSvc Service </span>](#span-styletext-align-center-font-size2emdsmsvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
@@ -292,109 +429,213 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">DusmSvc Service </span>](#span-styletext-align-center-font-size2emdusmsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">DXGKrnl Service </span>](#span-styletext-align-center-font-size2emdxgkrnl-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Eaphost Service </span>](#span-styletext-align-center-font-size2emeaphost-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ebdrv Service </span>](#span-styletext-align-center-font-size2emebdrv-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">edgeupdate Service </span>](#span-styletext-align-center-font-size2emedgeupdate-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">edgeupdatem Service </span>](#span-styletext-align-center-font-size2emedgeupdatem-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">EFS Service </span>](#span-styletext-align-center-font-size2emefs-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">EhStorClass Service </span>](#span-styletext-align-center-font-size2emehstorclass-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">EhStorTcgDrv Service </span>](#span-styletext-align-center-font-size2emehstortcgdrv-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">embeddedmode Service </span>](#span-styletext-align-center-font-size2emembeddedmode-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">EntAppSvc Service </span>](#span-styletext-align-center-font-size2ementappsvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ErrDev Service </span>](#span-styletext-align-center-font-size2emerrdev-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ESENT Service </span>](#span-styletext-align-center-font-size2emesent-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">EventLog Service </span>](#span-styletext-align-center-font-size2emeventlog-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">EventSystem Service </span>](#span-styletext-align-center-font-size2emeventsystem-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">exfat Service </span>](#span-styletext-align-center-font-size2emexfat-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">fastfat Service </span>](#span-styletext-align-center-font-size2emfastfat-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Fax Service </span>](#span-styletext-align-center-font-size2emfax-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">fdc Service </span>](#span-styletext-align-center-font-size2emfdc-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">fdPHost Service </span>](#span-styletext-align-center-font-size2emfdphost-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">FDResPub Service </span>](#span-styletext-align-center-font-size2emfdrespub-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">fhsvc Service </span>](#span-styletext-align-center-font-size2emfhsvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">FileCrypt Service </span>](#span-styletext-align-center-font-size2emfilecrypt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">FileInfo Service </span>](#span-styletext-align-center-font-size2emfileinfo-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Filetrace Service </span>](#span-styletext-align-center-font-size2emfiletrace-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">flpydisk Service </span>](#span-styletext-align-center-font-size2emflpydisk-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">FltMgr Service </span>](#span-styletext-align-center-font-size2emfltmgr-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">FontCache Service </span>](#span-styletext-align-center-font-size2emfontcache-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">FrameServer Service </span>](#span-styletext-align-center-font-size2emframeserver-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">FsDepends Service </span>](#span-styletext-align-center-font-size2emfsdepends-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Fs_Rec Service </span>](#span-styletext-align-center-font-size2emfs_rec-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">fvevol Service </span>](#span-styletext-align-center-font-size2emfvevol-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">gencounter Service </span>](#span-styletext-align-center-font-size2emgencounter-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">genericusbfn Service </span>](#span-styletext-align-center-font-size2emgenericusbfn-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">GPIOClx0101 Service </span>](#span-styletext-align-center-font-size2emgpioclx0101-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">gpsvc Service </span>](#span-styletext-align-center-font-size2emgpsvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">GpuEnergyDrv Service </span>](#span-styletext-align-center-font-size2emgpuenergydrv-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">GraphicsPerfSvc Service </span>](#span-styletext-align-center-font-size2emgraphicsperfsvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">HdAudAddService Service </span>](#span-styletext-align-center-font-size2emhdaudaddservice-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">HDAudBus Service </span>](#span-styletext-align-center-font-size2emhdaudbus-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">HidBatt Service </span>](#span-styletext-align-center-font-size2emhidbatt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">HidBth Service </span>](#span-styletext-align-center-font-size2emhidbth-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">hidi2c Service </span>](#span-styletext-align-center-font-size2emhidi2c-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">hidinterrupt Service </span>](#span-styletext-align-center-font-size2emhidinterrupt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">HidIr Service </span>](#span-styletext-align-center-font-size2emhidir-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">hidserv Service </span>](#span-styletext-align-center-font-size2emhidserv-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">hidspi Service </span>](#span-styletext-align-center-font-size2emhidspi-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">HidUsb Service </span>](#span-styletext-align-center-font-size2emhidusb-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">HomeGroupListener Service </span>](#span-styletext-align-center-font-size2emhomegrouplistener-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">HomeGroupProvider Service </span>](#span-styletext-align-center-font-size2emhomegroupprovider-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">HpSAMD Service </span>](#span-styletext-align-center-font-size2emhpsamd-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">HTTP Service </span>](#span-styletext-align-center-font-size2emhttp-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">hvcrash Service </span>](#span-styletext-align-center-font-size2emhvcrash-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">HvHost Service </span>](#span-styletext-align-center-font-size2emhvhost-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">hvservice Service </span>](#span-styletext-align-center-font-size2emhvservice-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">HwNClx0101 Service </span>](#span-styletext-align-center-font-size2emhwnclx0101-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">hwpolicy Service </span>](#span-styletext-align-center-font-size2emhwpolicy-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">hyperkbd Service </span>](#span-styletext-align-center-font-size2emhyperkbd-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">HyperVideo Service </span>](#span-styletext-align-center-font-size2emhypervideo-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">i8042prt Service </span>](#span-styletext-align-center-font-size2emi8042prt-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iagpio Service </span>](#span-styletext-align-center-font-size2emiagpio-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iai2c Service </span>](#span-styletext-align-center-font-size2emiai2c-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaLPSS2i_GPIO2 Service </span>](#span-styletext-align-center-font-size2emialpss2i_gpio2-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaLPSS2i_GPIO2_BXT_P Service </span>](#span-styletext-align-center-font-size2emialpss2i_gpio2_bxt_p-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaLPSS2i_GPIO2_CNL Service </span>](#span-styletext-align-center-font-size2emialpss2i_gpio2_cnl-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaLPSS2i_GPIO2_GLK Service </span>](#span-styletext-align-center-font-size2emialpss2i_gpio2_glk-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaLPSS2i_I2C Service </span>](#span-styletext-align-center-font-size2emialpss2i_i2c-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaLPSS2i_I2C_BXT_P Service </span>](#span-styletext-align-center-font-size2emialpss2i_i2c_bxt_p-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaLPSS2i_I2C_CNL Service </span>](#span-styletext-align-center-font-size2emialpss2i_i2c_cnl-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaLPSS2i_I2C_GLK Service </span>](#span-styletext-align-center-font-size2emialpss2i_i2c_glk-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaLPSSi_GPIO Service </span>](#span-styletext-align-center-font-size2emialpssi_gpio-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaLPSSi_I2C Service </span>](#span-styletext-align-center-font-size2emialpssi_i2c-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaStorAV Service </span>](#span-styletext-align-center-font-size2emiastorav-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaStorAVC Service </span>](#span-styletext-align-center-font-size2emiastoravc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iaStorV Service </span>](#span-styletext-align-center-font-size2emiastorv-service-span)
@@ -402,31 +643,53 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">ibbus Service </span>](#span-styletext-align-center-font-size2emibbus-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">icssvc Service </span>](#span-styletext-align-center-font-size2emicssvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">IKEEXT Service </span>](#span-styletext-align-center-font-size2emikeext-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">IndirectKmd Service </span>](#span-styletext-align-center-font-size2emindirectkmd-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">inetaccs Service </span>](#span-styletext-align-center-font-size2eminetaccs-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">InstallService Service </span>](#span-styletext-align-center-font-size2eminstallservice-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">intelide Service </span>](#span-styletext-align-center-font-size2emintelide-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">intelpep Service </span>](#span-styletext-align-center-font-size2emintelpep-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">intelpmax Service </span>](#span-styletext-align-center-font-size2emintelpmax-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">intelppm Service </span>](#span-styletext-align-center-font-size2emintelppm-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iorate Service </span>](#span-styletext-align-center-font-size2emiorate-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">IpFilterDriver Service </span>](#span-styletext-align-center-font-size2emipfilterdriver-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iphlpsvc Service </span>](#span-styletext-align-center-font-size2emiphlpsvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">IPMIDRV Service </span>](#span-styletext-align-center-font-size2emipmidrv-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">IPNAT Service </span>](#span-styletext-align-center-font-size2emipnat-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">IPT Service </span>](#span-styletext-align-center-font-size2emipt-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">IpxlatCfgSvc Service </span>](#span-styletext-align-center-font-size2emipxlatcfgsvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">isapnp Service </span>](#span-styletext-align-center-font-size2emisapnp-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">iScsiPrt Service </span>](#span-styletext-align-center-font-size2emiscsiprt-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ItSas35i Service </span>](#span-styletext-align-center-font-size2emitsas35i-service-span)
@@ -436,35 +699,54 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">kbdhid Service </span>](#span-styletext-align-center-font-size2emkbdhid-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">kbldfltr Service </span>](#span-styletext-align-center-font-size2emkbldfltr-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">kdnic Service </span>](#span-styletext-align-center-font-size2emkdnic-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">KeyIso Service </span>](#span-styletext-align-center-font-size2emkeyiso-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">KSecDD Service </span>](#span-styletext-align-center-font-size2emksecdd-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">KSecPkg Service </span>](#span-styletext-align-center-font-size2emksecpkg-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ksthunk Service </span>](#span-styletext-align-center-font-size2emksthunk-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">KtmRm Service </span>](#span-styletext-align-center-font-size2emktmrm-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">LanmanServer Service </span>](#span-styletext-align-center-font-size2emlanmanserver-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">LanmanWorkstation Service </span>](#span-styletext-align-center-font-size2emlanmanworkstation-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ldap Service </span>](#span-styletext-align-center-font-size2emldap-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">lfsvc Service </span>](#span-styletext-align-center-font-size2emlfsvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">LicenseManager Service </span>](#span-styletext-align-center-font-size2emlicensemanager-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">lltdio Service </span>](#span-styletext-align-center-font-size2emlltdio-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">lltdsvc Service </span>](#span-styletext-align-center-font-size2emlltdsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">lmhosts Service </span>](#span-styletext-align-center-font-size2emlmhosts-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Lsa Service </span>](#span-styletext-align-center-font-size2emlsa-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">LSI_SAS Service </span>](#span-styletext-align-center-font-size2emlsi_sas-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">LSI_SAS2i Service </span>](#span-styletext-align-center-font-size2emlsi_sas2i-service-span)
@@ -474,19 +756,28 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">LSI_SSS Service </span>](#span-styletext-align-center-font-size2emlsi_sss-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">LSM Service </span>](#span-styletext-align-center-font-size2emlsm-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">luafv Service </span>](#span-styletext-align-center-font-size2emluafv-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">LxpSvc Service </span>](#span-styletext-align-center-font-size2emlxpsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MapsBroker Service </span>](#span-styletext-align-center-font-size2emmapsbroker-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mausbhost Service </span>](#span-styletext-align-center-font-size2emmausbhost-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mausbip Service </span>](#span-styletext-align-center-font-size2emmausbip-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MbbCx Service </span>](#span-styletext-align-center-font-size2emmbbcx-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">megasas Service </span>](#span-styletext-align-center-font-size2emmegasas-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">megasas2i Service </span>](#span-styletext-align-center-font-size2emmegasas2i-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">megasas35i Service </span>](#span-styletext-align-center-font-size2emmegasas35i-service-span)
 				* [Service Parameters](#service-parameters)
@@ -496,57 +787,115 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Microsoft_Bluetooth_AvrcpTransport Service </span>](#span-styletext-align-center-font-size2emmicrosoft_bluetooth_avrcptransport-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MixedRealityOpenXRSvc Service </span>](#span-styletext-align-center-font-size2emmixedrealityopenxrsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mlx4_bus Service </span>](#span-styletext-align-center-font-size2emmlx4_bus-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MMCSS Service </span>](#span-styletext-align-center-font-size2emmmcss-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Modem Service </span>](#span-styletext-align-center-font-size2emmodem-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">monitor Service </span>](#span-styletext-align-center-font-size2emmonitor-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mouclass Service </span>](#span-styletext-align-center-font-size2emmouclass-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mouhid Service </span>](#span-styletext-align-center-font-size2emmouhid-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mountmgr Service </span>](#span-styletext-align-center-font-size2emmountmgr-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mpsdrv Service </span>](#span-styletext-align-center-font-size2emmpsdrv-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mpssvc Service </span>](#span-styletext-align-center-font-size2emmpssvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MRxDAV Service </span>](#span-styletext-align-center-font-size2emmrxdav-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mrxsmb Service </span>](#span-styletext-align-center-font-size2emmrxsmb-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mrxsmb10 Service </span>](#span-styletext-align-center-font-size2emmrxsmb10-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mrxsmb20 Service </span>](#span-styletext-align-center-font-size2emmrxsmb20-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MsBridge Service </span>](#span-styletext-align-center-font-size2emmsbridge-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MSDTC Service </span>](#span-styletext-align-center-font-size2emmsdtc-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MSDTC Bridge 4.0.0.0 Service </span>](#span-styletext-align-center-font-size2emmsdtc-bridge-4000-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Msfs Service </span>](#span-styletext-align-center-font-size2emmsfs-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">msgpiowin32 Service </span>](#span-styletext-align-center-font-size2emmsgpiowin32-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mshidkmdf Service </span>](#span-styletext-align-center-font-size2emmshidkmdf-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mshidumdf Service </span>](#span-styletext-align-center-font-size2emmshidumdf-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">msisadrv Service </span>](#span-styletext-align-center-font-size2emmsisadrv-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MSiSCSI Service </span>](#span-styletext-align-center-font-size2emmsiscsi-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">msiserver Service </span>](#span-styletext-align-center-font-size2emmsiserver-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MsKeyboardFilter Service </span>](#span-styletext-align-center-font-size2emmskeyboardfilter-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MSKSSRV Service </span>](#span-styletext-align-center-font-size2emmskssrv-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MsLldp Service </span>](#span-styletext-align-center-font-size2emmslldp-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MSPCLOCK Service </span>](#span-styletext-align-center-font-size2emmspclock-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MSPQM Service </span>](#span-styletext-align-center-font-size2emmspqm-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MsQuic Service </span>](#span-styletext-align-center-font-size2emmsquic-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MsRPC Service </span>](#span-styletext-align-center-font-size2emmsrpc-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MSSCNTRS Service </span>](#span-styletext-align-center-font-size2emmsscntrs-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MsSecFlt Service </span>](#span-styletext-align-center-font-size2emmssecflt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mssmbios Service </span>](#span-styletext-align-center-font-size2emmssmbios-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MSTEE Service </span>](#span-styletext-align-center-font-size2emmstee-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">MTConfig Service </span>](#span-styletext-align-center-font-size2emmtconfig-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Mup Service </span>](#span-styletext-align-center-font-size2emmup-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">mvumis Service </span>](#span-styletext-align-center-font-size2emmvumis-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">napagent Service </span>](#span-styletext-align-center-font-size2emnapagent-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NativeWifiP Service </span>](#span-styletext-align-center-font-size2emnativewifip-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NaturalAuthentication Service </span>](#span-styletext-align-center-font-size2emnaturalauthentication-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
@@ -554,32 +903,57 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">NcbService Service </span>](#span-styletext-align-center-font-size2emncbservice-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">NcdAutoSetup Service </span>](#span-styletext-align-center-font-size2emncdautosetup-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">ndfltr Service </span>](#span-styletext-align-center-font-size2emndfltr-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NDIS Service </span>](#span-styletext-align-center-font-size2emndis-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NdisCap Service </span>](#span-styletext-align-center-font-size2emndiscap-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NdisImPlatform Service </span>](#span-styletext-align-center-font-size2emndisimplatform-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NdisTapi Service </span>](#span-styletext-align-center-font-size2emndistapi-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Ndisuio Service </span>](#span-styletext-align-center-font-size2emndisuio-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NdisVirtualBus Service </span>](#span-styletext-align-center-font-size2emndisvirtualbus-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NdisWan Service </span>](#span-styletext-align-center-font-size2emndiswan-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ndiswanlegacy Service </span>](#span-styletext-align-center-font-size2emndiswanlegacy-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NDKPing Service </span>](#span-styletext-align-center-font-size2emndkping-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ndproxy Service </span>](#span-styletext-align-center-font-size2emndproxy-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Ndu Service </span>](#span-styletext-align-center-font-size2emndu-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NetAdapterCx Service </span>](#span-styletext-align-center-font-size2emnetadaptercx-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NetBIOS Service </span>](#span-styletext-align-center-font-size2emnetbios-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NetbiosSmb Service </span>](#span-styletext-align-center-font-size2emnetbiossmb-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NetBT Service </span>](#span-styletext-align-center-font-size2emnetbt-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Netlogon Service </span>](#span-styletext-align-center-font-size2emnetlogon-service-span)
 				* [Service Parameters](#service-parameters)
@@ -591,6 +965,7 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">NetTcpPortSharing Service </span>](#span-styletext-align-center-font-size2emnettcpportsharing-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">netvsc Service </span>](#span-styletext-align-center-font-size2emnetvsc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NgcCtnrSvc Service </span>](#span-styletext-align-center-font-size2emngcctnrsvc-service-span)
@@ -600,16 +975,31 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">NlaSvc Service </span>](#span-styletext-align-center-font-size2emnlasvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Npfs Service </span>](#span-styletext-align-center-font-size2emnpfs-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">npsvctrig Service </span>](#span-styletext-align-center-font-size2emnpsvctrig-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">nsi Service </span>](#span-styletext-align-center-font-size2emnsi-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">nsiproxy Service </span>](#span-styletext-align-center-font-size2emnsiproxy-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">NTDS Service </span>](#span-styletext-align-center-font-size2emntds-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Ntfs Service </span>](#span-styletext-align-center-font-size2emntfs-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Null Service </span>](#span-styletext-align-center-font-size2emnull-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">nvdimm Service </span>](#span-styletext-align-center-font-size2emnvdimm-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">nvraid Service </span>](#span-styletext-align-center-font-size2emnvraid-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">nvstor Service </span>](#span-styletext-align-center-font-size2emnvstor-service-span)
@@ -621,6 +1011,8 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">p2psvc Service </span>](#span-styletext-align-center-font-size2emp2psvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Parport Service </span>](#span-styletext-align-center-font-size2emparport-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">partmgr Service </span>](#span-styletext-align-center-font-size2empartmgr-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PcaSvc Service </span>](#span-styletext-align-center-font-size2empcasvc-service-span)
@@ -628,50 +1020,88 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">pci Service </span>](#span-styletext-align-center-font-size2empci-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">pciide Service </span>](#span-styletext-align-center-font-size2empciide-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">pcmcia Service </span>](#span-styletext-align-center-font-size2empcmcia-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">pcw Service </span>](#span-styletext-align-center-font-size2empcw-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">pdc Service </span>](#span-styletext-align-center-font-size2empdc-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PEAUTH Service </span>](#span-styletext-align-center-font-size2empeauth-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PeerDistSvc Service </span>](#span-styletext-align-center-font-size2empeerdistsvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">perceptionsimulation Service </span>](#span-styletext-align-center-font-size2emperceptionsimulation-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">percsas2i Service </span>](#span-styletext-align-center-font-size2empercsas2i-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">percsas3i Service </span>](#span-styletext-align-center-font-size2empercsas3i-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PerfDisk Service </span>](#span-styletext-align-center-font-size2emperfdisk-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PerfHost Service </span>](#span-styletext-align-center-font-size2emperfhost-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PerfNet Service </span>](#span-styletext-align-center-font-size2emperfnet-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PerfOS Service </span>](#span-styletext-align-center-font-size2emperfos-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PerfProc Service </span>](#span-styletext-align-center-font-size2emperfproc-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PhoneSvc Service </span>](#span-styletext-align-center-font-size2emphonesvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">PimIndexMaintenanceSvc Service </span>](#span-styletext-align-center-font-size2empimindexmaintenancesvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PktMon Service </span>](#span-styletext-align-center-font-size2empktmon-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">pla Service </span>](#span-styletext-align-center-font-size2empla-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PlugPlay Service </span>](#span-styletext-align-center-font-size2emplugplay-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">pmem Service </span>](#span-styletext-align-center-font-size2empmem-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PNPMEM Service </span>](#span-styletext-align-center-font-size2empnpmem-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PNRPAutoReg Service </span>](#span-styletext-align-center-font-size2empnrpautoreg-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PNRPsvc Service </span>](#span-styletext-align-center-font-size2empnrpsvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PolicyAgent Service </span>](#span-styletext-align-center-font-size2empolicyagent-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">portcfg Service </span>](#span-styletext-align-center-font-size2emportcfg-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PortProxy Service </span>](#span-styletext-align-center-font-size2emportproxy-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Power Service </span>](#span-styletext-align-center-font-size2empower-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PptpMiniport Service </span>](#span-styletext-align-center-font-size2empptpminiport-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">PrintWorkflowUserSvc Service </span>](#span-styletext-align-center-font-size2emprintworkflowusersvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Processor Service </span>](#span-styletext-align-center-font-size2emprocessor-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ProfSvc Service </span>](#span-styletext-align-center-font-size2emprofsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Psched Service </span>](#span-styletext-align-center-font-size2empsched-service-span)
@@ -682,27 +1112,57 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">QWAVE Service </span>](#span-styletext-align-center-font-size2emqwave-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">QWAVEdrv Service </span>](#span-styletext-align-center-font-size2emqwavedrv-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Ramdisk Service </span>](#span-styletext-align-center-font-size2emramdisk-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RasAcd Service </span>](#span-styletext-align-center-font-size2emrasacd-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RasAgileVpn Service </span>](#span-styletext-align-center-font-size2emrasagilevpn-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RasAuto Service </span>](#span-styletext-align-center-font-size2emrasauto-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Rasl2tp Service </span>](#span-styletext-align-center-font-size2emrasl2tp-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RasMan Service </span>](#span-styletext-align-center-font-size2emrasman-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RasPppoe Service </span>](#span-styletext-align-center-font-size2emraspppoe-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RasSstp Service </span>](#span-styletext-align-center-font-size2emrassstp-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">rdbss Service </span>](#span-styletext-align-center-font-size2emrdbss-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">rdpbus Service </span>](#span-styletext-align-center-font-size2emrdpbus-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RDPDR Service </span>](#span-styletext-align-center-font-size2emrdpdr-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RDPNP Service </span>](#span-styletext-align-center-font-size2emrdpnp-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RDPUDD Service </span>](#span-styletext-align-center-font-size2emrdpudd-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RdpVideoMiniport Service </span>](#span-styletext-align-center-font-size2emrdpvideominiport-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">rdyboost Service </span>](#span-styletext-align-center-font-size2emrdyboost-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ReFS Service </span>](#span-styletext-align-center-font-size2emrefs-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ReFSv1 Service </span>](#span-styletext-align-center-font-size2emrefsv1-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RemoteAccess Service </span>](#span-styletext-align-center-font-size2emremoteaccess-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RemoteRegistry Service </span>](#span-styletext-align-center-font-size2emremoteregistry-service-span)
 				* [Service Parameters](#service-parameters)
@@ -712,18 +1172,27 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">RFCOMM Service </span>](#span-styletext-align-center-font-size2emrfcomm-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">rhproxy Service </span>](#span-styletext-align-center-font-size2emrhproxy-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RmSvc Service </span>](#span-styletext-align-center-font-size2emrmsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RpcEptMapper Service </span>](#span-styletext-align-center-font-size2emrpceptmapper-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RpcLocator Service </span>](#span-styletext-align-center-font-size2emrpclocator-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">RpcSs Service </span>](#span-styletext-align-center-font-size2emrpcss-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">rspndr Service </span>](#span-styletext-align-center-font-size2emrspndr-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">s3cap Service </span>](#span-styletext-align-center-font-size2ems3cap-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SamSs Service </span>](#span-styletext-align-center-font-size2emsamss-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">sbp2port Service </span>](#span-styletext-align-center-font-size2emsbp2port-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SCardSvr Service </span>](#span-styletext-align-center-font-size2emscardsvr-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
@@ -735,6 +1204,8 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">Schedule Service </span>](#span-styletext-align-center-font-size2emschedule-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">scmbus Service </span>](#span-styletext-align-center-font-size2emscmbus-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SCPolicySvc Service </span>](#span-styletext-align-center-font-size2emscpolicysvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">sdbus Service </span>](#span-styletext-align-center-font-size2emsdbus-service-span)
@@ -748,13 +1219,17 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">seclogon Service </span>](#span-styletext-align-center-font-size2emseclogon-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SecurityHealthService Service </span>](#span-styletext-align-center-font-size2emsecurityhealthservice-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SEMgrSvc Service </span>](#span-styletext-align-center-font-size2emsemgrsvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">SENS Service </span>](#span-styletext-align-center-font-size2emsens-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Sense Service </span>](#span-styletext-align-center-font-size2emsense-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SensorDataService Service </span>](#span-styletext-align-center-font-size2emsensordataservice-service-span)
+				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">SensorService Service </span>](#span-styletext-align-center-font-size2emsensorservice-service-span)
 				* [Service Parameters](#service-parameters)
@@ -763,17 +1238,32 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">SerCx Service </span>](#span-styletext-align-center-font-size2emsercx-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SerCx2 Service </span>](#span-styletext-align-center-font-size2emsercx2-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Serenum Service </span>](#span-styletext-align-center-font-size2emserenum-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Serial Service </span>](#span-styletext-align-center-font-size2emserial-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">sermouse Service </span>](#span-styletext-align-center-font-size2emsermouse-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SessionEnv Service </span>](#span-styletext-align-center-font-size2emsessionenv-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">sfloppy Service </span>](#span-styletext-align-center-font-size2emsfloppy-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SgrmAgent Service </span>](#span-styletext-align-center-font-size2emsgrmagent-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SgrmBroker Service </span>](#span-styletext-align-center-font-size2emsgrmbroker-service-span)
+				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">SharedAccess Service </span>](#span-styletext-align-center-font-size2emsharedaccess-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">SharedRealitySvc Service </span>](#span-styletext-align-center-font-size2emsharedrealitysvc-service-span)
@@ -789,30 +1279,55 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">SmartSAMD Service </span>](#span-styletext-align-center-font-size2emsmartsamd-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">smbdirect Service </span>](#span-styletext-align-center-font-size2emsmbdirect-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">smphost Service </span>](#span-styletext-align-center-font-size2emsmphost-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SmsRouter Service </span>](#span-styletext-align-center-font-size2emsmsrouter-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">SMSvcHost 4.0.0.0 Service </span>](#span-styletext-align-center-font-size2emsmsvchost-4000-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SNMPTRAP Service </span>](#span-styletext-align-center-font-size2emsnmptrap-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">spaceparser Service </span>](#span-styletext-align-center-font-size2emspaceparser-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">spaceport Service </span>](#span-styletext-align-center-font-size2emspaceport-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SpatialGraphFilter Service </span>](#span-styletext-align-center-font-size2emspatialgraphfilter-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SpbCx Service </span>](#span-styletext-align-center-font-size2emspbcx-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">spectrum Service </span>](#span-styletext-align-center-font-size2emspectrum-service-span)
+				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Spooler Service </span>](#span-styletext-align-center-font-size2emspooler-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">sppsvc Service </span>](#span-styletext-align-center-font-size2emsppsvc-service-span)
+				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">srv2 Service </span>](#span-styletext-align-center-font-size2emsrv2-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">srvnet Service </span>](#span-styletext-align-center-font-size2emsrvnet-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SSDPSRV Service </span>](#span-styletext-align-center-font-size2emssdpsrv-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ssh-agent Service </span>](#span-styletext-align-center-font-size2emssh-agent-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SstpSvc Service </span>](#span-styletext-align-center-font-size2emsstpsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">StateRepository Service </span>](#span-styletext-align-center-font-size2emstaterepository-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">stexstor Service </span>](#span-styletext-align-center-font-size2emstexstor-service-span)
 				* [Service Parameters](#service-parameters)
@@ -821,9 +1336,13 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">storahci Service </span>](#span-styletext-align-center-font-size2emstorahci-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">storflt Service </span>](#span-styletext-align-center-font-size2emstorflt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">stornvme Service </span>](#span-styletext-align-center-font-size2emstornvme-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">storqosflt Service </span>](#span-styletext-align-center-font-size2emstorqosflt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">StorSvc Service </span>](#span-styletext-align-center-font-size2emstorsvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
@@ -835,9 +1354,13 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">swenum Service </span>](#span-styletext-align-center-font-size2emswenum-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">swprv Service </span>](#span-styletext-align-center-font-size2emswprv-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Synth3dVsc Service </span>](#span-styletext-align-center-font-size2emsynth3dvsc-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SysMain Service </span>](#span-styletext-align-center-font-size2emsysmain-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">SystemEventsBroker Service </span>](#span-styletext-align-center-font-size2emsystemeventsbroker-service-span)
@@ -847,64 +1370,125 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">TapiSrv Service </span>](#span-styletext-align-center-font-size2emtapisrv-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Tcpip Service </span>](#span-styletext-align-center-font-size2emtcpip-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Tcpip6 Service </span>](#span-styletext-align-center-font-size2emtcpip6-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">TCPIP6TUNNEL Service </span>](#span-styletext-align-center-font-size2emtcpip6tunnel-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">tcpipreg Service </span>](#span-styletext-align-center-font-size2emtcpipreg-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">TCPIPTUNNEL Service </span>](#span-styletext-align-center-font-size2emtcpiptunnel-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">tdx Service </span>](#span-styletext-align-center-font-size2emtdx-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Telemetry Service </span>](#span-styletext-align-center-font-size2emtelemetry-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">terminpt Service </span>](#span-styletext-align-center-font-size2emterminpt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">TermService Service </span>](#span-styletext-align-center-font-size2emtermservice-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Themes Service </span>](#span-styletext-align-center-font-size2emthemes-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">TieringEngineService Service </span>](#span-styletext-align-center-font-size2emtieringengineservice-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">TimeBrokerSvc Service </span>](#span-styletext-align-center-font-size2emtimebrokersvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">TokenBroker Service </span>](#span-styletext-align-center-font-size2emtokenbroker-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">TPM Service </span>](#span-styletext-align-center-font-size2emtpm-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">TrkWks Service </span>](#span-styletext-align-center-font-size2emtrkwks-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">TroubleshootingSvc Service </span>](#span-styletext-align-center-font-size2emtroubleshootingsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">TrustedInstaller Service </span>](#span-styletext-align-center-font-size2emtrustedinstaller-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">TSDDD Service </span>](#span-styletext-align-center-font-size2emtsddd-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">TsUsbFlt Service </span>](#span-styletext-align-center-font-size2emtsusbflt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">TsUsbGD Service </span>](#span-styletext-align-center-font-size2emtsusbgd-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">tsusbhub Service </span>](#span-styletext-align-center-font-size2emtsusbhub-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">tunnel Service </span>](#span-styletext-align-center-font-size2emtunnel-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">tzautoupdate Service </span>](#span-styletext-align-center-font-size2emtzautoupdate-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">UASPStor Service </span>](#span-styletext-align-center-font-size2emuaspstor-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UcmCx0101 Service </span>](#span-styletext-align-center-font-size2emucmcx0101-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UcmTcpciCx0101 Service </span>](#span-styletext-align-center-font-size2emucmtcpcicx0101-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UcmUcsiAcpiClient Service </span>](#span-styletext-align-center-font-size2emucmucsiacpiclient-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UcmUcsiCx0101 Service </span>](#span-styletext-align-center-font-size2emucmucsicx0101-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Ucx01000 Service </span>](#span-styletext-align-center-font-size2emucx01000-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UdeCx Service </span>](#span-styletext-align-center-font-size2emudecx-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">udfs Service </span>](#span-styletext-align-center-font-size2emudfs-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UdkUserSvc Service </span>](#span-styletext-align-center-font-size2emudkusersvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UEFI Service </span>](#span-styletext-align-center-font-size2emuefi-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UevAgentDriver Service </span>](#span-styletext-align-center-font-size2emuevagentdriver-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UevAgentService Service </span>](#span-styletext-align-center-font-size2emuevagentservice-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Ufx01000 Service </span>](#span-styletext-align-center-font-size2emufx01000-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UfxChipidea Service </span>](#span-styletext-align-center-font-size2emufxchipidea-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">ufxsynopsys Service </span>](#span-styletext-align-center-font-size2emufxsynopsys-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UGatherer Service </span>](#span-styletext-align-center-font-size2emugatherer-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UGTHRSVC Service </span>](#span-styletext-align-center-font-size2emugthrsvc-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">umbus Service </span>](#span-styletext-align-center-font-size2emumbus-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UmPass Service </span>](#span-styletext-align-center-font-size2emumpass-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UmRdpService Service </span>](#span-styletext-align-center-font-size2emumrdpservice-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UnistoreSvc Service </span>](#span-styletext-align-center-font-size2emunistoresvc-service-span)
@@ -912,22 +1496,49 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">upnphost Service </span>](#span-styletext-align-center-font-size2emupnphost-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UrsChipidea Service </span>](#span-styletext-align-center-font-size2emurschipidea-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UrsCx01000 Service </span>](#span-styletext-align-center-font-size2emurscx01000-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UrsSynopsys Service </span>](#span-styletext-align-center-font-size2emurssynopsys-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">usbaudio Service </span>](#span-styletext-align-center-font-size2emusbaudio-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">usbaudio2 Service </span>](#span-styletext-align-center-font-size2emusbaudio2-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">usbccgp Service </span>](#span-styletext-align-center-font-size2emusbccgp-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">usbcir Service </span>](#span-styletext-align-center-font-size2emusbcir-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">usbehci Service </span>](#span-styletext-align-center-font-size2emusbehci-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">usbhub Service </span>](#span-styletext-align-center-font-size2emusbhub-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">USBHUB3 Service </span>](#span-styletext-align-center-font-size2emusbhub3-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">usbohci Service </span>](#span-styletext-align-center-font-size2emusbohci-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">usbprint Service </span>](#span-styletext-align-center-font-size2emusbprint-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">usbser Service </span>](#span-styletext-align-center-font-size2emusbser-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">USBSTOR Service </span>](#span-styletext-align-center-font-size2emusbstor-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">usbuhci Service </span>](#span-styletext-align-center-font-size2emusbuhci-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">USBXHCI Service </span>](#span-styletext-align-center-font-size2emusbxhci-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">UserDataSvc Service </span>](#span-styletext-align-center-font-size2emuserdatasvc-service-span)
@@ -942,18 +1553,32 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">VaultSvc Service </span>](#span-styletext-align-center-font-size2emvaultsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">vdrvroot Service </span>](#span-styletext-align-center-font-size2emvdrvroot-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">vds Service </span>](#span-styletext-align-center-font-size2emvds-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">VerifierExt Service </span>](#span-styletext-align-center-font-size2emverifierext-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">vhdmp Service </span>](#span-styletext-align-center-font-size2emvhdmp-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">vhf Service </span>](#span-styletext-align-center-font-size2emvhf-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Vid Service </span>](#span-styletext-align-center-font-size2emvid-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">VirtualRender Service </span>](#span-styletext-align-center-font-size2emvirtualrender-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">vmbus Service </span>](#span-styletext-align-center-font-size2emvmbus-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">VMBusHID Service </span>](#span-styletext-align-center-font-size2emvmbushid-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">vmgid Service </span>](#span-styletext-align-center-font-size2emvmgid-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">vmicguestinterface Service </span>](#span-styletext-align-center-font-size2emvmicguestinterface-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
@@ -979,46 +1604,80 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">volmgr Service </span>](#span-styletext-align-center-font-size2emvolmgr-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">volmgrx Service </span>](#span-styletext-align-center-font-size2emvolmgrx-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">volsnap Service </span>](#span-styletext-align-center-font-size2emvolsnap-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">volume Service </span>](#span-styletext-align-center-font-size2emvolume-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">vpci Service </span>](#span-styletext-align-center-font-size2emvpci-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">vsmraid Service </span>](#span-styletext-align-center-font-size2emvsmraid-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">VSS Service </span>](#span-styletext-align-center-font-size2emvss-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">VSTXRAID Service </span>](#span-styletext-align-center-font-size2emvstxraid-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">vwifibus Service </span>](#span-styletext-align-center-font-size2emvwifibus-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">vwififlt Service </span>](#span-styletext-align-center-font-size2emvwififlt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">W32Time Service </span>](#span-styletext-align-center-font-size2emw32time-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">WaaSMedicSvc Service </span>](#span-styletext-align-center-font-size2emwaasmedicsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WacomPen Service </span>](#span-styletext-align-center-font-size2emwacompen-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WalletService Service </span>](#span-styletext-align-center-font-size2emwalletservice-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">wanarp Service </span>](#span-styletext-align-center-font-size2emwanarp-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">wanarpv6 Service </span>](#span-styletext-align-center-font-size2emwanarpv6-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WarpJITSvc Service </span>](#span-styletext-align-center-font-size2emwarpjitsvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">wbengine Service </span>](#span-styletext-align-center-font-size2emwbengine-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WbioSrvc Service </span>](#span-styletext-align-center-font-size2emwbiosrvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">wcifs Service </span>](#span-styletext-align-center-font-size2emwcifs-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Wcmsvc Service </span>](#span-styletext-align-center-font-size2emwcmsvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">wcncsvc Service </span>](#span-styletext-align-center-font-size2emwcncsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">wcnfs Service </span>](#span-styletext-align-center-font-size2emwcnfs-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WdBoot Service </span>](#span-styletext-align-center-font-size2emwdboot-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Wdf01000 Service </span>](#span-styletext-align-center-font-size2emwdf01000-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WdFilter Service </span>](#span-styletext-align-center-font-size2emwdfilter-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WdiServiceHost Service </span>](#span-styletext-align-center-font-size2emwdiservicehost-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WdiSystemHost Service </span>](#span-styletext-align-center-font-size2emwdisystemhost-service-span)
@@ -1026,10 +1685,14 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">wdiwifi Service </span>](#span-styletext-align-center-font-size2emwdiwifi-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WdmCompanionFilter Service </span>](#span-styletext-align-center-font-size2emwdmcompanionfilter-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WdNisDrv Service </span>](#span-styletext-align-center-font-size2emwdnisdrv-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WdNisSvc Service </span>](#span-styletext-align-center-font-size2emwdnissvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WebClient Service </span>](#span-styletext-align-center-font-size2emwebclient-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">Wecsvc Service </span>](#span-styletext-align-center-font-size2emwecsvc-service-span)
@@ -1046,31 +1709,51 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">WFPLWFS Service </span>](#span-styletext-align-center-font-size2emwfplwfs-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WiaRpc Service </span>](#span-styletext-align-center-font-size2emwiarpc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WIMMount Service </span>](#span-styletext-align-center-font-size2emwimmount-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WinDefend Service </span>](#span-styletext-align-center-font-size2emwindefend-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Windows Workflow Foundation 4.0.0.0 Service </span>](#span-styletext-align-center-font-size2emwindows-workflow-foundation-4000-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WindowsTrustedRT Service </span>](#span-styletext-align-center-font-size2emwindowstrustedrt-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WindowsTrustedRTProxy Service </span>](#span-styletext-align-center-font-size2emwindowstrustedrtproxy-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WinHttpAutoProxySvc Service </span>](#span-styletext-align-center-font-size2emwinhttpautoproxysvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WinMad Service </span>](#span-styletext-align-center-font-size2emwinmad-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Winmgmt Service </span>](#span-styletext-align-center-font-size2emwinmgmt-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WinNat Service </span>](#span-styletext-align-center-font-size2emwinnat-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WinRM Service </span>](#span-styletext-align-center-font-size2emwinrm-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Winsock Service </span>](#span-styletext-align-center-font-size2emwinsock-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WinSock2 Service </span>](#span-styletext-align-center-font-size2emwinsock2-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WINUSB Service </span>](#span-styletext-align-center-font-size2emwinusb-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WinVerbs Service </span>](#span-styletext-align-center-font-size2emwinverbs-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">wisvc Service </span>](#span-styletext-align-center-font-size2emwisvc-service-span)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">WlanSvc Service </span>](#span-styletext-align-center-font-size2emwlansvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">wlidsvc Service </span>](#span-styletext-align-center-font-size2emwlidsvc-service-span)
 				* [Service Parameters](#service-parameters)
@@ -1081,21 +1764,35 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">WManSvc Service </span>](#span-styletext-align-center-font-size2emwmansvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WmiAcpi Service </span>](#span-styletext-align-center-font-size2emwmiacpi-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WmiApRpl Service </span>](#span-styletext-align-center-font-size2emwmiaprpl-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">wmiApSrv Service </span>](#span-styletext-align-center-font-size2emwmiapsrv-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WMPNetworkSvc Service </span>](#span-styletext-align-center-font-size2emwmpnetworksvc-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">Wof Service </span>](#span-styletext-align-center-font-size2emwof-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">workerdd Service </span>](#span-styletext-align-center-font-size2emworkerdd-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">workfolderssvc Service </span>](#span-styletext-align-center-font-size2emworkfolderssvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WpcMonSvc Service </span>](#span-styletext-align-center-font-size2emwpcmonsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WPDBusEnum Service </span>](#span-styletext-align-center-font-size2emwpdbusenum-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">WpdUpFltr Service </span>](#span-styletext-align-center-font-size2emwpdupfltr-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WpnService Service </span>](#span-styletext-align-center-font-size2emwpnservice-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WpnUserService Service </span>](#span-styletext-align-center-font-size2emwpnuserservice-service-span)
 				* [Service Parameters](#service-parameters)
@@ -1104,11 +1801,18 @@ Table of contents
 			* [<span style="text-align: center; font-size:2em;">wscsvc Service </span>](#span-styletext-align-center-font-size2emwscsvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WSearch Service </span>](#span-styletext-align-center-font-size2emwsearch-service-span)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WSearchIdxPi Service </span>](#span-styletext-align-center-font-size2emwsearchidxpi-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">wuauserv Service </span>](#span-styletext-align-center-font-size2emwuauserv-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WudfPf Service </span>](#span-styletext-align-center-font-size2emwudfpf-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WUDFRd Service </span>](#span-styletext-align-center-font-size2emwudfrd-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">WwanSvc Service </span>](#span-styletext-align-center-font-size2emwwansvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">XblAuthManager Service </span>](#span-styletext-align-center-font-size2emxblauthmanager-service-span)
@@ -1117,19 +1821,25 @@ Table of contents
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">xboxgip Service </span>](#span-styletext-align-center-font-size2emxboxgip-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">XboxGipSvc Service </span>](#span-styletext-align-center-font-size2emxboxgipsvc-service-span)
+				* [Summary](#summary)
 				* [Service Parameters](#service-parameters)
 				* [Service Triggers](#service-triggers)
 			* [<span style="text-align: center; font-size:2em;">XboxNetApiSvc Service </span>](#span-styletext-align-center-font-size2emxboxnetapisvc-service-span)
 				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">xinputhid Service </span>](#span-styletext-align-center-font-size2emxinputhid-service-span)
+				* [Summary](#summary)
+				* [Service Parameters](#service-parameters)
 			* [<span style="text-align: center; font-size:2em;">xmlprov Service </span>](#span-styletext-align-center-font-size2emxmlprov-service-span)
 				* [Service Parameters](#service-parameters)
 
 # Full Dump
 
 ## SYSTEM
-
+  
+<br></br>
 ### WMI AutoLoggers
   
 
@@ -2280,72 +2990,144 @@ Start : `0x00`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">.NET CLR Data Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'ClosePerformanceData', 'Collect': 'CollectPerformanceData', 'Counter Names': b'S\x00q\x00l\x00C\x00l\x00i\x00e\x00n\x00t\x00:\x00 \x00C\x00u\x00r\x00r\x00e\x00n\x00t\x00 \x00#\x00 \x00p\x00o\x00o\x00l\x00e\x00d\x00 \x00a\x00n\x00d\x00 \x00n\x00o\x00n\x00p\x00o\x00o\x00l\x00e\x00d\x00 \x00c\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00S\x00q\x00l\x00C\x00l\x00i\x00e\x00n\x00t\x00:\x00 \x00C\x00u\x00r\x00r\x00e\x00n\x00t\x00 \x00#\x00 \x00p\x00o\x00o\x00l\x00e\x00d\x00 \x00c\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00S\x00q\x00l\x00C\x00l\x00i\x00e\x00n\x00t\x00:\x00 \x00C\x00u\x00r\x00r\x00e\x00n\x00t\x00 \x00#\x00 \x00c\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00 \x00p\x00o\x00o\x00l\x00s\x00\x00\x00S\x00q\x00l\x00C\x00l\x00i\x00e\x00n\x00t\x00:\x00 \x00P\x00e\x00a\x00k\x00 \x00#\x00 \x00p\x00o\x00o\x00l\x00e\x00d\x00 \x00c\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00S\x00q\x00l\x00C\x00l\x00i\x00e\x00n\x00t\x00:\x00 \x00T\x00o\x00t\x00a\x00l\x00 \x00#\x00 \x00f\x00a\x00i\x00l\x00e\x00d\x00 \x00c\x00o\x00n\x00n\x00e\x00c\x00t\x00s\x00\x00\x00S\x00q\x00l\x00C\x00l\x00i\x00e\x00n\x00t\x00:\x00 \x00T\x00o\x00t\x00a\x00l\x00 \x00#\x00 \x00f\x00a\x00i\x00l\x00e\x00d\x00 \x00c\x00o\x00m\x00m\x00a\x00n\x00d\x00s\x00\x00\x00\x00\x00', 'Counter Types': b'6\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x00\x00\x00', 'Library': '%systemroot%\\system32\\netfxperf.dll', 'Open': 'OpenPerformanceData', 'InstallType': 1, 'PerfIniFile': '_DataPerfCounters_d.ini', 'First Counter': 6840, 'Last Counter': 6852, 'First Help': 6841, 'Last Help': 6853, 'Object List': '6840'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">.NET CLR Networking Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'ClosePerformanceData', 'Collect': 'CollectPerformanceData', 'Counter Names': b'C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00 \x00E\x00s\x00t\x00a\x00b\x00l\x00i\x00s\x00h\x00e\x00d\x00\x00\x00B\x00y\x00t\x00e\x00s\x00 \x00R\x00e\x00c\x00e\x00i\x00v\x00e\x00d\x00\x00\x00B\x00y\x00t\x00e\x00s\x00 \x00S\x00e\x00n\x00t\x00\x00\x00D\x00a\x00t\x00a\x00g\x00r\x00a\x00m\x00s\x00 \x00R\x00e\x00c\x00e\x00i\x00v\x00e\x00d\x00\x00\x00D\x00a\x00t\x00a\x00g\x00r\x00a\x00m\x00s\x00 \x00S\x00e\x00n\x00t\x00\x00\x00\x00\x00', 'Counter Types': b'6\x005\x005\x003\x006\x00\x00\x006\x005\x007\x009\x002\x00\x00\x006\x005\x007\x009\x002\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x00\x00\x00', 'Library': '%systemroot%\\system32\\netfxperf.dll', 'Open': 'OpenPerformanceData', 'InstallType': 1, 'PerfIniFile': '_Networkingperfcounters_v2_d.ini', 'First Counter': 6828, 'Last Counter': 6838, 'First Help': 6829, 'Last Help': 6839, 'Object List': '6828'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">.NET CLR Networking 4.0.0.0 Service </span>
 
+##### Summary
+
 |Linkage|Performance|
 | :---: | :---: |
 |`{'Export': b'.\x00N\x00E\x00T\x00 \x00C\x00L\x00R\x00 \x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00i\x00n\x00g\x00 \x004\x00.\x000\x00.\x000\x00.\x000\x00\x00\x00\x00\x00'}`|`{'CategoryOptions': 3, 'Close': 'ClosePerformanceData', 'Collect': 'CollectPerformanceData', 'Counter Names': b'C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00 \x00E\x00s\x00t\x00a\x00b\x00l\x00i\x00s\x00h\x00e\x00d\x00\x00\x00B\x00y\x00t\x00e\x00s\x00 \x00R\x00e\x00c\x00e\x00i\x00v\x00e\x00d\x00\x00\x00B\x00y\x00t\x00e\x00s\x00 \x00S\x00e\x00n\x00t\x00\x00\x00D\x00a\x00t\x00a\x00g\x00r\x00a\x00m\x00s\x00 \x00R\x00e\x00c\x00e\x00i\x00v\x00e\x00d\x00\x00\x00D\x00a\x00t\x00a\x00g\x00r\x00a\x00m\x00s\x00 \x00S\x00e\x00n\x00t\x00\x00\x00H\x00t\x00t\x00p\x00W\x00e\x00b\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00 \x00C\x00r\x00e\x00a\x00t\x00e\x00d\x00/\x00S\x00e\x00c\x00\x00\x00H\x00t\x00t\x00p\x00W\x00e\x00b\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00 \x00A\x00v\x00e\x00r\x00a\x00g\x00e\x00 \x00L\x00i\x00f\x00e\x00t\x00i\x00m\x00e\x00\x00\x00H\x00t\x00t\x00p\x00W\x00e\x00b\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00 \x00A\x00v\x00e\x00r\x00a\x00g\x00e\x00 \x00L\x00i\x00f\x00e\x00t\x00i\x00m\x00e\x00 \x00B\x00a\x00s\x00e\x00\x00\x00H\x00t\x00t\x00p\x00W\x00e\x00b\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00 \x00Q\x00u\x00e\x00u\x00e\x00d\x00/\x00S\x00e\x00c\x00\x00\x00H\x00t\x00t\x00p\x00W\x00e\x00b\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00 \x00A\x00v\x00e\x00r\x00a\x00g\x00e\x00 \x00Q\x00u\x00e\x00u\x00e\x00 \x00T\x00i\x00m\x00e\x00\x00\x00H\x00t\x00t\x00p\x00W\x00e\x00b\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00 \x00A\x00v\x00e\x00r\x00a\x00g\x00e\x00 \x00Q\x00u\x00e\x00u\x00e\x00 \x00T\x00i\x00m\x00e\x00 \x00B\x00a\x00s\x00e\x00\x00\x00H\x00t\x00t\x00p\x00W\x00e\x00b\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00 \x00A\x00b\x00o\x00r\x00t\x00e\x00d\x00/\x00S\x00e\x00c\x00\x00\x00H\x00t\x00t\x00p\x00W\x00e\x00b\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00 \x00F\x00a\x00i\x00l\x00e\x00d\x00/\x00S\x00e\x00c\x00\x00\x00\x00\x00', 'Counter Types': b'6\x005\x005\x003\x006\x00\x00\x006\x005\x007\x009\x002\x00\x00\x006\x005\x007\x009\x002\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x004\x001\x009\x005\x003\x002\x008\x00\x00\x001\x000\x007\x003\x008\x007\x004\x001\x007\x006\x00\x00\x001\x000\x007\x003\x009\x003\x009\x004\x005\x008\x00\x00\x004\x001\x009\x005\x003\x002\x008\x00\x00\x001\x000\x007\x003\x008\x007\x004\x001\x007\x006\x00\x00\x001\x000\x007\x003\x009\x003\x009\x004\x005\x008\x00\x00\x004\x001\x009\x005\x003\x002\x008\x00\x00\x004\x001\x009\x005\x003\x002\x008\x00\x00\x00\x00\x00', 'FileMappingSize': 131072, 'IsMultiInstance': 1, 'Library': '%systemroot%\\system32\\netfxperf.dll', 'Open': 'OpenPerformanceData', 'InstallType': 1, 'PerfIniFile': '_Networkingperfcounters_d.ini', 'First Counter': 6900, 'Last Counter': 6926, 'First Help': 6901, 'Last Help': 6927, 'Object List': '6900'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">.NET Data Provider for Oracle Service </span>
 
+##### Summary
+
 |Linkage|Performance|
 | :---: | :---: |
 |`{'Export': '2e,00,4e,00,45,00,54,00,20,00,44,00,61,00,74,00,61,00,20,00,50,00,72,00,6f,00,76,00,69,00,64,00,65,00,72,00,20,00,66,00,6f,00,72,00,20,00,4f,00,72,00,61,00,63,00,6c,00,65,00,00,00,00,00'}`|`{'CategoryOptions': 3, 'Close': 'ClosePerformanceData', 'Collect': 'CollectPerformanceData', 'Counter Names': b'H\x00a\x00r\x00d\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00s\x00P\x00e\x00r\x00S\x00e\x00c\x00o\x00n\x00d\x00\x00\x00H\x00a\x00r\x00d\x00D\x00i\x00s\x00c\x00o\x00n\x00n\x00e\x00c\x00t\x00s\x00P\x00e\x00r\x00S\x00e\x00c\x00o\x00n\x00d\x00\x00\x00S\x00o\x00f\x00t\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00s\x00P\x00e\x00r\x00S\x00e\x00c\x00o\x00n\x00d\x00\x00\x00S\x00o\x00f\x00t\x00D\x00i\x00s\x00c\x00o\x00n\x00n\x00e\x00c\x00t\x00s\x00P\x00e\x00r\x00S\x00e\x00c\x00o\x00n\x00d\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00N\x00o\x00n\x00P\x00o\x00o\x00l\x00e\x00d\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00P\x00o\x00o\x00l\x00e\x00d\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00A\x00c\x00t\x00i\x00v\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00P\x00o\x00o\x00l\x00G\x00r\x00o\x00u\x00p\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00I\x00n\x00a\x00c\x00t\x00i\x00v\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00P\x00o\x00o\x00l\x00G\x00r\x00o\x00u\x00p\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00A\x00c\x00t\x00i\x00v\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00P\x00o\x00o\x00l\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00I\x00n\x00a\x00c\x00t\x00i\x00v\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00P\x00o\x00o\x00l\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00A\x00c\x00t\x00i\x00v\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00F\x00r\x00e\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00S\x00t\x00a\x00s\x00i\x00s\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00R\x00e\x00c\x00l\x00a\x00i\x00m\x00e\x00d\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00\x00\x00', 'Counter Types': b'2\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x00\x00\x00', 'FileMappingSize': 131072, 'IsMultiInstance': 1, 'Library': '%systemroot%\\system32\\netfxperf.dll', 'Open': 'OpenPerformanceData', 'InstallType': 1, 'PerfIniFile': '_DataOracleClientPerfCounters_shared12_neutral_d.ini', 'First Counter': 8916, 'Last Counter': 8944, 'First Help': 8917, 'Last Help': 8945, 'Object List': '8916'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">.NET Data Provider for SqlServer Service </span>
 
+##### Summary
+
 |Linkage|Performance|
 | :---: | :---: |
 |`{'Export': '2e,00,4e,00,45,00,54,00,20,00,44,00,61,00,74,00,61,00,20,00,50,00,72,00,6f,00,76,00,69,00,64,00,65,00,72,00,20,00,66,00,6f,00,72,00,20,00,53,00,71,00,6c,00,53,00,65,00,72,00,76,00,65,00,72,00,00,00,00,00'}`|`{'CategoryOptions': 3, 'Close': 'ClosePerformanceData', 'Collect': 'CollectPerformanceData', 'Counter Names': b'H\x00a\x00r\x00d\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00s\x00P\x00e\x00r\x00S\x00e\x00c\x00o\x00n\x00d\x00\x00\x00H\x00a\x00r\x00d\x00D\x00i\x00s\x00c\x00o\x00n\x00n\x00e\x00c\x00t\x00s\x00P\x00e\x00r\x00S\x00e\x00c\x00o\x00n\x00d\x00\x00\x00S\x00o\x00f\x00t\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00s\x00P\x00e\x00r\x00S\x00e\x00c\x00o\x00n\x00d\x00\x00\x00S\x00o\x00f\x00t\x00D\x00i\x00s\x00c\x00o\x00n\x00n\x00e\x00c\x00t\x00s\x00P\x00e\x00r\x00S\x00e\x00c\x00o\x00n\x00d\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00N\x00o\x00n\x00P\x00o\x00o\x00l\x00e\x00d\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00P\x00o\x00o\x00l\x00e\x00d\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00A\x00c\x00t\x00i\x00v\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00P\x00o\x00o\x00l\x00G\x00r\x00o\x00u\x00p\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00I\x00n\x00a\x00c\x00t\x00i\x00v\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00P\x00o\x00o\x00l\x00G\x00r\x00o\x00u\x00p\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00A\x00c\x00t\x00i\x00v\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00P\x00o\x00o\x00l\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00I\x00n\x00a\x00c\x00t\x00i\x00v\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00P\x00o\x00o\x00l\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00A\x00c\x00t\x00i\x00v\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00F\x00r\x00e\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00S\x00t\x00a\x00s\x00i\x00s\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00N\x00u\x00m\x00b\x00e\x00r\x00O\x00f\x00R\x00e\x00c\x00l\x00a\x00i\x00m\x00e\x00d\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00\x00\x00\x00\x00', 'Counter Types': b'2\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x00\x00\x00', 'FileMappingSize': 131072, 'IsMultiInstance': 1, 'Library': '%systemroot%\\system32\\netfxperf.dll', 'Open': 'OpenPerformanceData', 'InstallType': 1, 'PerfIniFile': '_dataperfcounters_shared12_neutral_d.ini', 'First Counter': 6854, 'Last Counter': 6882, 'First Help': 6855, 'Last Help': 6883, 'Object List': '6854'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">.NET Memory Cache 4.0 Service </span>
 
+##### Summary
+
 |Linkage|Performance|
 | :---: | :---: |
 |`{'Export': ''}`|`{'CategoryOptions': 3, 'Close': 'ClosePerformanceData', 'Collect': 'CollectPerformanceData', 'Counter Names': b'C\x00a\x00c\x00h\x00e\x00 \x00H\x00i\x00t\x00s\x00\x00\x00C\x00a\x00c\x00h\x00e\x00 \x00M\x00i\x00s\x00s\x00e\x00s\x00\x00\x00C\x00a\x00c\x00h\x00e\x00 \x00H\x00i\x00t\x00 \x00R\x00a\x00t\x00i\x00o\x00\x00\x00C\x00a\x00c\x00h\x00e\x00 \x00H\x00i\x00t\x00 \x00R\x00a\x00t\x00i\x00o\x00 \x00B\x00a\x00s\x00e\x00\x00\x00C\x00a\x00c\x00h\x00e\x00 \x00T\x00r\x00i\x00m\x00s\x00\x00\x00C\x00a\x00c\x00h\x00e\x00 \x00E\x00n\x00t\x00r\x00i\x00e\x00s\x00\x00\x00C\x00a\x00c\x00h\x00e\x00 \x00T\x00u\x00r\x00n\x00o\x00v\x00e\x00r\x00 \x00R\x00a\x00t\x00e\x00\x00\x00\x00\x00', 'Counter Types': b'6\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x005\x003\x007\x000\x000\x003\x000\x000\x008\x00\x00\x001\x000\x007\x003\x009\x003\x009\x004\x005\x009\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x00\x00\x00', 'FileMappingSize': 131072, 'IsMultiInstance': 1, 'Library': '%systemroot%\\system32\\netfxperf.dll', 'Open': 'OpenPerformanceData', 'InstallType': 1, 'PerfIniFile': 'netmemorycache_d.ini', 'First Counter': 6884, 'Last Counter': 6898, 'First Help': 6885, 'Last Help': 6899, 'Object List': '6884'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">.NETFramework Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'CloseCtrs', 'Collect': 'CollectCtrs', 'Library': '%systemroot%\\system32\\mscoree.dll', 'Open': 'OpenCtrs', 'InstallType': 1, 'PerfIniFile': 'corperfmonsymbols_d.ini', 'First Counter': 8740, 'Last Counter': 8914, 'First Help': 8741, 'Last Help': 8915}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">1394ohci Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\1394ohci.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@1394.inf,%PCI\CC_0C0010.DeviceDesc%;1394 OHCI Compliant Host Controller`|`1394.inf`|
+|`\SystemRoot\System32\drivers\1394ohci.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@1394.inf,%PCI\CC_0C0010.DeviceDesc%;1394 OHCI Compliant Host Controller`|`1394.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -2357,7 +3139,9 @@ Start : `0x00`
 ##### Service Parameters
   
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -2367,81 +3151,152 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\AarSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ACPI Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|Tag|Group|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\ACPI.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_CRITICAL`|`@acpi.inf,%ACPI.SvcDesc%;Microsoft ACPI Driver`|`acpi.inf`|`0x02`|`Core`|
+|`System32\drivers\ACPI.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_CRITICAL`|`@acpi.inf,%ACPI.SvcDesc%;Microsoft ACPI Driver`|`acpi.inf`|`0x02`|`Core`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">AcpiDev Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\AcpiDev.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x19`|`@acpidev.inf,%AcpiDev.SvcDesc%;ACPI Devices driver`|`acpidev.inf`|
+|`\SystemRoot\System32\drivers\AcpiDev.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x19`|`@acpidev.inf,%AcpiDev.SvcDesc%;ACPI Devices driver`|`acpidev.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">acpiex Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Microsoft ACPIEx Driver`|`SERVICE_ERROR_CRITICAL`|`Boot Bus Extender`|`System32\Drivers\acpiex.sys`|`SERVICE_BOOT_START`|`0x07`|`SERVICE_KERNEL_DRIVER`|
+|`Microsoft ACPIEx Driver`|`SERVICE_ERROR_CRITICAL`|`Boot Bus Extender`|`System32\Drivers\acpiex.sys`|`0x00`|`0x07`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">acpipagr Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\acpipagr.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@acpipagr.inf,%SvcDesc%;ACPI Processor Aggregator Driver`|`acpipagr.inf`|
+|`\SystemRoot\System32\drivers\acpipagr.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@acpipagr.inf,%SvcDesc%;ACPI Processor Aggregator Driver`|`acpipagr.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">AcpiPmi Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\acpipmi.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@acpipmi.inf,%AcpiPmi.SvcDesc%;ACPI Power Meter Driver`|`acpipmi.inf`|
+|`\SystemRoot\System32\drivers\acpipmi.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@acpipmi.inf,%AcpiPmi.SvcDesc%;ACPI Power Meter Driver`|`acpipmi.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">acpitime Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\acpitime.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x23`|`@acpitime.inf,%AcpiTime.SvcDesc%;ACPI Wake Alarm Driver`|`acpitime.inf`|
+|`\SystemRoot\System32\drivers\acpitime.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x23`|`@acpitime.inf,%AcpiTime.SvcDesc%;ACPI Wake Alarm Driver`|`acpitime.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Acx01000 Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\Acx01000.sys,-1000`|`SERVICE_ERROR_NORMAL`|`WdfLoadGroup`|`system32\drivers\Acx01000.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\Acx01000.sys,-1000`|`SERVICE_ERROR_NORMAL`|`WdfLoadGroup`|`system32\drivers\Acx01000.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ADOVMPPackage Service </span>
 
+##### Summary
+
 |Final|
 | :---: |
 |`{'ActivationEnabled': 0}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -2453,15 +3308,26 @@ ServiceMain : `ServiceMain`
 ##### Service Parameters
   
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">adsi Service </span>
 
+##### Summary
+
 |Cache|Options|tracing|
 | :---: | :---: | :---: |
 |`{'NeverCacheDS': 0, 'PerMachine': 0}`|`Options`|`{}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -2472,7 +3338,9 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -2483,15 +3351,26 @@ PnpInterface : `{'5': 1}`
 ##### Service Parameters
   
 Winsock : `Winsock`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ahcache Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%systemroot%\system32\drivers\ahcache.sys,-101`|`@%systemroot%\system32\drivers\ahcache.sys,-102`|`SERVICE_ERROR_NORMAL`|`system32\DRIVERS\ahcache.sys`|`SERVICE_SYSTEM_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%systemroot%\system32\drivers\ahcache.sys,-101`|`@%systemroot%\system32\drivers\ahcache.sys,-102`|`SERVICE_ERROR_NORMAL`|`system32\DRIVERS\ahcache.sys`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -2502,54 +3381,14 @@ Winsock : `Winsock`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\AJRouter.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`31d1811f-ac3f-3745-9e0c-7e7b0c2f4b55`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`50 00 72 00 6f 00 74 00 65 00 63 00 74 00 65 00 64 00 50 00 72 00 65 00 66 00 69 00 78 00 5c 00 4c 00 6f 00 63 00 61 00 6c 00 53 00 65 00 72 00 76 00 69 00 63 00 65 00 5c 00 4d 00 53 00 41 00 4a 00 50 00 69 00 70 00 65 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`31d1811f-ac3f-3745-9e0c-7e7b0c2f4b55`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`ProtectedPrefix\LocalService\MSAJPipe`|
   
 <br></br>  
 
@@ -2557,45 +3396,90 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ALG Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|FailureActions|ImagePath|ObjectName|RequiredPrivileges|ServiceSidType|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\Alg.exe,-113`|`@%SystemRoot%\system32\Alg.exe,-112`|`SERVICE_ERROR_NORMAL`|`84 03 00 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 c0 d4 01 00 01 00 00 00 e0 93 04 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\System32\alg.exe`|`NT AUTHORITY\LocalService`|`['SeChangeNotifyPrivilege', 'SeCreateGlobalPrivilege', 'SeImpersonatePrivilege']`|`SERVICE_SID_TYPE_UNRESTRICTED`|`SERVICE_DEMAND_START`|`SERVICE_WIN32_OWN_PROCESS`|
+|`@%SystemRoot%\system32\Alg.exe,-113`|`@%SystemRoot%\system32\Alg.exe,-112`|`SERVICE_ERROR_NORMAL`|`84 03 00 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 c0 d4 01 00 01 00 00 00 e0 93 04 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\System32\alg.exe`|`NT AUTHORITY\LocalService`|`['SeChangeNotifyPrivilege', 'SeCreateGlobalPrivilege', 'SeImpersonatePrivilege']`|`SERVICE_SID_TYPE_UNRESTRICTED`|`0x03`|`SERVICE_WIN32_OWN_PROCESS`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">amdgpio2 Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\amdgpio2.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x03`|`@amdgpio2.inf,%GPIO.SvcDesc%;AMD GPIO Client Driver`|`amdgpio2.inf`|
+|`\SystemRoot\System32\drivers\amdgpio2.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x03`|`@amdgpio2.inf,%GPIO.SvcDesc%;AMD GPIO Client Driver`|`amdgpio2.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">amdi2c Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\amdi2c.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x02`|`SpbCx`|`@amdi2c.inf,%amdi2c.SVCDESC%;AMD I2C Controller Service`|`amdi2c.inf`|
+|`\SystemRoot\System32\drivers\amdi2c.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x02`|`SpbCx`|`@amdi2c.inf,%amdi2c.SVCDESC%;AMD I2C Controller Service`|`amdi2c.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">AmdK8 Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|MofImagePath|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\amdk8.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x1c`|`@cpu.inf,%AmdK8.SvcDesc%;AMD K8 Processor Driver`|`cpu.inf`|`%SystemRoot%\System32\drivers\processr.sys`|
+|`\SystemRoot\System32\drivers\amdk8.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x1c`|`@cpu.inf,%AmdK8.SvcDesc%;AMD K8 Processor Driver`|`cpu.inf`|`%SystemRoot%\System32\drivers\processr.sys`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">AmdPPM Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|MofImagePath|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\amdppm.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x1d`|`@cpu.inf,%AmdPPM.SvcDesc%;AMD Processor Driver`|`cpu.inf`|`%SystemRoot%\System32\drivers\processr.sys`|
+|`\SystemRoot\System32\drivers\amdppm.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x1d`|`@cpu.inf,%AmdPPM.SvcDesc%;AMD Processor Driver`|`cpu.inf`|`%SystemRoot%\System32\drivers\processr.sys`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -2608,11 +3492,15 @@ SACL:
   
 Device : `{'EnableQueryAccessAlignment': 1, 'AmdSataFua': 0, 'AmdSataChannelFlags': 1, 'AmdSataWMI': 0, 'AmdSataCCC': 255, 'AmdSataCCCTV': 65535, 'AmdSataCCCCC': 32, 'AmdSataSgl': 256, 'AmdSataHints': 1, 'AmdSataDevSlp': 1000, 'AmdSataSWSP': 15}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">amdsbs Service </span>
+
+##### Summary
 
 |Settings|
 | :---: |
@@ -2623,7 +3511,9 @@ PnpInterface : `{'5': 1}`
 ##### Service Parameters
   
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -2633,8 +3523,9 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-AmdXataOptions : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -2644,8 +3535,9 @@ AmdXataOptions : `0x01`
 
 ##### Service Parameters
   
-DebugFlags : `0x00`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -2655,8 +3547,6 @@ DebugFlags : `0x00`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\appidsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
@@ -2676,58 +3566,18 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\appinfo.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`32 00 30 00 31 00 65 00 66 00 39 00 39 00 61 00 2d 00 37 00 66 00 61 00 30 00 2d 00 34 00 34 00 34 00 63 00 2d 00 39 00 33 00 39 00 39 00 2d 00 31 00 39 00 62 00 61 00 38 00 34 00 66 00 31 00 32 00 61 00 31 00 61 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`35 00 66 00 35 00 34 00 63 00 65 00 37 00 64 00 2d 00 35 00 62 00 37 00 39 00 2d 00 34 00 31 00 37 00 35 00 2d 00 38 00 35 00 38 00 34 00 2d 00 63 00 62 00 36 00 35 00 33 00 31 00 33 00 61 00 30 00 65 00 39 00 38 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`66 00 64 00 37 00 61 00 30 00 35 00 32 00 33 00 2d 00 64 00 63 00 37 00 30 00 2d 00 34 00 33 00 64 00 64 00 2d 00 39 00 62 00 32 00 65 00 2d 00 39 00 63 00 35 00 65 00 64 00 34 00 38 00 32 00 32 00 35 00 62 00 31 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`35 00 38 00 65 00 36 00 30 00 34 00 65 00 38 00 2d 00 39 00 61 00 64 00 62 00 2d 00 34 00 64 00 32 00 65 00 2d 00 61 00 34 00 36 00 34 00 2d 00 33 00 62 00 30 00 36 00 38 00 33 00 66 00 62 00 31 00 34 00 38 00 30 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`30 00 34 00 39 00 37 00 42 00 35 00 37 00 44 00 2d 00 32 00 45 00 36 00 36 00 2d 00 34 00 32 00 34 00 46 00 2d 00 41 00 30 00 43 00 36 00 2d 00 31 00 35 00 37 00 43 00 44 00 35 00 44 00 34 00 31 00 37 00 30 00 30 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`201ef99a-7fa0-444c-9399-19ba84f12a1a`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`5f54ce7d-5b79-4175-8584-cb65313a0e98`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`fd7a0523-dc70-43dd-9b2e-9c5ed48225b1`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`58e604e8-9adb-4d2e-a464-3b0683fb1480`|
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`0497B57D-2E66-424F-A0C6-157CD5D41700`|
   
 <br></br>  
 
@@ -2735,47 +3585,19 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">applockerfltr Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
-  
-Security : 
-```
-Owner: S-1-0-32-544
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2008d
-    SID: S-1-0-32-545
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x201fd
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x201fd
-    SID: S-1-0-80-2078495744-2416903469-4072184685-3943858305-976987417
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2008d
-    SID: S-1-0-2-1
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -2785,42 +3607,9 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\appmgmts.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x9d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x8d
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -2830,131 +3619,98 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDLL : `%SystemRoot%\system32\AppReadiness.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">AppVClient Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">AppvStrm Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">AppvVemgr Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">AppvVfs Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">AppXSvc Service </span>
 
+##### Summary
+
+|parameters|
+| :---: |
+|`{'ServiceDll': '%SystemRoot%\\system32\\appxdeploymentserver.dll', 'ServiceDllUnloadOnStop': 1}`|
+
 
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\appxdeploymentserver.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-Group: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`41 00 45 00 32 00 44 00 43 00 39 00 30 00 31 00 2d 00 33 00 31 00 32 00 44 00 2d 00 34 00 31 00 44 00 46 00 2d 00 38 00 42 00 37 00 39 00 2d 00 45 00 38 00 33 00 35 00 45 00 36 00 33 00 44 00 42 00 38 00 37 00 34 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`AE2DC901-312D-41DF-8B79-E835E63DB874`|
   
 <br></br>  
 
@@ -2968,7 +3724,9 @@ SACL:
   
 Device : `{'DriverParameter': 'BLEDCheck=1'}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -2978,17 +3736,14 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\assignedaccessmanagersvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 2c 0f c6 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 2c 0f c6 41`|
   
 <br></br>  
 
@@ -2996,18 +3751,36 @@ ServiceMain : `ServiceMain`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">AsyncMac Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Description|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\asyncmac.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@%systemroot%\system32\mprmsg.dll,-32000`|`@%systemroot%\system32\mprmsg.dll,-32000`|`netrasa.inf`|
+|`\SystemRoot\System32\drivers\asyncmac.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@%systemroot%\system32\mprmsg.dll,-32000`|`@%systemroot%\system32\mprmsg.dll,-32000`|`netrasa.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">atapi Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\atapi.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_CRITICAL`|`SCSI Miniport`|`0x1e`|`@mshdc.inf,%idechannel.DeviceDesc%;IDE Channel`|`mshdc.inf`|
+|`System32\drivers\atapi.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_CRITICAL`|`SCSI Miniport`|`0x1e`|`@mshdc.inf,%idechannel.DeviceDesc%;IDE Channel`|`mshdc.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -3018,9 +3791,9 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\AudioEndpointBuilder.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -3030,46 +3803,9 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\Audiosrv.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-3-1024-1692970155-4054893335-185714091-3362601943-3526593181-1159816984-2199008581-497492991
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -3079,17 +3815,14 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\autotimesvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 d0 be a3 2e 0b 8a 0d`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 d0 be a3 2e 0b 8a 0d`|
   
 <br></br>  
 
@@ -3101,26 +3834,44 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\AxInstSV.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">b06bdrv Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\bxvbda.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`0x02`|`@netbvbda.inf,%vbd_srv_desc%;QLogic Network Adapter VBD`|`netbvbda.inf`|
+|`System32\drivers\bxvbda.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`0x02`|`@netbvbda.inf,%vbd_srv_desc%;QLogic Network Adapter VBD`|`netbvbda.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">bam Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|ImagePath|Start|Type|WOW64|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\bam.sys,-101`|`@%SystemRoot%\system32\drivers\bam.sys,-100`|`SERVICE_ERROR_NORMAL`|`system32\drivers\bam.sys`|`SERVICE_SYSTEM_START`|`SERVICE_KERNEL_DRIVER`|`0x14c`|
+|`@%SystemRoot%\system32\drivers\bam.sys,-101`|`@%SystemRoot%\system32\drivers\bam.sys,-100`|`SERVICE_ERROR_NORMAL`|`system32\drivers\bam.sys`|`0x01`|`SERVICE_KERNEL_DRIVER`|`0x14c`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -3131,8 +3882,9 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-SingleDeviceInstall : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -3142,16 +3894,26 @@ SingleDeviceInstall : `0x01`
 
 ##### Service Parameters
   
-SingleDeviceInstall : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">BattC Service </span>
 
+##### Summary
+
 |MofImagePath|
 | :---: |
 |`system32\drivers\battc.sys`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -3162,54 +3924,33 @@ SingleDeviceInstall : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\BcastDVRUserService.dll`  
-ServiceDllUnloadOnStop : `0x00`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">bcmfn2 Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\bcmfn2.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x04`|`@bcmfn2.inf,%bcmfn2.SVCDESC%;bcmfn2 Service`|`bcmfn2.inf`|
+|`\SystemRoot\System32\drivers\bcmfn2.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x04`|`@bcmfn2.inf,%bcmfn2.SVCDESC%;bcmfn2 Service`|`bcmfn2.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">BDESVC Service </span>
+
+##### Summary
 
 |State|
 | :---: |
@@ -3219,49 +3960,14 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\bdesvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-32-545
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 30 bc a3 2b 18 83 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 30 bc a3 2b 18 83 41`|
   
 <br></br>  
 
@@ -3269,9 +3975,18 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Beep Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Beep`|`SERVICE_ERROR_NORMAL`|`Base`|`SERVICE_SYSTEM_START`|`0x02`|`SERVICE_KERNEL_DRIVER`|
+|`Beep`|`SERVICE_ERROR_NORMAL`|`Base`|`0x01`|`0x02`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -3328,44 +4043,15 @@ Filter
 |{dc95b53e-01cf-4058-821d-350b3d0d4676}|`01 10 08 00 cc cc cc cc b8 01 00 00 00 00 00 00 00 00 02 00 05 00 00 00 98 01 00 00 04 00 02 00 00 00 00 00 00 00 00 00 98 01 00 00 01 10 08 00 cc cc cc cc 88 01 00 00 00 00 00 00 00 00 02 00 00 00 00 00 3e b5 95 dc cf 01 58 40 82 1d 35 0b 3d 0d 46 76 04 00 02 00 08 00 02 00 02 00 00 00 0c 00 02 00 08 00 00 00 10 00 02 00 97 2c b4 a3 04 9f 72 46 b8 7e ce e9 c4 83 25 7f 41 d4 cd b3 90 af ba 41 a7 45 7c 60 08 ff 23 01 01 00 00 00 01 00 00 00 01 00 00 00 02 00 00 00 14 00 02 00 02 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 04 00 00 00 04 00 00 00 18 00 02 00 18 00 00 00 00 00 00 00 18 00 00 00 40 00 46 00 69 00 72 00 65 00 77 00 61 00 6c 00 6c 00 41 00 50 00 49 00 2e 00 64 00 6c 00 6c 00 2c 00 2d 00 32 00 33 00 35 00 30 00 35 00 00 00 18 00 00 00 00 00 00 00 18 00 00 00 40 00 46 00 69 00 72 00 65 00 77 00 61 00 6c 00 6c 00 41 00 50 00 49 00 2e 00 64 00 6c 00 6c 00 2c 00 2d 00 32 00 33 00 35 00 30 00 36 00 00 00 ca 16 cc de 33 3f 46 43 be 1e 8f b4 ae 0f 3d 62 08 00 00 00 ff ff ff ff ff ff ff ff 02 00 00 00 2b ef 71 39 3e 62 9a 4f 8c b1 6e 79 b8 06 b9 a7 00 00 00 00 01 00 00 00 01 00 00 00 3a 00 00 00 af a1 1b 0c 65 57 3f 45 af 22 a8 f7 91 ac 77 5b 00 00 00 00 02 00 00 00 02 00 00 00 87 00 00 00 00 00 00 00 00 00 00 00 00 e0 00 10 00 00 00 00`|
 |{f444c576-6e60-4ea2-9faa-80d57ed12cd2}|`01 10 08 00 cc cc cc cc b8 01 00 00 00 00 00 00 00 00 02 00 05 00 00 00 98 01 00 00 04 00 02 00 00 00 00 00 00 00 00 00 98 01 00 00 01 10 08 00 cc cc cc cc 88 01 00 00 00 00 00 00 00 00 02 00 00 00 00 00 76 c5 44 f4 60 6e a2 4e 9f aa 80 d5 7e d1 2c d2 04 00 02 00 08 00 02 00 01 00 00 00 0c 00 02 00 08 00 00 00 10 00 02 00 97 2c b4 a3 04 9f 72 46 b8 7e ce e9 c4 83 25 7f 41 d4 cd b3 90 af ba 41 a7 45 7c 60 08 ff 23 01 01 00 00 00 01 00 00 00 01 00 00 00 02 00 00 00 14 00 02 00 02 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 04 00 00 00 04 00 00 00 18 00 02 00 18 00 00 00 00 00 00 00 18 00 00 00 40 00 46 00 69 00 72 00 65 00 77 00 61 00 6c 00 6c 00 41 00 50 00 49 00 2e 00 64 00 6c 00 6c 00 2c 00 2d 00 32 00 33 00 35 00 30 00 35 00 00 00 18 00 00 00 00 00 00 00 18 00 00 00 40 00 46 00 69 00 72 00 65 00 77 00 61 00 6c 00 6c 00 41 00 50 00 49 00 2e 00 64 00 6c 00 6c 00 2c 00 2d 00 32 00 33 00 35 00 30 00 36 00 00 00 ca 16 cc de 33 3f 46 43 be 1e 8f b4 ae 0f 3d 62 08 00 00 00 ff ff ff ff ff ff ff ff 02 00 00 00 2b ef 71 39 3e 62 9a 4f 8c b1 6e 79 b8 06 b9 a7 00 00 00 00 01 00 00 00 01 00 00 00 3a 00 00 00 af a1 1b 0c 65 57 3f 45 af 22 a8 f7 91 ac 77 5b 00 00 00 00 02 00 00 00 02 00 00 00 87 00 00 00 00 00 00 00 00 00 00 00 00 e0 00 10 00 00 00 00`|
   
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20085
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe009f
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe009d
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x85
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">bindflt Service </span>
+
+##### Summary
 
 |Instances|
 | :---: |
@@ -3375,12 +4061,15 @@ SACL:
 
 ##### Service Parameters
   
-DebugOptions : `0x00`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">BITS Service </span>
+
+##### Summary
 
 |Performance|
 | :---: |
@@ -3390,42 +4079,9 @@ DebugOptions : `0x00`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\qmgr.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-32-544
-Group: S-1-0-32-544
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0xc0
-    Access: 0xc0000
-    SID: S-1-0-32-544
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -3435,20 +4091,18 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\Microsoft.Bluetooth.UserService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`2a305008-44b3-da4f-9be9-90576b8d46f0`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 38 bc a3 2f 02 92 09`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 48 bc a3 2f 02 92 09`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 58 bc a3 2f 02 92 09`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 68 bc a3 2f 02 92 09`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`2a305008-44b3-da4f-9be9-90576b8d46f0`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 38 bc a3 2f 02 92 09`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 48 bc a3 2f 02 92 09`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 58 bc a3 2f 02 92 09`|
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 68 bc a3 2f 02 92 09`|
   
 <br></br>  
 
@@ -3456,9 +4110,18 @@ ServiceDllUnloadOnStop : `0x01`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">bowser Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%systemroot%\system32\wkssvc.dll,-2000`|`@%systemroot%\system32\wkssvc.dll,-2001`|`SERVICE_ERROR_NORMAL`|`Network`|`system32\DRIVERS\bowser.sys`|`SERVICE_DEMAND_START`|`0x05`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`@%systemroot%\system32\wkssvc.dll,-2000`|`@%systemroot%\system32\wkssvc.dll,-2001`|`SERVICE_ERROR_NORMAL`|`Network`|`system32\DRIVERS\bowser.sys`|`0x03`|`0x05`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -3469,44 +4132,9 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-EnergyBudgetBgTaskPercentage : `0x0f`  
-EnergyBudgetImportanceDecayPeriodDays : `0x07`  
-EnergyBudgetRundownTarget : `0xb40`  
-ServiceDll : `%SystemRoot%\System32\psmsrv.dll`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20085
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x95
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -3516,18 +4144,15 @@ SACL:
 
 ##### Service Parameters
   
-MaintainServerList : `Auto`  
-ServiceDll : `%SystemRoot%\System32\browser.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|Data1|Data2|DataType0|DataType1|DataType2|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`079e56b7-2184-e04e-ad10-86915afdad09`|`SERVICE_TRIGGER_TYPE_FIREWALL_PORT_EVENT`|`31 00 33 00 39 00 00 00 54 00 43 00 50 00 00 00 53 00 79 00 73 00 74 00 65 00 6d 00 00 00 00 00`|`31 00 33 00 37 00 00 00 55 00 44 00 50 00 00 00 53 00 79 00 73 00 74 00 65 00 6d 00 00 00 00 00`|`31 00 33 00 38 00 00 00 55 00 44 00 50 00 00 00 53 00 79 00 73 00 74 00 65 00 6d 00 00 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_STOP`|`38ed44a1-128e-e44d-9d96-e64740b1a524`|`SERVICE_TRIGGER_TYPE_FIREWALL_PORT_EVENT`|`31 00 33 00 39 00 00 00 54 00 43 00 50 00 00 00 53 00 79 00 73 00 74 00 65 00 6d 00 00 00 00 00`|`31 00 33 00 37 00 00 00 55 00 44 00 50 00 00 00 53 00 79 00 73 00 74 00 65 00 6d 00 00 00 00 00`|`31 00 33 00 38 00 00 00 55 00 44 00 50 00 00 00 53 00 79 00 73 00 74 00 65 00 6d 00 00 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|Parameter 1|Parameter 2|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`079e56b7-2184-e04e-ad10-86915afdad09`|`SERVICE_TRIGGER_TYPE_FIREWALL_PORT_EVENT`|`139TCPSystem`|`137UDPSystem`|`138UDPSystem`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_STOP`|`38ed44a1-128e-e44d-9d96-e64740b1a524`|`SERVICE_TRIGGER_TYPE_FIREWALL_PORT_EVENT`|`139TCPSystem`|`137UDPSystem`|`138UDPSystem`|
   
 <br></br>  
 
@@ -3555,9 +4180,18 @@ Settings : `{}`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">BthA2dp Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\BthA2dp.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@microsoft_bluetooth_a2dp.inf,%BthA2dp.ServiceDescription%;Microsoft Bluetooth A2dp driver`|`microsoft_bluetooth_a2dp_src.inf`|
+|`\SystemRoot\System32\drivers\BthA2dp.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@microsoft_bluetooth_a2dp.inf,%BthA2dp.ServiceDescription%;Microsoft Bluetooth A2dp driver`|`microsoft_bluetooth_a2dp_src.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -3599,15 +4233,26 @@ PM_LocalDeviceName : ``
 PM_DevicesAllowedList : `00`  
 PM_ServicesAllowedList : `00`  
 PM_RequireRestrictedMode : `0x00`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">BthHFEnum Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\bthhfenum.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x01`|`@microsoft_bluetooth_hfp.inf,%BTHHFENUM_DISPLAY_NAME%;Microsoft Bluetooth Hands-Free Profile driver`|`microsoft_bluetooth_hfp_hf.infmicrosoft_bluetooth_hfp_ag.inf`|
+|`\SystemRoot\System32\drivers\bthhfenum.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x01`|`@microsoft_bluetooth_hfp.inf,%BTHHFENUM_DISPLAY_NAME%;Microsoft Bluetooth Hands-Free Profile driver`|`microsoft_bluetooth_hfp_hf.infmicrosoft_bluetooth_hfp_ag.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -3629,24 +4274,44 @@ PM_LocalDeviceName : ``
 PM_DevicesAllowedList : `00`  
 PM_ServicesAllowedList : `00`  
 PM_RequireRestrictedMode : `0x00`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">BthMini Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\BTHMINI.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`0x07`|`@bth.inf,%BTHMINI.SvcDesc%;Bluetooth Radio Driver`|`bth.inf`|
+|`\SystemRoot\System32\drivers\BTHMINI.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`0x07`|`@bth.inf,%BTHMINI.SvcDesc%;Bluetooth Radio Driver`|`bth.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">BTHMODEM Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\bthmodem.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@mdmbtmdm.inf,%BthModem.DisplayName%;Bluetooth Modem Communications Driver`|`bthspp.inf`|
+|`\SystemRoot\System32\drivers\bthmodem.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@mdmbtmdm.inf,%BthModem.DisplayName%;Bluetooth Modem Communications Driver`|`bthspp.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -3680,7 +4345,9 @@ ServiceGroups : `{'MonoAudio': b'{\x000\x000\x000\x000\x001\x001\x001\x00e\x00-\
 Services : `{}`  
 SupportedServices : `{'{00001124-0000-1000-8000-00805f9b34fb}': 1, '{00001126-0000-1000-8000-00805f9b34fb}': 1, '{00001103-0000-1000-8000-00805f9b34fb}': 1, '{00001101-0000-1000-8000-00805f9b34fb}': 1}`  
 UnsupportedServices : `{'{00001200-0000-1000-8000-00805F9B34FB}': 1, '{00001000-0000-1000-8000-00805f9b34fb}': 1, '{00001001-0000-1000-8000-00805f9b34fb}': 1, '{00001002-0000-1000-8000-00805f9b34fb}': 1, '{00001115-0000-1000-8000-00805f9b34fb}': 1, '{00001105-0000-1000-8000-00805f9b34fb}': 1, '{00001106-0000-1000-8000-00805f9b34fb}': 1, '{00001107-0000-1000-8000-00805f9b34fb}': 1, '{00001116-0000-1000-8000-00805f9b34fb}': 1, '{00001117-0000-1000-8000-00805f9b34fb}': 1, '{00001112-0000-1000-8000-00805f9b34fb}': 1, '{00001104-0000-1000-8000-00805f9b34fb}': 1, '{0000112d-0000-1000-8000-00805f9b34fb}': 1, '{0000112e-0000-1000-8000-00805f9b34fb}': 1, '{0000112f-0000-1000-8000-00805f9b34fb}': 1, '{00001111-0000-1000-8000-00805f9b34fb}': 1, '{c7f94713-891e-496a-a0e7-983a0946126e}': 1, '{00001800-0000-1000-8000-00805f9b34fb}': 1, '{00001801-0000-1000-8000-00805f9b34fb}': 1, '{0000180a-0000-1000-8000-00805f9b34fb}': 1, '{00001813-0000-1000-8000-00805f9b34fb}': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -3696,11 +4363,11 @@ BluetoothControlPanelTasks : `{'State': 0}`
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`2a305008-44b3-da4f-9be9-90576b8d46f0`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`44 00 30 00 39 00 42 00 44 00 45 00 42 00 35 00 2d 00 36 00 31 00 37 00 31 00 2d 00 34 00 41 00 33 00 34 00 2d 00 42 00 46 00 45 00 32 00 2d 00 30 00 36 00 46 00 41 00 38 00 32 00 36 00 35 00 32 00 35 00 36 00 38 00 3a 00 46 00 43 00 43 00 41 00 45 00 39 00 36 00 32 00 2d 00 34 00 37 00 32 00 32 00 2d 00 34 00 30 00 43 00 37 00 2d 00 41 00 34 00 36 00 44 00 2d 00 46 00 45 00 35 00 31 00 35 00 33 00 32 00 38 00 30 00 37 00 32 00 33 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`32 00 41 00 43 00 42 00 39 00 44 00 36 00 38 00 2d 00 42 00 34 00 33 00 34 00 2d 00 34 00 42 00 33 00 45 00 2d 00 42 00 39 00 36 00 36 00 2d 00 45 00 30 00 36 00 42 00 34 00 42 00 33 00 41 00 38 00 34 00 43 00 42 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`2a305008-44b3-da4f-9be9-90576b8d46f0`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`D09BDEB5-6171-4A34-BFE2-06FA82652568:FCCAE962-4722-40C7-A46D-FE5153280723`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`2ACB9D68-B434-4B3E-B966-E06B4B3A84CB`|
   
 <br></br>  
 
@@ -3708,36 +4375,72 @@ BluetoothControlPanelTasks : `{'State': 0}`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">BTHUSB Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\BTHUSB.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`0x09`|`@bth.inf,%BTHUSB.SvcDesc%;Bluetooth Radio USB Driver`|`bth.inf`|
+|`\SystemRoot\System32\drivers\BTHUSB.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`0x09`|`@bth.inf,%BTHUSB.SvcDesc%;Bluetooth Radio USB Driver`|`bth.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">bttflt Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|BootFlags|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\bttflt.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`PnP Filter`|`0x06`|`@virtdisk.inf,%service_desc%;Microsoft Hyper-V VHDPMEM BTT Filter`|`virtdisk.inf`|`0x02`|
+|`System32\drivers\bttflt.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`PnP Filter`|`0x06`|`@virtdisk.inf,%service_desc%;Microsoft Hyper-V VHDPMEM BTT Filter`|`virtdisk.inf`|`0x02`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">buttonconverter Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\buttonconverter.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@buttonconverter.inf,%btnconv.SvcDesc%;Service for Portable Device Control devices`|`buttonconverter.inf`|
+|`\SystemRoot\System32\drivers\buttonconverter.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@buttonconverter.inf,%btnconv.SvcDesc%;Service for Portable Device Control devices`|`buttonconverter.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">CAD Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\CAD.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@ChargeArbitration.inf,%CAD_DevDesc%;Charge Arbitration Driver`|`ChargeArbitration.inf`|
+|`\SystemRoot\System32\drivers\CAD.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@ChargeArbitration.inf,%CAD_DevDesc%;Charge Arbitration Driver`|`ChargeArbitration.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -3748,8 +4451,9 @@ BluetoothControlPanelTasks : `{'State': 0}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\CapabilityAccessManager.dll`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -3759,10 +4463,9 @@ ServiceDll : `%SystemRoot%\system32\CapabilityAccessManager.dll`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\CaptureService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -3772,55 +4475,26 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\cbdhsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">cdfs Service </span>
 
+##### Summary
+
 |DependOnGroup|Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`53 00 43 00 53 00 49 00 20 00 43 00 44 00 52 00 4f 00 4d 00 20 00 43 00 6c 00 61 00 73 00 73 00 00 00 00 00`|`ISO9660/Joliet File System Reader for CD/DVDs. (Core) (All pieces)`|`CD/DVD File System Reader`|`SERVICE_ERROR_NORMAL`|`Boot File System`|`system32\DRIVERS\cdfs.sys`|`SERVICE_DISABLED`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`53 00 43 00 53 00 49 00 20 00 43 00 44 00 52 00 4f 00 4d 00 20 00 43 00 6c 00 61 00 73 00 73 00 00 00 00 00`|`ISO9660/Joliet File System Reader for CD/DVDs. (Core) (All pieces)`|`CD/DVD File System Reader`|`SERVICE_ERROR_NORMAL`|`Boot File System`|`system32\DRIVERS\cdfs.sys`|`0x04`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -3831,47 +4505,7 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\CDPSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
@@ -3890,55 +4524,26 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\CDPUserSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">cdrom Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|AutoRun|AutoRunAlwaysDisable|BootFlags|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\cdrom.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_SYSTEM_START`|`SERVICE_ERROR_NORMAL`|`SCSI CDROM Class`|`0x01`|`@cdrom.inf,%cdrom_ServiceDesc%;CD-ROM Driver`|`cdrom.inf`|`0x01`|`4e 00 45 00 43 00 20 00 20 00 20 00 20 00 20 00 4d 00 42 00 52 00 2d 00 37 00 20 00 20 00 20 00 00 00 4e 00 45 00 43 00 20 00 20 00 20 00 20 00 20 00 4d 00 42 00 52 00 2d 00 37 00 2e 00 34 00 20 00 00 00 50 00 49 00 4f 00 4e 00 45 00 45 00 52 00 20 00 43 00 48 00 41 00 4e 00 47 00 52 00 20 00 44 00 52 00 4d 00 2d 00 31 00 38 00 30 00 34 00 58 00 00 00 50 00 49 00 4f 00 4e 00 45 00 45 00 52 00 20 00 43 00 44 00 2d 00 52 00 4f 00 4d 00 20 00 44 00 52 00 4d 00 2d 00 36 00 33 00 32 00 34 00 58 00 00 00 50 00 49 00 4f 00 4e 00 45 00 45 00 52 00 20 00 43 00 44 00 2d 00 52 00 4f 00 4d 00 20 00 44 00 52 00 4d 00 2d 00 36 00 32 00 34 00 58 00 20 00 00 00 54 00 4f 00 52 00 69 00 53 00 41 00 4e 00 20 00 43 00 44 00 2d 00 52 00 4f 00 4d 00 20 00 43 00 44 00 52 00 5f 00 43 00 33 00 36 00 00 00 00 00`|`0x80`|
+|`\SystemRoot\System32\drivers\cdrom.sys`|`SERVICE_KERNEL_DRIVER`|`0x01`|`SERVICE_ERROR_NORMAL`|`SCSI CDROM Class`|`0x01`|`@cdrom.inf,%cdrom_ServiceDesc%;CD-ROM Driver`|`cdrom.inf`|`0x01`|`4e 00 45 00 43 00 20 00 20 00 20 00 20 00 20 00 4d 00 42 00 52 00 2d 00 37 00 20 00 20 00 20 00 00 00 4e 00 45 00 43 00 20 00 20 00 20 00 20 00 20 00 4d 00 42 00 52 00 2d 00 37 00 2e 00 34 00 20 00 00 00 50 00 49 00 4f 00 4e 00 45 00 45 00 52 00 20 00 43 00 48 00 41 00 4e 00 47 00 52 00 20 00 44 00 52 00 4d 00 2d 00 31 00 38 00 30 00 34 00 58 00 00 00 50 00 49 00 4f 00 4e 00 45 00 45 00 52 00 20 00 43 00 44 00 2d 00 52 00 4f 00 4d 00 20 00 44 00 52 00 4d 00 2d 00 36 00 33 00 32 00 34 00 58 00 00 00 50 00 49 00 4f 00 4e 00 45 00 45 00 52 00 20 00 43 00 44 00 2d 00 52 00 4f 00 4d 00 20 00 44 00 52 00 4d 00 2d 00 36 00 32 00 34 00 58 00 20 00 00 00 54 00 4f 00 52 00 69 00 53 00 41 00 4e 00 20 00 43 00 44 00 2d 00 52 00 4f 00 4d 00 20 00 43 00 44 00 52 00 5f 00 43 00 33 00 36 00 00 00 00 00`|`0x80`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -3949,48 +4554,7 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\certprop.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `CertPropServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-32-544
-Group: S-1-0-32-544
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x30
-    SID: S-1-0-80-446051430-1559341753-4161941529-1950928533-810483104
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0xc0
-    Access: 0xc0000
-    SID: S-1-0-32-544
-
-```
+<br></br>
 
 
 ##### Service Triggers
@@ -4010,9 +4574,9 @@ SACL:
 
 ##### Service Parameters
   
-BusType : `0x09`  
-IoTimeoutValue : `0x1e`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -4022,21 +4586,33 @@ IoTimeoutValue : `0x1e`
 
 ##### Service Parameters
   
-BootFlags : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">CimFS Service </span>
 
+##### Summary
+
 |ErrorControl|Group|Start|Type|
 | :---: | :---: | :---: | :---: |
-|`SERVICE_ERROR_NORMAL`|`File system`|`SERVICE_SYSTEM_START`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`SERVICE_ERROR_NORMAL`|`File system`|`0x01`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">circlass Service </span>
+
+##### Summary
 
 |Decoders|
 | :---: |
@@ -4047,15 +4623,26 @@ BootFlags : `0x01`
 ##### Service Parameters
   
 Wdf : `{'KmdfLibraryVersion': '1.5'}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">CldFlt Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -4066,47 +4653,9 @@ Wdf : `{'KmdfLibraryVersion': '1.5'}`
 
 ##### Service Parameters
   
-EventLogLevel : `0x02`  
-FlushThreshold : `0x9c40`  
-MasterFilePath : `\SystemRoot\System32\config`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-Group: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2008d
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2008d
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2008d
-    SID: S-1-0-32-545
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2008d
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2008d
-    SID: S-1-0-3-1024-1065365936-1281604716-3511738428-1654721687-432734479-3232135806-4053264122-3456934681
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -4116,69 +4665,21 @@ DACL:
 
 ##### Service Parameters
   
-DisableSubscription : `0x00`  
-InactivityShutdownDelay : `0x12c`  
-RefreshRequired : `0x01`  
-ServiceDll : `%SystemRoot%\System32\ClipSVC.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x94
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`36 00 34 00 44 00 31 00 44 00 30 00 34 00 35 00 2d 00 46 00 36 00 37 00 35 00 2d 00 34 00 36 00 30 00 42 00 2d 00 38 00 41 00 39 00 34 00 2d 00 35 00 37 00 30 00 32 00 34 00 36 00 42 00 33 00 36 00 44 00 41 00 42 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 21 07 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 21 07 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 21 07 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 20 bc a3 21 07 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 28 bc a3 21 07 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|6|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 30 bc a3 21 07 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|7|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 68 bc a3 22 02 8f 02`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`64D1D045-F675-460B-8A94-570246B36DAB`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 21 07 85 41`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 21 07 85 41`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 21 07 85 41`|
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 20 bc a3 21 07 85 41`|
+|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 28 bc a3 21 07 85 41`|
+|6|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 30 bc a3 21 07 85 41`|
+|7|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 68 bc a3 22 02 8f 02`|
   
 <br></br>  
 
@@ -4190,112 +4691,152 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\cloudidsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-3-1024-1065365936-1281604716-3511738428-1654721687-432734479-3232135806-4053264122-3456934681
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">clr_optimization_v4.0.30319_32 Service </span>
 
+##### Summary
+
 |DelayedAutostart|FailureActions|RequiredPrivileges|
 | :---: | :---: | :---: |
 |`0x01`|`84 03 00 00 00 00 00 00 00 00 00 00 03 00 00 00 f9 31 0f 70 01 00 00 00 c0 d4 01 00 01 00 00 00 e0 93 04 00 00 00 00 00 00 00 00 00`|`['SeCreateGlobalPrivilege', 'SeChangeNotifyPrivilege', 'SeIncreaseBasePriorityPrivilege', 'SeIncreaseQuotaPrivilege', 'SeTcbPrivilege', 'SeAssignPrimaryTokenPrivilege', 'SeShutdownPrivilege']`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">clr_optimization_v4.0.30319_64 Service </span>
 
+##### Summary
+
 |DelayedAutostart|FailureActions|RequiredPrivileges|
 | :---: | :---: | :---: |
 |`0x01`|`84 03 00 00 00 00 00 00 00 00 00 00 03 00 00 00 f9 31 0f 70 01 00 00 00 c0 d4 01 00 01 00 00 00 e0 93 04 00 00 00 00 00 00 00 00 00`|`['SeCreateGlobalPrivilege', 'SeChangeNotifyPrivilege', 'SeIncreaseBasePriorityPrivilege', 'SeIncreaseQuotaPrivilege', 'SeTcbPrivilege', 'SeAssignPrimaryTokenPrivilege', 'SeShutdownPrivilege']`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">CmBatt Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\CmBatt.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@cmbatt.inf,%CmBatt.SvcDesc%;Microsoft ACPI Control Method Battery Driver`|`cmbatt.inf`|
+|`\SystemRoot\System32\drivers\CmBatt.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@cmbatt.inf,%CmBatt.SvcDesc%;Microsoft ACPI Control Method Battery Driver`|`cmbatt.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">CNG Service </span>
 
+##### Summary
+
 |ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`SERVICE_ERROR_CRITICAL`|`Core`|`System32\Drivers\cng.sys`|`SERVICE_BOOT_START`|`0x04`|`SERVICE_KERNEL_DRIVER`|
+|`SERVICE_ERROR_CRITICAL`|`Core`|`System32\Drivers\cng.sys`|`0x00`|`0x04`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">cnghwassist Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\cnghwassist.sys,-100`|`@%SystemRoot%\system32\drivers\cnghwassist.sys,-100`|`SERVICE_ERROR_NORMAL`|`Base`|`System32\DRIVERS\cnghwassist.sys`|`SERVICE_BOOT_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\cnghwassist.sys,-100`|`@%SystemRoot%\system32\drivers\cnghwassist.sys,-100`|`SERVICE_ERROR_NORMAL`|`Base`|`System32\DRIVERS\cnghwassist.sys`|`0x00`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">CompositeBus Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\DriverStore\FileRepository\compositebus.inf_amd64_7500cffa210c6946\CompositeBus.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x0b`|`@compositebus.inf,%CompositeBus.SVCDESC%;Composite Bus Enumerator Driver`|`compositebus.inf`|
+|`\SystemRoot\System32\DriverStore\FileRepository\compositebus.inf_amd64_7500cffa210c6946\CompositeBus.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x0b`|`@compositebus.inf,%CompositeBus.SVCDESC%;Composite Bus Enumerator Driver`|`compositebus.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">COMSysApp Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|FailureActions|ImagePath|ObjectName|RequiredPrivileges|ServiceSidType|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`RpcSsEventSystemSENS`|`@comres.dll,-948`|`@comres.dll,-947`|`SERVICE_ERROR_NORMAL`|`1e 00 00 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 e8 03 00 00 01 00 00 00 88 13 00 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}`|`LocalSystem`|`['SeAssignPrimaryTokenPrivilege', 'SeAuditPrivilege', 'SeChangeNotifyPrivilege', 'SeCreateGlobalPrivilege', 'SeDebugPrivilege', 'SeImpersonatePrivilege', 'SeIncreaseQuotaPrivilege']`|`SERVICE_SID_TYPE_UNRESTRICTED`|`SERVICE_DEMAND_START`|`SERVICE_WIN32_OWN_PROCESS`|
+|`RpcSsEventSystemSENS`|`@comres.dll,-948`|`@comres.dll,-947`|`SERVICE_ERROR_NORMAL`|`1e 00 00 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 e8 03 00 00 01 00 00 00 88 13 00 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}`|`LocalSystem`|`['SeAssignPrimaryTokenPrivilege', 'SeAuditPrivilege', 'SeChangeNotifyPrivilege', 'SeCreateGlobalPrivilege', 'SeDebugPrivilege', 'SeImpersonatePrivilege', 'SeIncreaseQuotaPrivilege']`|`SERVICE_SID_TYPE_UNRESTRICTED`|`0x03`|`SERVICE_WIN32_OWN_PROCESS`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">condrv Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Console Driver`|`SERVICE_ERROR_NORMAL`|`Base`|`System32\drivers\condrv.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`Console Driver`|`SERVICE_ERROR_NORMAL`|`Base`|`System32\drivers\condrv.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -4306,36 +4847,9 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\ConsentUxClient.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -4345,81 +4859,39 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\coremessaging.dll`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-2-1
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">CoreUI Service </span>
 
+##### Summary
+
 |Navigation|
 | :---: |
 |`Navigation`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">CredentialEnrollmentManagerUserSvc Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-2-1
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -4429,60 +4901,26 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\cryptsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `CryptServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-549
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-3-1024-3203351429-2120443784-2872670797-1918958302-2829055647-4275794519-765664414-2751773334
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">CSC Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`rdbss`|`@%systemroot%\system32\cscsvc.dll,-203`|`@%systemroot%\system32\cscsvc.dll,-202`|`SERVICE_ERROR_NORMAL`|`network`|`system32\drivers\csc.sys`|`SERVICE_SYSTEM_START`|`0x09`|`SERVICE_KERNEL_DRIVER`|
+|`rdbss`|`@%systemroot%\system32\cscsvc.dll,-203`|`@%systemroot%\system32\cscsvc.dll,-202`|`SERVICE_ERROR_NORMAL`|`network`|`system32\drivers\csc.sys`|`0x01`|`0x09`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -4493,16 +4931,14 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\cscsvc.dll`  
-ServiceMain : `CscServiceMain`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 2e 1d 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 2e 1d 85 41`|
   
 <br></br>  
 
@@ -4510,18 +4946,36 @@ ServiceMain : `CscServiceMain`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">dam Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|ImagePath|Start|Type|WOW64|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\dam.sys,-101`|`@%SystemRoot%\system32\drivers\dam.sys,-100`|`SERVICE_ERROR_NORMAL`|`system32\drivers\dam.sys`|`SERVICE_SYSTEM_START`|`SERVICE_KERNEL_DRIVER`|`0x14c`|
+|`@%SystemRoot%\system32\drivers\dam.sys,-101`|`@%SystemRoot%\system32\drivers\dam.sys,-100`|`SERVICE_ERROR_NORMAL`|`system32\drivers\dam.sys`|`0x01`|`SERVICE_KERNEL_DRIVER`|`0x14c`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">DCLocator Service </span>
 
+##### Summary
+
 |Tracing|
 | :---: |
 |`{}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -4532,41 +4986,9 @@ ServiceMain : `CscServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\rpcss.dll`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20085
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x85
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -4576,8 +4998,9 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%Systemroot%\System32\defragsvc.dll`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -4587,36 +5010,9 @@ ServiceDll : `%Systemroot%\System32\defragsvc.dll`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\deviceaccess.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-2-1
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -4626,18 +5022,17 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\das.dll`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`62 00 64 00 38 00 34 00 63 00 64 00 38 00 36 00 2d 00 39 00 38 00 32 00 35 00 2d 00 34 00 33 00 37 00 36 00 2d 00 38 00 31 00 33 00 64 00 2d 00 33 00 33 00 34 00 63 00 35 00 34 00 33 00 66 00 38 00 39 00 62 00 31 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`38 00 35 00 30 00 63 00 65 00 65 00 35 00 32 00 2d 00 33 00 30 00 33 00 38 00 2d 00 34 00 32 00 37 00 37 00 2d 00 62 00 39 00 62 00 34 00 2d 00 65 00 30 00 35 00 64 00 62 00 38 00 62 00 32 00 63 00 33 00 35 00 63 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`32 00 65 00 37 00 64 00 34 00 39 00 33 00 35 00 2d 00 35 00 39 00 64 00 32 00 2d 00 34 00 33 00 31 00 32 00 2d 00 61 00 32 00 63 00 38 00 2d 00 34 00 31 00 39 00 30 00 30 00 61 00 61 00 35 00 34 00 39 00 35 00 66 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`61 00 31 00 64 00 34 00 65 00 61 00 65 00 37 00 2d 00 33 00 39 00 66 00 38 00 2d 00 34 00 62 00 63 00 61 00 2d 00 38 00 65 00 37 00 32 00 2d 00 38 00 33 00 32 00 37 00 36 00 37 00 66 00 35 00 30 00 38 00 32 00 61 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`bd84cd86-9825-4376-813d-334c543f89b1`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`850cee52-3038-4277-b9b4-e05db8b2c35c`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`2e7d4935-59d2-4312-a2c8-41900aa5495f`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`a1d4eae7-39f8-4bca-8e72-832767f5082a`|
   
 <br></br>  
 
@@ -4649,17 +5044,15 @@ ServiceDll : `%SystemRoot%\system32\das.dll`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\umpnpmgr.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`35 00 63 00 39 00 61 00 34 00 63 00 64 00 37 00 2d 00 62 00 61 00 37 00 35 00 2d 00 34 00 35 00 64 00 32 00 2d 00 39 00 38 00 39 00 38 00 2d 00 31 00 37 00 37 00 33 00 62 00 33 00 64 00 31 00 65 00 35 00 66 00 31 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 3d 00 96 02`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`5c9a4cd7-ba75-45d2-9898-1773b3d1e5f1`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 3d 00 96 02`|
   
 <br></br>  
 
@@ -4671,46 +5064,9 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\Windows.Devices.Picker.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-21-2702878673-795188819-444038987-2781
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -4720,47 +5076,9 @@ DACL:
 
 ##### Service Parameters
   
-LegacyCOMBehavior : `0x01`  
-ServiceDll : `%SystemRoot%\System32\DevicesFlowBroker.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-21-2702878673-795188819-444038987-2781
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -4770,15 +5088,14 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\DevQueryBroker.dll`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`44 00 30 00 39 00 42 00 44 00 45 00 42 00 35 00 2d 00 36 00 31 00 37 00 31 00 2d 00 34 00 41 00 33 00 34 00 2d 00 42 00 46 00 45 00 32 00 2d 00 30 00 36 00 46 00 41 00 38 00 32 00 36 00 35 00 32 00 35 00 36 00 38 00 3a 00 33 00 31 00 34 00 63 00 38 00 34 00 32 00 37 00 2d 00 34 00 61 00 64 00 37 00 2d 00 34 00 32 00 33 00 33 00 2d 00 39 00 39 00 35 00 61 00 2d 00 62 00 62 00 64 00 30 00 36 00 32 00 65 00 64 00 31 00 31 00 65 00 39 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`D09BDEB5-6171-4A34-BFE2-06FA82652568:314c8427-4ad7-4233-995a-bbd062ed11e9`|
   
 <br></br>  
 
@@ -4790,12 +5107,15 @@ ServiceDll : `%SystemRoot%\system32\DevQueryBroker.dll`
 
 ##### Service Parameters
   
-UseDCLocatorSiteName : `0x00`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Dhcp Service </span>
+
+##### Summary
 
 |Configurations|Linkage|Parametersv6|
 | :---: | :---: | :---: |
@@ -4806,53 +5126,26 @@ UseDCLocatorSiteName : `0x00`
 ##### Service Parameters
   
 Options : `Options`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-556
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">diagnosticshub.standardcollector.service Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|ImagePath|ObjectName|RequiredPrivileges|ServiceSidType|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.ServiceRes.dll,-1001`|`@%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.ServiceRes.dll,-1000`|`SERVICE_ERROR_NORMAL`|`%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe`|`LocalSystem`|`['SeImpersonatePrivilege', 'SeSystemProfilePrivilege', 'SeDebugPrivilege']`|`SERVICE_SID_TYPE_UNRESTRICTED`|`SERVICE_DEMAND_START`|`SERVICE_WIN32_OWN_PROCESS`|
+|`@%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.ServiceRes.dll,-1001`|`@%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.ServiceRes.dll,-1000`|`SERVICE_ERROR_NORMAL`|`%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe`|`LocalSystem`|`['SeImpersonatePrivilege', 'SeSystemProfilePrivilege', 'SeDebugPrivilege']`|`SERVICE_SID_TYPE_UNRESTRICTED`|`0x03`|`SERVICE_WIN32_OWN_PROCESS`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -4863,17 +5156,14 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\DiagSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`46 00 44 00 44 00 34 00 35 00 39 00 32 00 34 00 2d 00 37 00 38 00 34 00 41 00 2d 00 34 00 39 00 39 00 43 00 2d 00 41 00 45 00 45 00 39 00 2d 00 30 00 38 00 31 00 33 00 38 00 35 00 30 00 43 00 45 00 31 00 38 00 32 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`FDD45924-784A-499C-AEE9-0813850CE182`|
   
 <br></br>  
 
@@ -4885,10 +5175,9 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\diagtrack.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -4898,18 +5187,26 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\DialogBlockingService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">disk Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|AutoRunAlwaysDisable|TimeOutValue|IoTimeoutValue|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\disk.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`@disk.inf,%disk_ServiceDesc%;Disk Driver`|`wstorflt.infdisk.infvirtdisk.infsmrdisk.inf`|`42 00 72 00 6f 00 74 00 68 00 65 00 72 00 20 00 52 00 65 00 6d 00 6f 00 76 00 61 00 62 00 6c 00 65 00 44 00 69 00 73 00 6b 00 28 00 55 00 29 00 00 00 00 00`|`0x41`|`0x3c`|
+|`System32\drivers\disk.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`@disk.inf,%disk_ServiceDesc%;Disk Driver`|`wstorflt.infdisk.infvirtdisk.infsmrdisk.inf`|`42 00 72 00 6f 00 74 00 68 00 65 00 72 00 20 00 52 00 65 00 6d 00 6f 00 76 00 61 00 62 00 6c 00 65 00 44 00 69 00 73 00 6b 00 28 00 55 00 29 00 00 00 00 00`|`0x41`|`0x3c`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -4920,10 +5217,9 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\DispBroker.Desktop.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -4933,64 +5229,18 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\Microsoft.Graphics.Display.DisplayEnhancementService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-SvcHostSplitDisable : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x114
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x114
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`41 00 36 00 39 00 38 00 31 00 36 00 46 00 35 00 2d 00 38 00 33 00 42 00 36 00 2d 00 34 00 44 00 34 00 38 00 2d 00 38 00 36 00 33 00 33 00 2d 00 30 00 36 00 37 00 46 00 39 00 39 00 46 00 35 00 46 00 32 00 44 00 33 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`42 00 35 00 34 00 45 00 39 00 41 00 41 00 33 00 2d 00 43 00 46 00 32 00 39 00 2d 00 34 00 46 00 32 00 31 00 2d 00 41 00 38 00 45 00 41 00 2d 00 39 00 38 00 43 00 35 00 38 00 35 00 30 00 43 00 45 00 32 00 39 00 36 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`c815f197-9a59-5341-8894-d2d12899918a`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`ac9a02a7-dd77-dd4d-959b-054f5574f4fb`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`864052db-90ba-1e4e-be42-894e94ecf289`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`A69816F5-83B6-4D48-8633-067F99F5F2D3`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`B54E9AA3-CF29-4F21-A8EA-98C5850CE296`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`c815f197-9a59-5341-8894-d2d12899918a`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`ac9a02a7-dd77-dd4d-959b-054f5574f4fb`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`864052db-90ba-1e4e-be42-894e94ecf289`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
   
 <br></br>  
 
@@ -5002,18 +5252,26 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\Windows.Internal.Management.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">dmvsc Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Owners|
 | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\dmvsc.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`wdmvsc.inf`|
+|`\SystemRoot\System32\drivers\dmvsc.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`wdmvsc.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -5024,69 +5282,25 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-IdleTimeout(sec) : `0x78`  
-ServiceDll : `%SystemRoot%\system32\dmwappushsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-11
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`37 00 39 00 35 00 42 00 36 00 42 00 46 00 39 00 2d 00 39 00 37 00 42 00 36 00 2d 00 34 00 46 00 38 00 39 00 2d 00 42 00 44 00 38 00 44 00 2d 00 32 00 46 00 34 00 32 00 42 00 42 00 42 00 45 00 39 00 39 00 36 00 45 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`39 00 34 00 35 00 36 00 39 00 33 00 63 00 34 00 2d 00 33 00 36 00 34 00 38 00 2d 00 34 00 39 00 36 00 36 00 2d 00 62 00 32 00 61 00 61 00 2d 00 33 00 37 00 64 00 36 00 36 00 65 00 32 00 34 00 34 00 39 00 35 00 66 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`30 00 61 00 30 00 64 00 62 00 36 00 31 00 34 00 2d 00 65 00 39 00 66 00 62 00 2d 00 34 00 38 00 63 00 66 00 2d 00 39 00 31 00 34 00 33 00 2d 00 37 00 61 00 65 00 37 00 31 00 38 00 66 00 66 00 32 00 63 00 38 00 33 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 90 bc a3 28 00 92 13`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`795B6BF9-97B6-4F89-BD8D-2F42BBBE996E`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`945693c4-3648-4966-b2aa-37d66e24495f`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`0a0db614-e9fb-48cf-9143-7ae718ff2c83`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 90 bc a3 28 00 92 13`|
   
 <br></br>  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Dnscache Service </span>
+
+##### Summary
 
 |InterfaceSpecificParameters|mDNS|
 | :---: | :---: |
@@ -5101,80 +5315,7 @@ DnsConnections : `{}`
 DnsConnectionsProxies : `{}`  
 DnsPolicyConfig : `{}`  
 Probe : `{}`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2009d
-    SID: S-1-0-32-545
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x200dd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x200dd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2009d
-    SID: S-1-0-20
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2009d
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x200dd
-    SID: S-1-0-32-556
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x201cd
-    SID: S-1-0-80-2940520708-3855866260-481812779-327648279-1710889582
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2009d
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2009d
-    SID: S-1-0-3-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2009d
-    SID: S-1-0-3-2
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x2009d
-    SID: S-1-0-3-3
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0x200dd
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
@@ -5188,48 +5329,20 @@ SACL:
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">DoSvc Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20002
-    SID: S-1-0-80-3055155277-3816794035-3994065555-2874236192-2193176987
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```
+
+
+##### Service Parameters
+  
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 29 01 c6 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`e6ca9f65-db5b-a94d-b1ff-ca2a178d46e0`|`SERVICE_TRIGGER_TYPE_GROUP_POLICY`|||
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 29 01 c6 41`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`e6ca9f65-db5b-a94d-b1ff-ca2a178d46e0`|`SERVICE_TRIGGER_TYPE_GROUP_POLICY`||
   
 <br></br>  
 
@@ -5241,10 +5354,9 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\dot3svc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `Dot3SvcMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -5254,51 +5366,26 @@ ServiceMain : `Dot3SvcMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\dps.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">drmkaud Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\drmkaud.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@wdmaudio.inf,%drmkaud.SvcDesc%;Microsoft Trusted Audio Drivers`|`wdmaudio.inf`|
+|`\SystemRoot\System32\drivers\drmkaud.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@wdmaudio.inf,%drmkaud.SvcDesc%;Microsoft Trusted Audio Drivers`|`wdmaudio.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -5309,54 +5396,14 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\DeviceSetupManager.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x10
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 3d 00 96 02`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 3d 00 96 02`|
   
 <br></br>  
 
@@ -5368,53 +5415,14 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\DsSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-0(NULL)
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-2-1
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`42 00 46 00 34 00 44 00 43 00 39 00 31 00 32 00 2d 00 45 00 35 00 32 00 46 00 2d 00 34 00 39 00 30 00 34 00 2d 00 38 00 45 00 42 00 45 00 2d 00 39 00 33 00 31 00 37 00 43 00 31 00 42 00 44 00 44 00 34 00 39 00 37 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`BF4DC912-E52F-4904-8EBE-9317C1BDD497`|
   
 <br></br>  
 
@@ -5426,56 +5434,94 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\dusmsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">DXGKrnl Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Controls the underlying video driver stacks to provide fully-featured display capabilities.`|`LDDM Graphics Subsystem`|`SERVICE_ERROR_IGNORE`|`Video Init`|`\SystemRoot\System32\drivers\dxgkrnl.sys`|`SERVICE_SYSTEM_START`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+|`Controls the underlying video driver stacks to provide fully-featured display capabilities.`|`LDDM Graphics Subsystem`|`SERVICE_ERROR_IGNORE`|`Video Init`|`\SystemRoot\System32\drivers\dxgkrnl.sys`|`0x01`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Eaphost Service </span>
-  
-Methods : `Methods`
+
 
 
 ##### Service Parameters
   
 EapProvPlugin : `{'(Default)': '%SystemRoot%\\System32\\eapprovp.dll', 'DllEntryPoint': 'EapProvPlugGetInfo'}`  
-<br></br>  
+<br></br>
+
+  
+`<windows.registry.services.SystemHiveServiceMethod object at 0x000002BF61BC9E90>`  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ebdrv Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\evbda.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`0x03`|`@netevbda.inf,%vbd_srv_desc%;QLogic 10 Gigabit Ethernet Adapter VBD`|`netevbda.inf`|
+|`System32\drivers\evbda.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`0x03`|`@netevbda.inf,%vbd_srv_desc%;QLogic 10 Gigabit Ethernet Adapter VBD`|`netevbda.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">edgeupdate Service </span>
 
+##### Summary
+
 |DelayedAutostart|DependOnService|Description|DisplayName|ErrorControl|ImagePath|ObjectName|Start|Type|WOW64|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`0x00`|`RPCSS`|`Keeps your Microsoft software up to date. If this service is disabled or stopped, your Microsoft software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no Microsoft software using it.`|`Microsoft Edge Update Service (edgeupdate)`|`SERVICE_ERROR_NORMAL`|`"X:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /svc`|`LocalSystem`|`SERVICE_AUTO_START`|`SERVICE_WIN32_OWN_PROCESS`|`0x14c`|
+|`0x00`|`RPCSS`|`Keeps your Microsoft software up to date. If this service is disabled or stopped, your Microsoft software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no Microsoft software using it.`|`Microsoft Edge Update Service (edgeupdate)`|`SERVICE_ERROR_NORMAL`|`"X:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /svc`|`LocalSystem`|`0x02`|`SERVICE_WIN32_OWN_PROCESS`|`0x14c`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">edgeupdatem Service </span>
 
+##### Summary
+
 |DelayedAutostart|DependOnService|Description|DisplayName|ErrorControl|ImagePath|ObjectName|Start|Type|WOW64|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`0x00`|`RPCSS`|`Keeps your Microsoft software up to date. If this service is disabled or stopped, your Microsoft software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no Microsoft software using it.`|`Microsoft Edge Update Service (edgeupdatem)`|`SERVICE_ERROR_NORMAL`|`"X:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /medsvc`|`LocalSystem`|`SERVICE_DEMAND_START`|`SERVICE_WIN32_OWN_PROCESS`|`0x14c`|
+|`0x00`|`RPCSS`|`Keeps your Microsoft software up to date. If this service is disabled or stopped, your Microsoft software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no Microsoft software using it.`|`Microsoft Edge Update Service (edgeupdatem)`|`SERVICE_ERROR_NORMAL`|`"X:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /medsvc`|`LocalSystem`|`0x03`|`SERVICE_WIN32_OWN_PROCESS`|`0x14c`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -5486,62 +5532,17 @@ EapProvPlugin : `{'(Default)': '%SystemRoot%\\System32\\eapprovp.dll', 'DllEntry
 
 ##### Service Parameters
   
-EdpCredLibProxy : `feclient.dll`  
-ServiceDll : `%SystemRoot%\system32\efssvc.dll`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201bf
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-2-1
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0xc0
-    Access: 0xd0002
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 28 08 95 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 88 bc a3 28 00 92 13`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`64 00 66 00 31 00 39 00 34 00 31 00 63 00 35 00 2d 00 66 00 65 00 38 00 39 00 2d 00 34 00 65 00 37 00 39 00 2d 00 62 00 66 00 31 00 30 00 2d 00 34 00 36 00 33 00 36 00 35 00 37 00 61 00 63 00 66 00 34 00 34 00 64 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`30 00 34 00 45 00 45 00 42 00 32 00 39 00 37 00 2d 00 43 00 42 00 46 00 34 00 2d 00 34 00 36 00 36 00 62 00 2d 00 38 00 41 00 32 00 41 00 2d 00 42 00 46 00 44 00 36 00 41 00 32 00 46 00 31 00 30 00 42 00 42 00 41 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 28 08 95 41`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 88 bc a3 28 00 92 13`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`df1941c5-fe89-4e79-bf10-463657acf44d`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`04EEB297-CBF4-466b-8A2A-BFD6A2F10BBA`|
   
 <br></br>  
 
@@ -5549,9 +5550,18 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">EhStorClass Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\EhStorClass.sys,-101`|`@%SystemRoot%\system32\drivers\EhStorClass.sys,-100`|`SERVICE_ERROR_NORMAL`|`SCSI Class`|`System32\drivers\EhStorClass.sys`|`SERVICE_BOOT_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\EhStorClass.sys,-101`|`@%SystemRoot%\system32\drivers\EhStorClass.sys,-100`|`SERVICE_ERROR_NORMAL`|`SCSI Class`|`System32\drivers\EhStorClass.sys`|`0x00`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -5562,8 +5572,9 @@ SACL:
 
 ##### Service Parameters
   
-KsrGuid : `{cd255889-bb93-475b-8cc3-cd3e0f609020}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -5573,60 +5584,14 @@ KsrGuid : `{cd255889-bb93-475b-8cc3-cd3e0f609020}`
 
 ##### Service Parameters
   
-Flags : `0x00`  
-ServiceDll : `%SystemRoot%\System32\embeddedmodesvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-Group: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 24 01 92 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 24 01 92 41`|
   
 <br></br>  
 
@@ -5634,78 +5599,61 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">EntAppSvc Service </span>
 
+##### Summary
+
+|parameters|
+| :---: |
+|`{'ServiceDll': '%SystemRoot%\\system32\\EnterpriseAppMgmtSvc.dll', 'ServiceDllUnloadOnStop': 1}`|
+
 
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\EnterpriseAppMgmtSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-Group: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ErrDev Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\errdev.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x22`|`@errdev.inf,%ERRDEV.SvcDesc%;Microsoft Hardware Error Device Driver`|`errdev.inf`|
+|`\SystemRoot\System32\drivers\errdev.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x22`|`@errdev.inf,%ERRDEV.SvcDesc%;Microsoft Hardware Error Device Driver`|`errdev.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ESENT Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'ClosePerformanceData', 'Collect': 'CollectPerformanceData', 'Library': '%systemroot%\\system32\\esentprf.dll', 'Open': 'OpenPerformanceData', 'InstallType': 1, 'PerfIniFile': 'esentprf.ini', 'First Counter': 6928, 'Last Counter': 8708, 'First Help': 6929, 'Last Help': 8709, 'Object List': '6928 7702 7934 8626'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">EventLog Service </span>
+
+##### Summary
 
 |Application|HardwareEvents|Internet Explorer|Key Management Service|System|Windows PowerShell|
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -5715,10 +5663,9 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDLL : `%SystemRoot%\System32\wevtsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -5728,67 +5675,74 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\es.dll`  
-ServiceDllUnLoadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">exfat Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`exFAT File System Driver`|`exFAT File System Driver`|`SERVICE_ERROR_NORMAL`|`Boot File System`|`SERVICE_DEMAND_START`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`exFAT File System Driver`|`exFAT File System Driver`|`SERVICE_ERROR_NORMAL`|`Boot File System`|`0x03`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">fastfat Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Note - dependance on CDROM.SYS only if required to read/write DVD-RAM media (which appears as CD class device). (Core) (All pieces)`|`FAT12/16/32 File System Driver`|`SERVICE_ERROR_NORMAL`|`Boot File System`|`SERVICE_DEMAND_START`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`Note - dependance on CDROM.SYS only if required to read/write DVD-RAM media (which appears as CD class device). (Core) (All pieces)`|`FAT12/16/32 File System Driver`|`SERVICE_ERROR_NORMAL`|`Boot File System`|`0x03`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Fax Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-0(NULL)
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-80-2117685068-4011115449-2646761356-2137676340-222423812
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-11
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">fdc Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\fdc.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@fdc.inf,%fdc_ServiceDesc%;Floppy Disk Controller Driver`|`fdc.inf`|
+|`\SystemRoot\System32\drivers\fdc.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@fdc.inf,%fdc_ServiceDesc%;Floppy Disk Controller Driver`|`fdc.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -5799,13 +5753,15 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\fdPHost.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">FDResPub Service </span>
+
+##### Summary
 
 |ServiceData|
 | :---: |
@@ -5815,54 +5771,14 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\fdrespub.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-556
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`3faccffb-6084-9f41-8e48-1f0b49cdb85e`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`50 00 52 00 4f 00 46 00 49 00 4c 00 45 00 5f 00 43 00 48 00 41 00 4e 00 47 00 45 00 44 00 5f 00 54 00 4f 00 5f 00 50 00 52 00 49 00 56 00 41 00 54 00 45 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`3faccffb-6084-9f41-8e48-1f0b49cdb85e`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`PROFILE_CHANGED_TO_PRIVATE`|
   
 <br></br>  
 
@@ -5874,31 +5790,7 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\fhsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-11
-
-```
+<br></br>
 
 
 ##### Service Triggers
@@ -5914,45 +5806,90 @@ DACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">FileCrypt Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">FileInfo Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Filetrace Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">flpydisk Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\flpydisk.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@flpydisk.inf,%floppy_ServiceDesc%;Floppy Disk Driver`|`flpydisk.inf`|
+|`\SystemRoot\System32\drivers\flpydisk.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@flpydisk.inf,%floppy_ServiceDesc%;Floppy Disk Driver`|`flpydisk.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">FltMgr Service </span>
 
+##### Summary
+
 |AttachWhenLoaded|Description|DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`0x01`|`@%SystemRoot%\system32\drivers\fltmgr.sys,-10000`|`@%SystemRoot%\system32\drivers\fltmgr.sys,-10001`|`SERVICE_ERROR_CRITICAL`|`FSFilter Infrastructure`|`system32\drivers\fltmgr.sys`|`SERVICE_BOOT_START`|`0x01`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`0x01`|`@%SystemRoot%\system32\drivers\fltmgr.sys,-10000`|`@%SystemRoot%\system32\drivers\fltmgr.sys,-10001`|`SERVICE_ERROR_CRITICAL`|`FSFilter Infrastructure`|`system32\drivers\fltmgr.sys`|`0x00`|`0x01`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -5963,89 +5900,44 @@ DACL:
 
 ##### Service Parameters
   
-ClientCacheSize : `0x400000`  
-FontFaceCacheSize : `0x1000000`  
-ServiceDll : `%SystemRoot%\system32\FntCache.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-UserCacheSize : `0x800000`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x10
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x10
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-2-1
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">FrameServer Service </span>
 
+##### Summary
+
+|parameters|
+| :---: |
+|`{'ServiceDll': '%SystemRoot%\\system32\\FrameServer.dll', 'ServiceDllUnloadOnStop': 1}`|
+
 
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\FrameServer.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`36 00 44 00 44 00 46 00 43 00 37 00 44 00 31 00 2d 00 37 00 46 00 43 00 41 00 2d 00 34 00 34 00 45 00 42 00 2d 00 41 00 32 00 37 00 39 00 2d 00 45 00 39 00 39 00 38 00 38 00 46 00 34 00 44 00 42 00 33 00 32 00 42 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 26 1d 90 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`35 21 bc a3 2e 0f 8b 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`773732e5-76f9-5b4f-9b55-b94699c46e44`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`d752e524-2365-f747-a647-d3465bf1f5ca`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`6DDFC7D1-7FCA-44EB-A279-E9988F4DB32B`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 26 1d 90 41`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`35 21 bc a3 2e 0f 8b 41`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`773732e5-76f9-5b4f-9b55-b94699c46e44`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`d752e524-2365-f747-a647-d3465bf1f5ca`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
   
 <br></br>  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">FsDepends Service </span>
+
+##### Summary
 
 |Instances|
 | :---: |
@@ -6056,51 +5948,98 @@ ServiceDllUnloadOnStop : `0x01`
 ##### Service Parameters
   
 AccessControl : `{'ISOMountAllowNormalUser': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Fs_Rec Service </span>
 
+##### Summary
+
 |ErrorControl|Group|Start|Type|
 | :---: | :---: | :---: | :---: |
-|`SERVICE_ERROR_IGNORE`|`File System`|`SERVICE_BOOT_START`|`SERVICE_RECOGNIZER_DRIVER`|
+|`SERVICE_ERROR_IGNORE`|`File System`|`0x00`|`SERVICE_RECOGNIZER_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">fvevol Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\fvevol.sys,-100`|`@%SystemRoot%\system32\drivers\fvevol.sys,-100`|`SERVICE_ERROR_CRITICAL`|`PnP Filter`|`System32\DRIVERS\fvevol.sys`|`SERVICE_BOOT_START`|`0x05`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\fvevol.sys,-100`|`@%SystemRoot%\system32\drivers\fvevol.sys,-100`|`SERVICE_ERROR_CRITICAL`|`PnP Filter`|`System32\DRIVERS\fvevol.sys`|`0x00`|`0x05`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">gencounter Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\vmgencounter.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@wgencounter.inf,%GenCounter.SVCDESC%;Microsoft Hyper-V Generation Counter`|`wgencounter.inf`|
+|`\SystemRoot\System32\drivers\vmgencounter.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@wgencounter.inf,%GenCounter.SVCDESC%;Microsoft Hyper-V Generation Counter`|`wgencounter.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">genericusbfn Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\DriverStore\FileRepository\genericusbfn.inf_amd64_53931f0ae21d6d2c\genericusbfn.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x11`|`@genericusbfn.inf,%genericusbfn.ServiceName%;Generic USB Function Class`|`genericusbfn.inf`|
+|`\SystemRoot\System32\DriverStore\FileRepository\genericusbfn.inf_amd64_53931f0ae21d6d2c\genericusbfn.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x11`|`@genericusbfn.inf,%genericusbfn.ServiceName%;Generic USB Function Class`|`genericusbfn.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">GPIOClx0101 Service </span>
 
+##### Summary
+
 |DependOnService|DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`acpiex`|`Microsoft GPIO Class Extension Driver`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`System32\Drivers\msgpioclx.sys`|`SERVICE_DEMAND_START`|`0x07`|`SERVICE_KERNEL_DRIVER`|
+|`acpiex`|`Microsoft GPIO Class Extension Driver`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`System32\Drivers\msgpioclx.sys`|`0x03`|`0x07`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -6111,50 +6050,14 @@ AccessControl : `{'ISOMountAllowNormalUser': 1}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\gpsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `GroupPolicyClientServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0xc0
-    Access: 0xd0002
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`32 00 45 00 42 00 30 00 38 00 45 00 33 00 45 00 2d 00 36 00 33 00 39 00 46 00 2d 00 34 00 66 00 62 00 61 00 2d 00 39 00 37 00 42 00 31 00 2d 00 31 00 34 00 46 00 38 00 37 00 38 00 39 00 36 00 31 00 30 00 37 00 36 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`2EB08E3E-639F-4fba-97B1-14F878961076`|
   
 <br></br>  
 
@@ -6162,9 +6065,18 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">GpuEnergyDrv Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\gpuenergydrv.sys,-101`|`@%SystemRoot%\system32\drivers\gpuenergydrv.sys,-100`|`SERVICE_ERROR_NORMAL`|`System32\drivers\gpuenergydrv.sys`|`SERVICE_SYSTEM_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\gpuenergydrv.sys,-101`|`@%SystemRoot%\system32\drivers\gpuenergydrv.sys,-100`|`SERVICE_ERROR_NORMAL`|`System32\drivers\gpuenergydrv.sys`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -6175,23 +6087,14 @@ SACL:
 
 ##### Service Parameters
   
-BufferSize : `0x00`  
-FlushTimer : `0x00`  
-IntervalSecs : `0x3c`  
-MaximumBuffers : `0x00`  
-MinimumBuffers : `0x00`  
-ServiceDll : `%SystemRoot%\System32\GraphicsPerfSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-TimeoutSecs : `0x5a`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 78 bc a3 29 16 c6 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 78 bc a3 29 16 c6 41`|
   
 <br></br>  
 
@@ -6199,59 +6102,115 @@ TimeoutSecs : `0x5a`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">HdAudAddService Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\HdAudio.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@hdaudio.inf,%UAAFunctionDriverForHdAudio.SvcDesc%;Microsoft 1.1 UAA Function Driver for High Definition Audio Service`|`hdaudio.inf`|
+|`\SystemRoot\System32\drivers\HdAudio.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@hdaudio.inf,%UAAFunctionDriverForHdAudio.SvcDesc%;Microsoft 1.1 UAA Function Driver for High Definition Audio Service`|`hdaudio.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">HDAudBus Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\HDAudBus.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x0c`|`@hdaudbus.inf,%HDAudBus.SVCDESC%;Microsoft UAA Bus Driver for High Definition Audio`|`hdaudbus.inf`|
+|`\SystemRoot\System32\drivers\HDAudBus.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x0c`|`@hdaudbus.inf,%HDAudBus.SVCDESC%;Microsoft UAA Bus Driver for High Definition Audio`|`hdaudbus.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">HidBatt Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\HidBatt.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@hidbatt.inf,%HidBatt.SvcDesc%;HID UPS Battery Driver`|`hidbatt.inf`|
+|`\SystemRoot\System32\drivers\HidBatt.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@hidbatt.inf,%HidBatt.SvcDesc%;HID UPS Battery Driver`|`hidbatt.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">HidBth Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\hidbth.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_IGNORE`|`extended base`|`0x02`|`@hidbth.inf,%HIDBTH.SvcDesc%;Microsoft Bluetooth HID Miniport`|`hidbth.infxinputhid.inf`|
+|`\SystemRoot\System32\drivers\hidbth.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_IGNORE`|`extended base`|`0x02`|`@hidbth.inf,%HIDBTH.SvcDesc%;Microsoft Bluetooth HID Miniport`|`hidbth.infxinputhid.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">hidi2c Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\hidi2c.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x26`|`@hidi2c.inf,%hidi2c.SVCDESC%;Microsoft I2C HID Miniport Driver`|`hidi2c.inf`|
+|`\SystemRoot\System32\drivers\hidi2c.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x26`|`@hidi2c.inf,%hidi2c.SVCDESC%;Microsoft I2C HID Miniport Driver`|`hidi2c.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">hidinterrupt Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\hidinterrupt.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x27`|`@hidinterrupt.inf,%HID_Interrupt.SvcDesc%;Common Driver for HID Buttons implemented with interrupts`|`hidinterrupt.inf`|
+|`\SystemRoot\System32\drivers\hidinterrupt.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x27`|`@hidinterrupt.inf,%HID_Interrupt.SvcDesc%;Common Driver for HID Buttons implemented with interrupts`|`hidinterrupt.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">HidIr Service </span>
+
+##### Summary
 
 |Remotes|
 | :---: |
@@ -6261,10 +6220,9 @@ TimeoutSecs : `0x5a`
 
 ##### Service Parameters
   
-DefaultWakeProtocol : `0x01`  
-DefaultWakePayload : `0x0c`  
-DefaultWakeAddress : `0x00`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -6274,16 +6232,14 @@ DefaultWakeAddress : `0x00`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\hidserv.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`b2551e4d-6ff1-cf11-88cb-001111000030`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|`48 00 49 00 44 00 5f 00 44 00 45 00 56 00 49 00 43 00 45 00 5f 00 55 00 50 00 3a 00 30 00 30 00 30 00 43 00 5f 00 55 00 3a 00 30 00 30 00 30 00 31 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`b2551e4d-6ff1-cf11-88cb-001111000030`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|`HID_DEVICE_UP:000C_U:0001`|
   
 <br></br>  
 
@@ -6291,23 +6247,43 @@ ServiceDllUnloadOnStop : `0x01`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">hidspi Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\hidspi.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x28`|`@hidspi_km.inf,%hidspi.SVCDESC%;Microsoft SPI HID Miniport Driver`|`hidspi_km.inf`|
+|`\SystemRoot\System32\drivers\hidspi.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x28`|`@hidspi_km.inf,%hidspi.SVCDESC%;Microsoft SPI HID Miniport Driver`|`hidspi_km.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">HidUsb Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\hidusb.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_IGNORE`|`extended base`|`0x25`|`@input.inf,%HID.SvcDesc%;Microsoft HID Class Driver`|`input.inf`|
+|`\SystemRoot\System32\drivers\hidusb.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_IGNORE`|`extended base`|`0x25`|`@input.inf,%HID.SvcDesc%;Microsoft HID Class Driver`|`input.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">HomeGroupListener Service </span>
+
+##### Summary
 
 |ApprovedListeners|
 | :---: |
@@ -6317,14 +6293,15 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\ListSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ListenerServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">HomeGroupProvider Service </span>
+
+##### Summary
 
 |LocalUserMembership|ServiceData|
 | :---: | :---: |
@@ -6334,10 +6311,9 @@ ServiceMain : `ListenerServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\provsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ProviderServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -6349,7 +6325,9 @@ ServiceMain : `ProviderServiceMain`
   
 Device : `{'DriverParameter': 'CSMI=None;'}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -6360,53 +6338,26 @@ PnpInterface : `{'5': 1}`
 ##### Service Parameters
   
 UrlAclInfo : `{'http://*:5357/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x004\x00\x02\x00\x00\x00\x00\x00\x18\x00\x00\x00\x00 \x01\x02\x00\x00\x00\x00\x00\x05 \x00\x00\x00!\x02\x00\x00\x00\x00\x14\x00\x00\x00\x00 \x01\x01\x00\x00\x00\x00\x00\x05\x13\x00\x00\x00', 'http://+:80/Temporary_Listen_Addresses/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x00\x1c\x00\x01\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00 \x01\x01\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00', 'https://*:5358/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x004\x00\x02\x00\x00\x00\x00\x00\x18\x00\x00\x00\x00 \x01\x02\x00\x00\x00\x00\x00\x05 \x00\x00\x00!\x02\x00\x00\x00\x00\x14\x00\x00\x00\x00 \x01\x01\x00\x00\x00\x00\x00\x05\x13\x00\x00\x00', 'https://+:443/sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x00\\\x00\x03\x00\x00\x00\x00\x00(\x00\x00\x00\x00\x10\x01\x06\x00\x00\x00\x00\x00\x05P\x00\x00\x00~\xa6\xc8\xcc*\xae\xa7/\xc1\xeb\xfb\xe1\xba\xe3k\xc0\xda\xd0+\xaf\x00\x00\x18\x00\x00\x00\x00\x10\x01\x02\x00\x00\x00\x00\x00\x05 \x00\x00\x00 \x02\x00\x00\x00\x00\x14\x00\x00\x00\x00\x10\x01\x01\x00\x00\x00\x00\x00\x05\x12\x00\x00\x00', 'https://+:5986/wsman/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x00X\x00\x02\x00\x00\x00\x00\x00(\x00\x00\x00\x00 \x01\x06\x00\x00\x00\x00\x00\x05P\x00\x00\x00\x86*\xee!\xd7[\t\xb0\xa4[l\xad\xbb\x83\x93M\xeag\x90\x18\x00\x00(\x00\x00\x00\x00 \x01\x06\x00\x00\x00\x00\x00\x05P\x00\x00\x00C\xb4\xfa\xf1\xd3\xd4T4\xa8\xd5>JS\nl\x1f=\xee\x9b\xb2', 'http://+:47001/wsman/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x00X\x00\x02\x00\x00\x00\x00\x00(\x00\x00\x00\x00 \x01\x06\x00\x00\x00\x00\x00\x05P\x00\x00\x00\x86*\xee!\xd7[\t\xb0\xa4[l\xad\xbb\x83\x93M\xeag\x90\x18\x00\x00(\x00\x00\x00\x00 \x01\x06\x00\x00\x00\x00\x00\x05P\x00\x00\x00C\xb4\xfa\xf1\xd3\xd4T4\xa8\xd5>JS\nl\x1f=\xee\x9b\xb2', 'http://+:5985/wsman/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x00X\x00\x02\x00\x00\x00\x00\x00(\x00\x00\x00\x00 \x01\x06\x00\x00\x00\x00\x00\x05P\x00\x00\x00\x86*\xee!\xd7[\t\xb0\xa4[l\xad\xbb\x83\x93M\xeag\x90\x18\x00\x00(\x00\x00\x00\x00 \x01\x06\x00\x00\x00\x00\x00\x05P\x00\x00\x00C\xb4\xfa\xf1\xd3\xd4T4\xa8\xd5>JS\nl\x1f=\xee\x9b\xb2', 'http://*:2869/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x00\x1c\x00\x01\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00 \x01\x01\x00\x00\x00\x00\x00\x05\x13\x00\x00\x00', 'https://+:3392/rdp/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x000\x00\x01\x00\x00\x00\x00\x00(\x00\x00\x00\x00 \x01\x06\x00\x00\x00\x00\x00\x05P\x00\x00\x00f4\x96\x1a\xb9\xaa\xf1\\\x190\x12\xf8\x95\xceHt\xa0\xfdN0', 'http://+:3387/rdp/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x000\x00\x01\x00\x00\x00\x00\x00(\x00\x00\x00\x00 \x01\x06\x00\x00\x00\x00\x00\x05P\x00\x00\x00f4\x96\x1a\xb9\xaa\xf1\\\x190\x12\xf8\x95\xceHt\xa0\xfdN0', 'http://+:10247/apps/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x00\x1c\x00\x01\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00 \x01\x01\x00\x00\x00\x00\x00\x05\x0b\x00\x00\x00', 'https://+:10245/WMPNSSv4/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x000\x00\x01\x00\x00\x00\x00\x00(\x00\x00\x00\x00 \x01\x06\x00\x00\x00\x00\x00\x05P\x00\x00\x009\x0b\x9a\x8d>m\xc7-X\xa4\xad\xd2Hf\xef;\xc8\xb6J\xab', 'http://+:10243/WMPNSSv4/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x000\x00\x01\x00\x00\x00\x00\x00(\x00\x00\x00\x00 \x01\x06\x00\x00\x00\x00\x00\x05P\x00\x00\x009\x0b\x9a\x8d>m\xc7-X\xa4\xad\xd2Hf\xef;\xc8\xb6J\xab', 'http://+:10246/MDEServer/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x00\x1c\x00\x01\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00 \x01\x01\x00\x00\x00\x00\x00\x05\x0b\x00\x00\x00', 'http://+:80/0131501b-d67f-491b-9a40-c4bf27bcb4d4/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x00\x1c\x00\x01\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00 \x01\x01\x00\x00\x00\x00\x00\x05\x14\x00\x00\x00', 'https://+:443/C574AC30-5794-4AEE-B1BB-6651C5315029/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x00\x1c\x00\x01\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00 \x01\x01\x00\x00\x00\x00\x00\x05\x14\x00\x00\x00', 'http://+:80/116B50EB-ECE2-41ac-8429-9F9E963361B7/': b'\x01\x00\x04\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x02\x00\x1c\x00\x01\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00 \x01\x01\x00\x00\x00\x00\x00\x05\x14\x00\x00\x00'}`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-3
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">hvcrash Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Owners|
 | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\hvcrash.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DISABLED`|`SERVICE_ERROR_NORMAL`|`whvcrash.inf`|
+|`\SystemRoot\System32\drivers\hvcrash.sys`|`SERVICE_KERNEL_DRIVER`|`0x04`|`SERVICE_ERROR_NORMAL`|`whvcrash.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -6417,16 +6368,14 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\hvhostsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 25 18 8a 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 25 18 8a 41`|
   
 <br></br>  
 
@@ -6434,45 +6383,90 @@ ServiceDllUnloadOnStop : `0x01`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">hvservice Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\hvservice.sys,-17`|`@%SystemRoot%\system32\drivers\hvservice.sys,-16`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`system32\drivers\hvservice.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\hvservice.sys,-17`|`@%SystemRoot%\system32\drivers\hvservice.sys,-16`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`system32\drivers\hvservice.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">HwNClx0101 Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|HwNClxSecurity|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Microsoft Hardware Notifications Class Extension Driver`|`SERVICE_ERROR_NORMAL`|`System`|`01 00 04 80 14 00 00 00 20 00 00 00 00 00 00 00 2c 00 00 00 01 01 00 00 00 00 00 05 12 00 00 00 01 01 00 00 00 00 00 05 12 00 00 00 02 00 b4 00 05 00 00 00 00 00 14 00 00 00 00 c0 01 01 00 00 00 00 00 05 04 00 00 00 00 00 14 00 ff ff 1f 11 01 01 00 00 00 00 00 05 12 00 00 00 00 00 18 00 ff ff 1f 11 01 02 00 00 00 00 00 05 20 00 00 00 20 02 00 00 00 00 34 00 00 00 00 c0 01 09 00 00 00 00 00 05 20 00 00 00 b9 36 1b d8 f6 76 dd 9f d0 25 08 33 a5 fd f7 aa 76 10 e0 b2 d4 42 27 3c 2a f0 e7 f8 c8 60 c9 28 00 00 38 00 00 00 00 c0 01 0a 00 00 00 00 00 0f 03 00 00 00 00 04 00 00 b9 36 1b d8 f6 76 dd 9f d0 25 08 33 a5 fd f7 aa 76 10 e0 b2 d4 42 27 3c 2a f0 e7 f8 c8 60 c9 28`|`System32\Drivers\mshwnclx.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`Microsoft Hardware Notifications Class Extension Driver`|`SERVICE_ERROR_NORMAL`|`System`|`01 00 04 80 14 00 00 00 20 00 00 00 00 00 00 00 2c 00 00 00 01 01 00 00 00 00 00 05 12 00 00 00 01 01 00 00 00 00 00 05 12 00 00 00 02 00 b4 00 05 00 00 00 00 00 14 00 00 00 00 c0 01 01 00 00 00 00 00 05 04 00 00 00 00 00 14 00 ff ff 1f 11 01 01 00 00 00 00 00 05 12 00 00 00 00 00 18 00 ff ff 1f 11 01 02 00 00 00 00 00 05 20 00 00 00 20 02 00 00 00 00 34 00 00 00 00 c0 01 09 00 00 00 00 00 05 20 00 00 00 b9 36 1b d8 f6 76 dd 9f d0 25 08 33 a5 fd f7 aa 76 10 e0 b2 d4 42 27 3c 2a f0 e7 f8 c8 60 c9 28 00 00 38 00 00 00 00 c0 01 0a 00 00 00 00 00 0f 03 00 00 00 00 04 00 00 b9 36 1b d8 f6 76 dd 9f d0 25 08 33 a5 fd f7 aa 76 10 e0 b2 d4 42 27 3c 2a f0 e7 f8 c8 60 c9 28`|`System32\Drivers\mshwnclx.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">hwpolicy Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%systemroot%\system32\drivers\hwpolicy.sys,-102`|`@%systemroot%\system32\drivers\hwpolicy.sys,-101`|`SERVICE_ERROR_IGNORE`|`System32\drivers\hwpolicy.sys`|`SERVICE_BOOT_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%systemroot%\system32\drivers\hwpolicy.sys,-102`|`@%systemroot%\system32\drivers\hwpolicy.sys,-101`|`SERVICE_ERROR_IGNORE`|`System32\drivers\hwpolicy.sys`|`0x00`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">hyperkbd Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\hyperkbd.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_IGNORE`|`Extended Base`|`0x2d`|`whyperkbd.inf`|
+|`\SystemRoot\System32\drivers\hyperkbd.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_IGNORE`|`Extended Base`|`0x2d`|`whyperkbd.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">HyperVideo Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\HyperVideo.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_IGNORE`|`Video`|`0x04`|`wvmbusvideo.inf`|
+|`\SystemRoot\System32\drivers\HyperVideo.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_IGNORE`|`Video`|`0x04`|`wvmbusvideo.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -6483,124 +6477,236 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-PollingIterations : `0x2ee0`  
-PollingIterationsMaximum : `0x2ee0`  
-ResendIterations : `0x03`  
-LayerDriver JPN : `kbd101.dll`  
-LayerDriver KOR : `kbd101a.dll`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iagpio Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DependOnService|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\iagpio.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`GPIOClx`|`@iagpio.inf,%iagpio.SVCDESC%;Intel Serial IO GPIO Controller Driver`|`iagpio.inf`|
+|`\SystemRoot\System32\drivers\iagpio.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`GPIOClx`|`@iagpio.inf,%iagpio.SVCDESC%;Intel Serial IO GPIO Controller Driver`|`iagpio.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iai2c Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|ForceDma|NoRestartCondition|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\iai2c.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x07`|`SpbCx`|`@iai2c.inf,%iai2c.SVCDESC%;Intel(R) Serial IO I2C Host Controller`|`iai2c.inf`|`000,000,000,000,000,000,000`|`0x00`|
+|`\SystemRoot\System32\drivers\iai2c.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x07`|`SpbCx`|`@iai2c.inf,%iai2c.SVCDESC%;Intel(R) Serial IO I2C Host Controller`|`iai2c.inf`|`000,000,000,000,000,000,000`|`0x00`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iaLPSS2i_GPIO2 Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\iaLPSS2i_GPIO2.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x08`|`@iaLPSS2i_GPIO2_SKL.inf,%iaLPSS2i_GPIO2.SVCDESC%;Intel(R) Serial IO GPIO Driver v2`|`iaLPSS2i_GPIO2_SKL.inf`|
+|`\SystemRoot\System32\drivers\iaLPSS2i_GPIO2.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x08`|`@iaLPSS2i_GPIO2_SKL.inf,%iaLPSS2i_GPIO2.SVCDESC%;Intel(R) Serial IO GPIO Driver v2`|`iaLPSS2i_GPIO2_SKL.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iaLPSS2i_GPIO2_BXT_P Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\iaLPSS2i_GPIO2_BXT_P.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x05`|`@iaLPSS2i_GPIO2_BXT_P.inf,%iaLPSS2i_GPIO2_BXT_P.SVCDESC%;Intel(R) Serial IO GPIO Driver v2`|`iaLPSS2i_GPIO2_BXT_P.inf`|
+|`\SystemRoot\System32\drivers\iaLPSS2i_GPIO2_BXT_P.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x05`|`@iaLPSS2i_GPIO2_BXT_P.inf,%iaLPSS2i_GPIO2_BXT_P.SVCDESC%;Intel(R) Serial IO GPIO Driver v2`|`iaLPSS2i_GPIO2_BXT_P.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iaLPSS2i_GPIO2_CNL Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\iaLPSS2i_GPIO2_CNL.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x06`|`@iaLPSS2i_GPIO2_CNL.inf,%iaLPSS2i_GPIO2_CNL.SVCDESC%;Intel(R) Serial IO GPIO Driver v2`|`iaLPSS2i_GPIO2_CNL.inf`|
+|`\SystemRoot\System32\drivers\iaLPSS2i_GPIO2_CNL.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x06`|`@iaLPSS2i_GPIO2_CNL.inf,%iaLPSS2i_GPIO2_CNL.SVCDESC%;Intel(R) Serial IO GPIO Driver v2`|`iaLPSS2i_GPIO2_CNL.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iaLPSS2i_GPIO2_GLK Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\iaLPSS2i_GPIO2_GLK.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x07`|`@iaLPSS2i_GPIO2_GLK.inf,%iaLPSS2i_GPIO2_GLK.SVCDESC%;Intel(R) Serial IO GPIO Driver v2`|`iaLPSS2i_GPIO2_GLK.inf`|
+|`\SystemRoot\System32\drivers\iaLPSS2i_GPIO2_GLK.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x07`|`@iaLPSS2i_GPIO2_GLK.inf,%iaLPSS2i_GPIO2_GLK.SVCDESC%;Intel(R) Serial IO GPIO Driver v2`|`iaLPSS2i_GPIO2_GLK.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iaLPSS2i_I2C Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\iaLPSS2i_I2C.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x06`|`SpbCx`|`@iaLPSS2i_I2C_SKL.inf,%iaLPSS2i_I2C.SVCDESC%;Intel(R) Serial IO I2C Driver v2`|`iaLPSS2i_I2C_SKL.inf`|
+|`\SystemRoot\System32\drivers\iaLPSS2i_I2C.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x06`|`SpbCx`|`@iaLPSS2i_I2C_SKL.inf,%iaLPSS2i_I2C.SVCDESC%;Intel(R) Serial IO I2C Driver v2`|`iaLPSS2i_I2C_SKL.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iaLPSS2i_I2C_BXT_P Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\iaLPSS2i_I2C_BXT_P.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x03`|`SpbCx`|`@iaLPSS2i_I2C_BXT_P.inf,%iaLPSS2i_I2C_BXT_P.SVCDESC%;Intel(R) Serial IO I2C Driver v2`|`iaLPSS2i_I2C_BXT_P.inf`|
+|`\SystemRoot\System32\drivers\iaLPSS2i_I2C_BXT_P.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x03`|`SpbCx`|`@iaLPSS2i_I2C_BXT_P.inf,%iaLPSS2i_I2C_BXT_P.SVCDESC%;Intel(R) Serial IO I2C Driver v2`|`iaLPSS2i_I2C_BXT_P.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iaLPSS2i_I2C_CNL Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\iaLPSS2i_I2C_CNL.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x04`|`SpbCx`|`@iaLPSS2i_I2C_CNL.inf,%iaLPSS2i_I2C_CNL.SVCDESC%;Intel(R) Serial IO I2C Driver v2`|`iaLPSS2i_I2C_CNL.inf`|
+|`\SystemRoot\System32\drivers\iaLPSS2i_I2C_CNL.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x04`|`SpbCx`|`@iaLPSS2i_I2C_CNL.inf,%iaLPSS2i_I2C_CNL.SVCDESC%;Intel(R) Serial IO I2C Driver v2`|`iaLPSS2i_I2C_CNL.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iaLPSS2i_I2C_GLK Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\iaLPSS2i_I2C_GLK.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x05`|`SpbCx`|`@iaLPSS2i_I2C_GLK.inf,%iaLPSS2i_I2C_GLK.SVCDESC%;Intel(R) Serial IO I2C Driver v2`|`iaLPSS2i_I2C_GLK.inf`|
+|`\SystemRoot\System32\drivers\iaLPSS2i_I2C_GLK.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x05`|`SpbCx`|`@iaLPSS2i_I2C_GLK.inf,%iaLPSS2i_I2C_GLK.SVCDESC%;Intel(R) Serial IO I2C Driver v2`|`iaLPSS2i_I2C_GLK.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iaLPSSi_GPIO Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\iaLPSSi_GPIO.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x15`|`@ialpssi_gpio.inf,%iaLPSSi_GPIO.SVCDESC%;Intel(R) Serial IO GPIO Controller Driver`|`ialpssi_gpio.inf`|
+|`\SystemRoot\System32\drivers\iaLPSSi_GPIO.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x15`|`@ialpssi_gpio.inf,%iaLPSSi_GPIO.SVCDESC%;Intel(R) Serial IO GPIO Controller Driver`|`ialpssi_gpio.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iaLPSSi_I2C Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\iaLPSSi_I2C.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x08`|`SpbCx`|`@ialpssi_i2c.inf,%iaLPSSi_I2C.SVCDESC%;Intel(R) Serial IO I2C Controller Driver`|`ialpssi_i2c.inf`|
+|`\SystemRoot\System32\drivers\iaLPSSi_I2C.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x08`|`SpbCx`|`@ialpssi_i2c.inf,%iaLPSSi_I2C.SVCDESC%;Intel(R) Serial IO I2C Controller Driver`|`ialpssi_i2c.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iaStorAV Service </span>
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -6612,7 +6718,9 @@ LayerDriver KOR : `kbd101a.dll`
 ##### Service Parameters
   
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -6622,9 +6730,9 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-queuePriorityEnable : `0x00`  
-BusType : `0x08`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -6636,11 +6744,15 @@ BusType : `0x08`
   
 IPoIB : `{'DeviceId': 'IBA\\IPoIB', 'CompatibleId': b'I\x00B\x00A\x00\\\x00S\x00I\x00D\x00_\x001\x000\x000\x000\x000\x006\x006\x00a\x000\x000\x000\x002\x000\x000\x000\x000\x00\x00\x00\x00\x00', 'HardwareId': b'I\x00B\x00A\x00\\\x00I\x00P\x00o\x00I\x00B\x00\x00\x00\x00\x00', 'Description': 'Mellanox IPoIB Adapter', 'PartitionKey': '0XFFFF-IPoIB'}`  
 XsigoBus : `{'DeviceId': 'IBA\\XsigoBus', 'CompatibleId': b'I\x00B\x00A\x00\\\x00S\x00I\x00D\x00_\x000\x000\x000\x000\x000\x000\x000\x000\x000\x002\x001\x003\x009\x007\x000\x002\x00\x00\x00\x00\x00', 'HardwareId': b'I\x00B\x00A\x00\\\x00X\x00s\x00i\x00g\x00o\x00B\x00u\x00s\x00\x00\x00\x00\x00', 'Description': 'Xsigo Virtual Bus', 'PartitionKey': '0XFFFF-iXsigo'}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">icssvc Service </span>
+
+##### Summary
 
 |Settings|
 | :---: |
@@ -6650,70 +6762,15 @@ XsigoBus : `{'DeviceId': 'IBA\\XsigoBus', 'CompatibleId': b'I\x00B\x00A\x00\\\x0
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\tetheringservice.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-0(NULL)
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-2-1121366727-2517420131-1100342901-1044639592-4216533239-371662368-2140263060
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-2-2543942650-389403887-2808249486-612059083-208952635-835677591-2189227231
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-2-3801529221-2855318152-1555692692-2306892612-2338533892-3542301781-2904385964
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`45 00 30 00 30 00 43 00 32 00 39 00 41 00 35 00 2d 00 30 00 46 00 36 00 32 00 2d 00 34 00 44 00 38 00 34 00 2d 00 42 00 37 00 46 00 30 00 2d 00 44 00 32 00 33 00 38 00 37 00 45 00 34 00 31 00 45 00 44 00 31 00 38 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`35 08 bc a3 3e 06 94 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`E00C29A5-0F62-4D84-B7F0-D2387E41ED18`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`35 08 bc a3 3e 06 94 41`|
   
 <br></br>  
 
@@ -6725,17 +6782,14 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\ikeext.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `IkeServiceMain`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`079e56b7-2184-e04e-ad10-86915afdad09`|`SERVICE_TRIGGER_TYPE_FIREWALL_PORT_EVENT`|`35 00 30 00 30 00 00 00 55 00 44 00 50 00 00 00 25 00 77 00 69 00 6e 00 64 00 69 00 72 00 25 00 5c 00 73 00 79 00 73 00 74 00 65 00 6d 00 33 00 32 00 5c 00 73 00 76 00 63 00 68 00 6f 00 73 00 74 00 2e 00 65 00 78 00 65 00 00 00 49 00 4b 00 45 00 45 00 58 00 54 00 00 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`079e56b7-2184-e04e-ad10-86915afdad09`|`SERVICE_TRIGGER_TYPE_FIREWALL_PORT_EVENT`|`500UDP%windir%\system32\svchost.exeIKEEXT`|
   
 <br></br>  
 
@@ -6743,9 +6797,18 @@ ServiceMain : `IkeServiceMain`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">IndirectKmd Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\IndirectKmd.sys,-101`|`@%SystemRoot%\system32\drivers\IndirectKmd.sys,-100`|`SERVICE_ERROR_IGNORE`|`Base`|`\SystemRoot\System32\drivers\IndirectKmd.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\IndirectKmd.sys,-101`|`@%SystemRoot%\system32\drivers\IndirectKmd.sys,-100`|`SERVICE_ERROR_IGNORE`|`Base`|`\SystemRoot\System32\drivers\IndirectKmd.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -6756,7 +6819,9 @@ ServiceMain : `IkeServiceMain`
 
 ##### Service Parameters
   
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -6766,102 +6831,117 @@ ServiceMain : `IkeServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\InstallService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">intelide Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\intelide.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`0x09`|`mshdc.inf`|
+|`System32\drivers\intelide.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`0x09`|`mshdc.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">intelpep Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\intelpep.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`Core Security Extensions`|`0x01`|`@intelpep.inf,%INTELPEP.SVCDESC%;Intel(R) Power Engine Plug-in Driver`|`intelpep.inf`|
+|`System32\drivers\intelpep.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`Core Security Extensions`|`0x01`|`@intelpep.inf,%INTELPEP.SVCDESC%;Intel(R) Power Engine Plug-in Driver`|`intelpep.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">intelpmax Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\intelpmax.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x09`|`@intelpmax.inf,%SvcDesc%;Intel(R) Dynamic Device Peak Power Manager Driver`|`intelpmax.inf`|
+|`\SystemRoot\System32\drivers\intelpmax.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x09`|`@intelpmax.inf,%SvcDesc%;Intel(R) Dynamic Device Peak Power Manager Driver`|`intelpmax.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">intelppm Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|MofImagePath|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\intelppm.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x1b`|`@cpu.inf,%IntelPPM.SvcDesc%;Intel Processor Driver`|`cpu.inf`|`%SystemRoot%\System32\drivers\processr.sys`|
+|`\SystemRoot\System32\drivers\intelppm.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x1b`|`@cpu.inf,%IntelPPM.SvcDesc%;Intel Processor Driver`|`cpu.inf`|`%SystemRoot%\System32\drivers\processr.sys`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iorate Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\iorate.sys,-102`|`@%SystemRoot%\system32\drivers\iorate.sys,-101`|`SERVICE_ERROR_CRITICAL`|`PnP Filter`|`system32\drivers\iorate.sys`|`SERVICE_BOOT_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\iorate.sys,-102`|`@%SystemRoot%\system32\drivers\iorate.sys,-101`|`SERVICE_ERROR_CRITICAL`|`PnP Filter`|`system32\drivers\iorate.sys`|`0x00`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">IpFilterDriver Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-80-611605672-2879557022-2206624263-4029342278-3129212340
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">iphlpsvc Service </span>
+
+##### Summary
 
 |config|Direct|Interfaces|Teredo|
 | :---: | :---: | :---: | :---: |
@@ -6872,68 +6952,57 @@ SACL:
 ##### Service Parameters
   
 IPHTTPS : `{}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">IPMIDRV Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Owners|
 | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\IPMIDrv.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`ipmidrv.inf`|
+|`\SystemRoot\System32\drivers\IPMIDrv.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`ipmidrv.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">IPNAT Service </span>
 
+##### Summary
+
 |DependOnService|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Tcpip`|`IP Network Address Translator`|`SERVICE_ERROR_NORMAL`|`System32\drivers\ipnat.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`Tcpip`|`IP Network Address Translator`|`SERVICE_ERROR_NORMAL`|`System32\drivers\ipnat.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">IPT Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x10
-    SID: S-1-0-0(NULL)
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -6943,49 +7012,14 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\IpxlatCfg.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201bd
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`46 00 46 00 30 00 30 00 36 00 35 00 33 00 46 00 2d 00 30 00 36 00 34 00 41 00 2d 00 34 00 39 00 43 00 41 00 2d 00 39 00 37 00 38 00 33 00 2d 00 30 00 45 00 33 00 33 00 37 00 33 00 30 00 44 00 37 00 44 00 37 00 31 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`FF00653F-064A-49CA-9783-0E33730D7D71`|
   
 <br></br>  
 
@@ -6993,9 +7027,18 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">isapnp Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|Owners|HasBootConfig|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\isapnp.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_CRITICAL`|`Boot Bus Extender`|`0x03`|`machine.inf`|`0x00`|
+|`System32\drivers\isapnp.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_CRITICAL`|`Boot Bus Extender`|`0x03`|`machine.inf`|`0x00`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -7006,8 +7049,9 @@ SACL:
 
 ##### Service Parameters
   
-BusType : `0x09`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7019,7 +7063,9 @@ BusType : `0x09`
   
 Device : `{'DriverParameter': 'PlaceHolder=0;', 'EnableQueryAccessAlignment': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7029,12 +7075,9 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-ConnectMultiplePorts : `0x00`  
-KeyboardDataQueueSize : `0x64`  
-KeyboardDeviceBaseName : `KeyboardClass`  
-MaximumPortsServiced : `0x03`  
-SendOutputToAllPorts : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7044,25 +7087,44 @@ SendOutputToAllPorts : `0x01`
 
 ##### Service Parameters
   
-WorkNicely : `0x00`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">kbldfltr Service </span>
 
+##### Summary
+
 |ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`SERVICE_ERROR_NORMAL`|`Extended Base`|`system32\drivers\kbldfltr.sys`|`SERVICE_DEMAND_START`|`0x02`|`SERVICE_KERNEL_DRIVER`|
+|`SERVICE_ERROR_NORMAL`|`Extended Base`|`system32\drivers\kbldfltr.sys`|`0x03`|`0x02`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">kdnic Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|TextModeFlags|PhysicalMedium802_3|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\kdnic.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`NDIS`|`0x03`|`@kdnic.inf,%KdNic.Service.DispName%;Microsoft Kernel Debug Network Miniport (NDIS 6.20)`|`kdnic.inf`|`0x01`|`0x00`|
+|`\SystemRoot\System32\drivers\kdnic.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`NDIS`|`0x03`|`@kdnic.inf,%KdNic.Service.DispName%;Microsoft Kernel Debug Network Miniport (NDIS 6.20)`|`kdnic.inf`|`0x01`|`0x00`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -7073,59 +7135,15 @@ WorkNicely : `0x00`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\keyiso.dll`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`62 00 32 00 35 00 61 00 35 00 32 00 62 00 66 00 2d 00 65 00 35 00 64 00 64 00 2d 00 34 00 66 00 34 00 61 00 2d 00 61 00 65 00 61 00 36 00 2d 00 38 00 63 00 61 00 37 00 32 00 37 00 32 00 61 00 30 00 65 00 38 00 36 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`38 00 46 00 42 00 37 00 34 00 37 00 34 00 34 00 2d 00 42 00 32 00 46 00 46 00 2d 00 34 00 43 00 30 00 30 00 2d 00 42 00 45 00 30 00 44 00 2d 00 39 00 45 00 46 00 39 00 41 00 31 00 39 00 31 00 46 00 45 00 31 00 42 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`b25a52bf-e5dd-4f4a-aea6-8ca7272a0e86`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`8FB74744-B2FF-4C00-BE0D-9EF9A191FE1B`|
   
 <br></br>  
 
@@ -7133,27 +7151,54 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">KSecDD Service </span>
 
+##### Summary
+
 |ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`SERVICE_ERROR_CRITICAL`|`Base`|`System32\Drivers\ksecdd.sys`|`SERVICE_BOOT_START`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+|`SERVICE_ERROR_CRITICAL`|`Base`|`System32\Drivers\ksecdd.sys`|`0x00`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">KSecPkg Service </span>
 
+##### Summary
+
 |ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`SERVICE_ERROR_CRITICAL`|`Cryptography`|`System32\Drivers\ksecpkg.sys`|`SERVICE_BOOT_START`|`0x02`|`SERVICE_KERNEL_DRIVER`|
+|`SERVICE_ERROR_CRITICAL`|`Cryptography`|`System32\Drivers\ksecpkg.sys`|`0x00`|`0x02`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ksthunk Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Kernel Streaming Thunks`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`\SystemRoot\system32\drivers\ksthunk.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`Kernel Streaming Thunks`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`\SystemRoot\system32\drivers\ksthunk.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -7164,58 +7209,7 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\msdtckrm.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `KtmRmServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-0(NULL)
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-80-2818357584-3387065753-4000393942-342927828-138088443
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
@@ -7229,6 +7223,8 @@ SACL:
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">LanmanServer Service </span>
+
+##### Summary
 
 |AutotunedParameters|Linkage|Shares|
 | :---: | :---: | :---: |
@@ -7244,16 +7240,18 @@ FsctlAllowlist : `{}`
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`34 00 42 00 33 00 32 00 34 00 46 00 43 00 38 00 2d 00 31 00 36 00 37 00 30 00 2d 00 30 00 31 00 44 00 33 00 2d 00 31 00 32 00 37 00 38 00 2d 00 35 00 41 00 34 00 37 00 42 00 46 00 36 00 45 00 45 00 31 00 38 00 38 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`31d1811f-ac3f-3745-9e0c-7e7b0c2f4b55`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`73 00 72 00 76 00 73 00 76 00 63 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`4B324FC8-1670-01D3-1278-5A47BF6EE188`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`31d1811f-ac3f-3745-9e0c-7e7b0c2f4b55`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`srvsvc`|
   
 <br></br>  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">LanmanWorkstation Service </span>
+
+##### Summary
 
 |Linkage|NetworkProvider|
 | :---: | :---: |
@@ -7263,25 +7261,33 @@ FsctlAllowlist : `{}`
 
 ##### Service Parameters
   
-EnablePlainTextPassword : `0x00`  
-EnableSecuritySignature : `0x01`  
-RequireSecuritySignature : `0x00`  
-ServiceDll : `%SystemRoot%\System32\wkssvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ldap Service </span>
 
+##### Summary
+
 |tracing|
 | :---: |
 |`{}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">lfsvc Service </span>
+
+##### Summary
 
 |Components|Service|Settings|
 | :---: | :---: | :---: |
@@ -7291,80 +7297,17 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\lfsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-3-1024-2158456844-3754929254-744589270-3611187126-2481208986-30837703-3416168463-2437063433
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-32-2158456844-3754929254-744589270-3611187126-2481208986-30837703-3416168463-2437063433
-  Object ACE:
-    Type:  ACCESS_ALLOWED_CALLBACK_ACE
-    Flags: 0x00
-    Access: 0x34
-    Object Flags: 2561
-    
-  Object ACE:
-    Type:  ACCESS_ALLOWED_CALLBACK_ACE
-    Flags: 0x00
-    Access: 0x34
-    Object Flags: 257
-    
-  Object ACE:
-    Type:  ACCESS_ALLOWED_CALLBACK_ACE
-    Flags: 0x00
-    Access: 0x34
-    Object Flags: 2305
-    
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 b0 bc a3 3e 0b 84 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`44 00 30 00 39 00 42 00 44 00 45 00 42 00 35 00 2d 00 36 00 31 00 37 00 31 00 2d 00 34 00 41 00 33 00 34 00 2d 00 42 00 46 00 45 00 32 00 2d 00 30 00 36 00 46 00 41 00 38 00 32 00 36 00 35 00 32 00 35 00 36 00 38 00 3a 00 35 00 38 00 32 00 41 00 34 00 37 00 42 00 32 00 2d 00 42 00 43 00 44 00 38 00 2d 00 34 00 44 00 33 00 43 00 2d 00 38 00 41 00 43 00 42 00 2d 00 46 00 45 00 30 00 39 00 44 00 35 00 42 00 44 00 36 00 45 00 45 00 43 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`44 00 30 00 39 00 42 00 44 00 45 00 42 00 35 00 2d 00 36 00 31 00 37 00 31 00 2d 00 34 00 41 00 33 00 34 00 2d 00 42 00 46 00 45 00 32 00 2d 00 30 00 36 00 46 00 41 00 38 00 32 00 36 00 35 00 32 00 35 00 36 00 38 00 3a 00 43 00 43 00 42 00 38 00 41 00 41 00 30 00 37 00 2d 00 37 00 32 00 32 00 35 00 2d 00 34 00 45 00 41 00 30 00 2d 00 38 00 35 00 30 00 31 00 2d 00 34 00 42 00 33 00 43 00 31 00 42 00 31 00 41 00 43 00 44 00 34 00 33 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`e4e53633-8a01-6946-84c5-bd05f3bd368b`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 b0 bc a3 3e 0b 84 41`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`D09BDEB5-6171-4A34-BFE2-06FA82652568:582A47B2-BCD8-4D3C-8ACB-FE09D5BD6EEC`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`D09BDEB5-6171-4A34-BFE2-06FA82652568:CCB8AA07-7225-4EA0-8501-4B3C1B1ACD43`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`e4e53633-8a01-6946-84c5-bd05f3bd368b`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
   
 <br></br>  
 
@@ -7376,16 +7319,15 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\LicenseManagerSvc.dll`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`41 00 34 00 42 00 38 00 44 00 34 00 38 00 32 00 2d 00 38 00 30 00 43 00 45 00 2d 00 34 00 30 00 44 00 36 00 2d 00 39 00 33 00 34 00 44 00 2d 00 42 00 32 00 32 00 41 00 30 00 31 00 41 00 34 00 34 00 46 00 45 00 37 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 20 bc a3 21 07 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`A4B8D482-80CE-40D6-934D-B22A01A44FE7`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 20 bc a3 21 07 85 41`|
   
 <br></br>  
 
@@ -7393,9 +7335,18 @@ ServiceDll : `%SystemRoot%\system32\LicenseManagerSvc.dll`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">lltdio Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\lltdres.dll,-6`|`@%SystemRoot%\system32\lltdres.dll,-6`|`SERVICE_ERROR_NORMAL`|`NDIS`|`system32\drivers\lltdio.sys`|`SERVICE_AUTO_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\lltdres.dll,-6`|`@%SystemRoot%\system32\lltdres.dll,-6`|`SERVICE_ERROR_NORMAL`|`NDIS`|`system32\drivers\lltdio.sys`|`0x02`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -7406,9 +7357,9 @@ ServiceDll : `%SystemRoot%\system32\LicenseManagerSvc.dll`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\lltdsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7418,8 +7369,6 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\lmhsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
@@ -7437,9 +7386,18 @@ ServiceDllUnloadOnStop : `0x01`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Lsa Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'CloseLsaPerformanceData', 'Collect': 'CollectLsaPerformanceData', 'Library': 'X:\\Windows\\System32\\Secur32.dll', 'Object List': '1570 1670', 'Open': 'OpenLsaPerformanceData'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -7452,7 +7410,9 @@ ServiceDllUnloadOnStop : `0x01`
   
 Device : `{'DriverParameter': 'PlaceHolder=0;', 'EnableQueryAccessAlignment': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7464,7 +7424,9 @@ PnpInterface : `{'5': 1}`
   
 Device : `{'DriverParameter': 'PlaceHolder=0;', 'EnableQueryAccessAlignment': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7476,7 +7438,9 @@ PnpInterface : `{'5': 1}`
   
 Device : `{'DriverParameter': 'PlaceHolder=0;', 'EnableQueryAccessAlignment': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7488,11 +7452,15 @@ PnpInterface : `{'5': 1}`
   
 Device : `{'DriverParameter': 'PlaceHolder=0;', 'EnableQueryAccessAlignment': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">LSM Service </span>
+
+##### Summary
 
 |Performance|
 | :---: |
@@ -7502,40 +7470,15 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\lsm.dll`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x0d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf00ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-32-544
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">luafv Service </span>
+
+##### Summary
 
 |Instances|
 | :---: |
@@ -7545,8 +7488,9 @@ SACL:
 
 ##### Service Parameters
   
-ProgramData : `X:\ProgramData`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7556,10 +7500,9 @@ ProgramData : `X:\ProgramData`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\LanguageOverlayServer.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7569,73 +7512,62 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\moshost.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-2-1
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">mausbhost Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\mausbhost.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x0b`|`Ucx01000`|`@mausbhost.inf,%MAUSBHost.ServiceName%;MA-USB Host Controller Driver`|`mausbhost.inf`|
+|`\SystemRoot\System32\drivers\mausbhost.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x0b`|`Ucx01000`|`@mausbhost.inf,%MAUSBHost.ServiceName%;MA-USB Host Controller Driver`|`mausbhost.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">mausbip Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\mausbip.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x0c`|`@mausbhost.inf,%MAUSBIP.ServiceName%;MA-USB IP Filter Driver`|`mausbhost.inf`|
+|`\SystemRoot\System32\drivers\mausbip.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x0c`|`@mausbhost.inf,%MAUSBIP.ServiceName%;MA-USB IP Filter Driver`|`mausbhost.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MbbCx Service </span>
 
+##### Summary
+
 |DependOnService|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`NetAdapterCx`|`MBB Network Adapter Class Extension`|`SERVICE_ERROR_NORMAL`|`system32\drivers\MbbCx.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`NetAdapterCx`|`MBB Network Adapter Class Extension`|`SERVICE_ERROR_NORMAL`|`system32\drivers\MbbCx.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -7648,11 +7580,15 @@ DACL:
   
 Device : `{'DriverParameter': 'nobusywait=1', 'EnableQueryAccessAlignment': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">megasas2i Service </span>
+
+##### Summary
 
 |StorPort|
 | :---: |
@@ -7664,7 +7600,9 @@ PnpInterface : `{'5': 1}`
   
 Device : `{'DriverParameter': 'nobusywait=1', 'EnableQueryAccessAlignment': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7676,7 +7614,9 @@ PnpInterface : `{'5': 1}`
   
 Device : `{'DriverParameter': 'nobusywait=1', 'EnableQueryAccessAlignment': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7688,7 +7628,9 @@ PnpInterface : `{'5': 1}`
   
 Device : `{'UncachedExtAlignment': 16, 'NumberOfRequests': 20}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7698,16 +7640,14 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\MessagingService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 3e 03 95 13`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 3e 03 95 13`|
   
 <br></br>  
 
@@ -7715,9 +7655,18 @@ ServiceDllUnloadOnStop : `0x01`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Microsoft_Bluetooth_AvrcpTransport Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\Microsoft.Bluetooth.AvrcpTransport.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@microsoft_bluetooth_avrcptransport.inf,%Microsoft_Bluetooth_AvrcpTransport.ServiceDescription%;Microsoft Bluetooth Avrcp Transport Driver`|`microsoft_bluetooth_avrcptransport.inf`|
+|`\SystemRoot\System32\drivers\Microsoft.Bluetooth.AvrcpTransport.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@microsoft_bluetooth_avrcptransport.inf,%Microsoft_Bluetooth_AvrcpTransport.ServiceDescription%;Microsoft Bluetooth Avrcp Transport Driver`|`microsoft_bluetooth_avrcptransport.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -7728,9 +7677,9 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\MixedRealityRuntime.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7740,82 +7689,74 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-DeviceManagedSteering : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MMCSS Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x10
-    SID: S-1-0-32-545
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-2-1
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Modem Service </span>
 
+##### Summary
+
 |ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`SERVICE_ERROR_IGNORE`|`Extended base`|`system32\drivers\modem.sys`|`SERVICE_DEMAND_START`|`0x04`|`SERVICE_KERNEL_DRIVER`|
+|`SERVICE_ERROR_IGNORE`|`Extended base`|`system32\drivers\modem.sys`|`0x03`|`0x04`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">monitor Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\monitor.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@monitor.inf,%Monitor.SVCDESC%;Microsoft Monitor Class Function Driver Service`|`monitor.inf`|
+|`\SystemRoot\System32\drivers\monitor.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@monitor.inf,%Monitor.SVCDESC%;Microsoft Monitor Class Function Driver Service`|`monitor.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">mouclass Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\mouclass.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@msmouse.inf,%mouclass.SvcDesc%;Mouse Class Driver`|`termmou.infmsmouse.inf`|
+|`\SystemRoot\System32\drivers\mouclass.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@msmouse.inf,%mouclass.SvcDesc%;Mouse Class Driver`|`termmou.infmsmouse.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -7826,57 +7767,39 @@ SACL:
 
 ##### Service Parameters
   
-UseOnlyMice : `0x00`  
-TreatAbsoluteAsRelative : `0x00`  
-TreatAbsolutePointerAsAbsolute : `0x00`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">mountmgr Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\mountmgr.sys,-101`|`@%SystemRoot%\system32\drivers\mountmgr.sys,-100`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`System32\drivers\mountmgr.sys`|`SERVICE_BOOT_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\mountmgr.sys,-101`|`@%SystemRoot%\system32\drivers\mountmgr.sys,-100`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`System32\drivers\mountmgr.sys`|`0x00`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">mpsdrv Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20085
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe009f
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe009d
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x85
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -7889,44 +7812,15 @@ SACL:
 ACService : `{}`  
 AppCs : `{}`  
 PortKeywords : `PortKeywords`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20085
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe009f
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe009d
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x85
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MRxDAV Service </span>
+
+##### Summary
 
 |EncryptedDirectories|
 | :---: |
@@ -7936,174 +7830,206 @@ SACL:
 
 ##### Service Parameters
   
-CloseRequestTimeoutInSec : `0x708`  
-CreateRequestTimeoutInSec : `0x708`  
-CreateSrvCallRequestTimeoutInSec : `0x14`  
-CreateVNetRootRequestTimeoutInSec : `0x3c`  
-DAVDebugFlag : `0x00`  
-DevFsCtlRequestTimeoutInSec : `0x258`  
-FileInformationCacheLifeTimeInSec : `0x3c`  
-FileNotFoundCacheLifeTimeInSec : `0x3c`  
-FinalizeFcbRequestTimeoutInSec : `0x3c`  
-FinalizeFobxRequestTimeoutInSec : `0x3c`  
-FinalizeSrvCallRequestTimeoutInSec : `0x258`  
-FinalizeVNetRootRequestTimeoutInSec : `0x258`  
-FsCtlRequestTimeoutInSec : `0x708`  
-LockRefreshRequestTimeoutInSec : `0x258`  
-NameCacheMaxEntries : `0x12c`  
-QueryDirectoryRequestTimeoutInSec : `0x258`  
-QueryFileInfoRequestTimeoutInSec : `0x258`  
-QueryVolumeInfoRequestTimeoutInSec : `0x258`  
-ReNameRequestTimeoutInSec : `0x258`  
-SetFileInfoRequestTimeoutInSec : `0x258`  
-UMRxDebugFlag : `0x00`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">mrxsmb Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`rdbssmsquic`|`@%systemroot%\system32\wkssvc.dll,-1003`|`@%systemroot%\system32\wkssvc.dll,-1002`|`SERVICE_ERROR_NORMAL`|`Network`|`system32\DRIVERS\mrxsmb.sys`|`SERVICE_DEMAND_START`|`0x05`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`rdbssmsquic`|`@%systemroot%\system32\wkssvc.dll,-1003`|`@%systemroot%\system32\wkssvc.dll,-1002`|`SERVICE_ERROR_NORMAL`|`Network`|`system32\DRIVERS\mrxsmb.sys`|`0x03`|`0x05`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">mrxsmb10 Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`mrxsmb`|`@%systemroot%\system32\wkssvc.dll,-1005`|`@%systemroot%\system32\wkssvc.dll,-1004`|`SERVICE_ERROR_NORMAL`|`Network`|`system32\DRIVERS\mrxsmb10.sys`|`SERVICE_AUTO_START`|`0x06`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`mrxsmb`|`@%systemroot%\system32\wkssvc.dll,-1005`|`@%systemroot%\system32\wkssvc.dll,-1004`|`SERVICE_ERROR_NORMAL`|`Network`|`system32\DRIVERS\mrxsmb10.sys`|`0x02`|`0x06`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">mrxsmb20 Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`mrxsmb`|`@%systemroot%\system32\wkssvc.dll,-1007`|`@%systemroot%\system32\wkssvc.dll,-1006`|`SERVICE_ERROR_NORMAL`|`Network`|`system32\DRIVERS\mrxsmb20.sys`|`SERVICE_DEMAND_START`|`0x07`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`mrxsmb`|`@%systemroot%\system32\wkssvc.dll,-1007`|`@%systemroot%\system32\wkssvc.dll,-1006`|`SERVICE_ERROR_NORMAL`|`Network`|`system32\DRIVERS\mrxsmb20.sys`|`0x03`|`0x07`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MsBridge Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|NdisImPlatformProviderClass|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\bridgeres.dll,-1`|`@%SystemRoot%\system32\bridgeres.dll,-1`|`SERVICE_ERROR_NORMAL`|`NDIS`|`System32\drivers\bridge.sys`|`0x01`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\bridgeres.dll,-1`|`@%SystemRoot%\system32\bridgeres.dll,-1`|`SERVICE_ERROR_NORMAL`|`NDIS`|`System32\drivers\bridge.sys`|`0x01`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MSDTC Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'DtcPerfClose', 'Collect': 'DtcPerfCollect', 'Library': '%systemroot%\\system32\\msdtcuiu.DLL', 'Open': 'DtcPerfOpen', 'InstallType': 1, 'PerfIniFile': 'msdtcprf.ini', 'First Counter': 6776, 'Last Counter': 6802, 'First Help': 6777, 'Last Help': 6803, 'Object List': '6776'}`|
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-0(NULL)
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x200ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf00ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-80-3960419045-2460139048-4046793004-1809597027-2250574426
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MSDTC Bridge 4.0.0.0 Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'CategoryOptions': 3, 'Close': 'ClosePerformanceData', 'Collect': 'CollectPerformanceData', 'Counter Names': b'M\x00e\x00s\x00s\x00a\x00g\x00e\x00 \x00s\x00e\x00n\x00d\x00 \x00f\x00a\x00i\x00l\x00u\x00r\x00e\x00s\x00/\x00s\x00e\x00c\x00\x00\x00P\x00r\x00e\x00p\x00a\x00r\x00e\x00 \x00r\x00e\x00t\x00r\x00y\x00 \x00c\x00o\x00u\x00n\x00t\x00/\x00s\x00e\x00c\x00\x00\x00C\x00o\x00m\x00m\x00i\x00t\x00 \x00r\x00e\x00t\x00r\x00y\x00 \x00c\x00o\x00u\x00n\x00t\x00/\x00s\x00e\x00c\x00\x00\x00P\x00r\x00e\x00p\x00a\x00r\x00e\x00d\x00 \x00r\x00e\x00t\x00r\x00y\x00 \x00c\x00o\x00u\x00n\x00t\x00/\x00s\x00e\x00c\x00\x00\x00R\x00e\x00p\x00l\x00a\x00y\x00 \x00r\x00e\x00t\x00r\x00y\x00 \x00c\x00o\x00u\x00n\x00t\x00/\x00s\x00e\x00c\x00\x00\x00F\x00a\x00u\x00l\x00t\x00s\x00 \x00r\x00e\x00c\x00e\x00i\x00v\x00e\x00d\x00 \x00c\x00o\x00u\x00n\x00t\x00/\x00s\x00e\x00c\x00\x00\x00F\x00a\x00u\x00l\x00t\x00s\x00 \x00s\x00e\x00n\x00t\x00 \x00c\x00o\x00u\x00n\x00t\x00/\x00s\x00e\x00c\x00\x00\x00A\x00v\x00e\x00r\x00a\x00g\x00e\x00 \x00p\x00a\x00r\x00t\x00i\x00c\x00i\x00p\x00a\x00n\x00t\x00 \x00p\x00r\x00e\x00p\x00a\x00r\x00e\x00 \x00r\x00e\x00s\x00p\x00o\x00n\x00s\x00e\x00 \x00t\x00i\x00m\x00e\x00\x00\x00A\x00v\x00e\x00r\x00a\x00g\x00e\x00 \x00p\x00a\x00r\x00t\x00i\x00c\x00i\x00p\x00a\x00n\x00t\x00 \x00p\x00r\x00e\x00p\x00a\x00r\x00e\x00 \x00r\x00e\x00s\x00p\x00o\x00n\x00s\x00e\x00 \x00t\x00i\x00m\x00e\x00 \x00B\x00a\x00s\x00e\x00\x00\x00A\x00v\x00e\x00r\x00a\x00g\x00e\x00 \x00p\x00a\x00r\x00t\x00i\x00c\x00i\x00p\x00a\x00n\x00t\x00 \x00c\x00o\x00m\x00m\x00i\x00t\x00 \x00r\x00e\x00s\x00p\x00o\x00n\x00s\x00e\x00 \x00t\x00i\x00m\x00e\x00\x00\x00A\x00v\x00e\x00r\x00a\x00g\x00e\x00 \x00p\x00a\x00r\x00t\x00i\x00c\x00i\x00p\x00a\x00n\x00t\x00 \x00c\x00o\x00m\x00m\x00i\x00t\x00 \x00r\x00e\x00s\x00p\x00o\x00n\x00s\x00e\x00 \x00t\x00i\x00m\x00e\x00 \x00B\x00a\x00s\x00e\x00\x00\x00\x00\x00', 'Counter Types': b'2\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x008\x000\x005\x004\x003\x008\x004\x006\x004\x00\x00\x001\x000\x007\x003\x009\x003\x009\x004\x005\x008\x00\x00\x008\x000\x005\x004\x003\x008\x004\x006\x004\x00\x00\x001\x000\x007\x003\x009\x003\x009\x004\x005\x008\x00\x00\x00\x00\x00', 'IsMultiInstance': 0, 'Library': '%systemroot%\\system32\\NETFXPerf.dll', 'Open': 'OpenPerformanceData', 'InstallType': 1, 'PerfIniFile': '_TransactionBridgePerfCounters_d.ini', 'First Counter': 6804, 'Last Counter': 6826, 'First Help': 6805, 'Last Help': 6827, 'Object List': '6804'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Msfs Service </span>
 
+##### Summary
+
 |ErrorControl|Group|Start|Type|
 | :---: | :---: | :---: | :---: |
-|`SERVICE_ERROR_NORMAL`|`File system`|`SERVICE_SYSTEM_START`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`SERVICE_ERROR_NORMAL`|`File system`|`0x01`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">msgpiowin32 Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\msgpiowin32.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x29`|`@msgpiowin32.inf,%GPIO.SvcDesc%;Common Driver for Buttons, DockMode and Laptop/Slate Indicator`|`msgpiowin32.inf`|
+|`\SystemRoot\System32\drivers\msgpiowin32.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x29`|`@msgpiowin32.inf,%GPIO.SvcDesc%;Common Driver for Buttons, DockMode and Laptop/Slate Indicator`|`msgpiowin32.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">mshidkmdf Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Owners|Description|DisplayName|Group|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\mshidkmdf.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_IGNORE`|`buttonconverter.infhidvhf.inf`|`@%SystemRoot%\system32\drivers\mshidkmdf.sys,-101`|`@%SystemRoot%\system32\drivers\mshidkmdf.sys,-100`|`Base`|
+|`\SystemRoot\System32\drivers\mshidkmdf.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_IGNORE`|`buttonconverter.infhidvhf.inf`|`@%SystemRoot%\system32\drivers\mshidkmdf.sys,-101`|`@%SystemRoot%\system32\drivers\mshidkmdf.sys,-100`|`Base`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">mshidumdf Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|Description|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\mshidumdf.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_IGNORE`|`Base`|`0x0e`|`@%SystemRoot%\system32\drivers\mshidumdf.sys,-100`|`hidbthle.infxinputhid.inf`|`@%SystemRoot%\system32\drivers\mshidumdf.sys,-101`|
+|`\SystemRoot\System32\drivers\mshidumdf.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_IGNORE`|`Base`|`0x0e`|`@%SystemRoot%\system32\drivers\mshidumdf.sys,-100`|`hidbthle.infxinputhid.inf`|`@%SystemRoot%\system32\drivers\mshidumdf.sys,-101`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">msisadrv Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\msisadrv.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_CRITICAL`|`Boot Bus Extender`|`0x02`|`machine.inf`|
+|`System32\drivers\msisadrv.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_CRITICAL`|`Boot Bus Extender`|`0x02`|`machine.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -8114,52 +8040,21 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\iscsiexe.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">msiserver Service </span>
-  
-Security : 
-```
-Owner: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-Group: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -8169,17 +8064,26 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\KeyboardFilterSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MSKSSRV Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\MSKSSRV.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x12`|`@ksfilter.inf,%MSKSSRV.DeviceDesc%;Microsoft Streaming Service Proxy`|`ksfilter.inf`|
+|`\SystemRoot\System32\drivers\MSKSSRV.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x12`|`@ksfilter.inf,%MSKSSRV.DeviceDesc%;Microsoft Streaming Service Proxy`|`ksfilter.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -8191,56 +8095,44 @@ ServiceDllUnloadOnStop : `0x01`
 ##### Service Parameters
   
 Agents : `{}`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_DENIED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-546
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01df
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-549
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x34
-    SID: S-1-0-80-3141615172-2057878085-1754447212-2405740020-3916490453
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MSPCLOCK Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\MSPCLOCK.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x10`|`@ksfilter.inf,%MSPCLOCK.DeviceDesc%;Microsoft Streaming Clock Proxy`|`ksfilter.inf`|
+|`\SystemRoot\System32\drivers\MSPCLOCK.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x10`|`@ksfilter.inf,%MSPCLOCK.DeviceDesc%;Microsoft Streaming Clock Proxy`|`ksfilter.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MSPQM Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\MSPQM.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x11`|`@ksfilter.inf,%MSPQM.DeviceDesc%;Microsoft Streaming Quality Manager Proxy`|`ksfilter.inf`|
+|`\SystemRoot\System32\drivers\MSPQM.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x11`|`@ksfilter.inf,%MSPQM.DeviceDesc%;Microsoft Streaming Quality Manager Proxy`|`ksfilter.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -8252,141 +8144,116 @@ DACL:
 ##### Service Parameters
   
 Apps : `{}`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-3
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MsRPC Service </span>
 
+##### Summary
+
 |ErrorControl|Start|Tag|Type|
 | :---: | :---: | :---: | :---: |
-|`SERVICE_ERROR_NORMAL`|`SERVICE_DEMAND_START`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+|`SERVICE_ERROR_NORMAL`|`0x03`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MSSCNTRS Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'Close', 'Collect': 'Collect', 'Library': '%systemroot%\\system32\\msscntrs.dll', 'Open': 'Open'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MsSecFlt Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x0b
-    Access: 0x10000000
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">mssmbios Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\mssmbios.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_SYSTEM_START`|`SERVICE_ERROR_NORMAL`|`@mssmbios.inf,%mssmbios_svcdesc%;Microsoft System Management BIOS Driver`|`mssmbios.inf`|
+|`\SystemRoot\System32\drivers\mssmbios.sys`|`SERVICE_KERNEL_DRIVER`|`0x01`|`SERVICE_ERROR_NORMAL`|`@mssmbios.inf,%mssmbios_svcdesc%;Microsoft System Management BIOS Driver`|`mssmbios.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MSTEE Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\MSTEE.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x13`|`@ksfilter.inf,%MSTEE.DeviceDesc%;Microsoft Streaming Tee/Sink-to-Sink Converter`|`ksfilter.inf`|
+|`\SystemRoot\System32\drivers\MSTEE.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x13`|`@ksfilter.inf,%MSTEE.DeviceDesc%;Microsoft Streaming Tee/Sink-to-Sink Converter`|`ksfilter.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">MTConfig Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\MTConfig.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x1e`|`@mtconfig.inf,%MTConfig.SVCDESC%;Microsoft Input Configuration Driver`|`mtconfig.inf`|
+|`\SystemRoot\System32\drivers\MTConfig.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x1e`|`@mtconfig.inf,%MTConfig.SVCDESC%;Microsoft Input Configuration Driver`|`mtconfig.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -8397,7 +8264,9 @@ SACL:
 
 ##### Service Parameters
   
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -8409,24 +8278,44 @@ SACL:
   
 Device : `{'NumberOfRequests': 255, 'MaximumSGList': 255}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">napagent Service </span>
 
+##### Summary
+
 |Qecs|
 | :---: |
 |`Qecs`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NativeWifiP Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\System32\drivers\nwifi.sys,-101`|`SERVICE_ERROR_NORMAL`|`NDIS`|`system32\DRIVERS\nwifi.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\System32\drivers\nwifi.sys,-101`|`SERVICE_ERROR_NORMAL`|`NDIS`|`system32\DRIVERS\nwifi.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -8437,59 +8326,14 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\NaturalAuth.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`63 00 63 00 34 00 62 00 34 00 30 00 38 00 63 00 2d 00 34 00 63 00 34 00 65 00 2d 00 34 00 32 00 32 00 66 00 2d 00 39 00 38 00 34 00 39 00 2d 00 34 00 37 00 62 00 62 00 34 00 37 00 62 00 64 00 34 00 64 00 32 00 65 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`cc4b408c-4c4e-422f-9849-47bb47bd4d2e`|
   
 <br></br>  
 
@@ -8501,42 +8345,7 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\ncasvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
@@ -8553,6 +8362,8 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NcbService Service </span>
 
+##### Summary
+
 |NCB|
 | :---: |
 |`{}`|
@@ -8561,20 +8372,18 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\ncbservice.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`65 00 34 00 30 00 66 00 37 00 62 00 35 00 37 00 2d 00 37 00 61 00 32 00 35 00 2d 00 34 00 63 00 64 00 33 00 2d 00 61 00 31 00 33 00 35 00 2d 00 37 00 66 00 37 00 64 00 33 00 64 00 66 00 39 00 64 00 31 00 36 00 62 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`35 00 32 00 32 00 32 00 38 00 32 00 31 00 66 00 2d 00 64 00 35 00 65 00 32 00 2d 00 34 00 38 00 38 00 35 00 2d 00 38 00 34 00 66 00 31 00 2d 00 35 00 66 00 36 00 31 00 38 00 35 00 61 00 30 00 65 00 63 00 34 00 31 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`38 00 38 00 30 00 66 00 64 00 35 00 35 00 65 00 2d 00 34 00 33 00 62 00 39 00 2d 00 31 00 31 00 65 00 30 00 2d 00 62 00 31 00 61 00 38 00 2d 00 63 00 66 00 34 00 65 00 64 00 66 00 64 00 37 00 32 00 30 00 38 00 35 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`44 00 30 00 39 00 42 00 44 00 45 00 42 00 35 00 2d 00 36 00 31 00 37 00 31 00 2d 00 34 00 41 00 33 00 34 00 2d 00 42 00 46 00 45 00 32 00 2d 00 30 00 36 00 46 00 41 00 38 00 32 00 36 00 35 00 32 00 35 00 36 00 38 00 3a 00 66 00 64 00 64 00 30 00 39 00 39 00 63 00 36 00 2d 00 64 00 66 00 30 00 36 00 2d 00 34 00 39 00 30 00 34 00 2d 00 38 00 33 00 62 00 34 00 2d 00 61 00 38 00 37 00 61 00 32 00 37 00 39 00 30 00 33 00 63 00 37 00 30 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 3e 06 83 0d`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`e40f7b57-7a25-4cd3-a135-7f7d3df9d16b`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`5222821f-d5e2-4885-84f1-5f6185a0ec41`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`880fd55e-43b9-11e0-b1a8-cf4edfd72085`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`D09BDEB5-6171-4A34-BFE2-06FA82652568:fdd099c6-df06-4904-83b4-a87a27903c70`|
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 3e 06 83 0d`|
   
 <br></br>  
 
@@ -8586,17 +8395,14 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\NcdAutoSetup.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `SvchostMain`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`3faccffb-6084-9f41-8e48-1f0b49cdb85e`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`50 00 52 00 4f 00 46 00 49 00 4c 00 45 00 5f 00 43 00 48 00 41 00 4e 00 47 00 45 00 44 00 5f 00 54 00 4f 00 5f 00 50 00 52 00 49 00 56 00 41 00 54 00 45 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`3faccffb-6084-9f41-8e48-1f0b49cdb85e`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`PROFILE_CHANGED_TO_PRIVATE`|
   
 <br></br>  
 
@@ -8604,14 +8410,25 @@ ServiceMain : `SvchostMain`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ndfltr Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|BootFlags|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\ndfltr.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`0x02`|`ibbus`|`@mlx4_bus.inf,%ndfltr.ServiceDesc%;NetworkDirect Service`|`mlx4_bus.inf`|`0x01`|
+|`\SystemRoot\System32\drivers\ndfltr.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`0x02`|`ibbus`|`@mlx4_bus.inf,%ndfltr.ServiceDesc%;NetworkDirect Service`|`mlx4_bus.inf`|`0x01`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NDIS Service </span>
+
+##### Summary
 
 |IfTypes|
 | :---: |
@@ -8621,14 +8438,9 @@ ServiceMain : `SvchostMain`
 
 ##### Service Parameters
   
-MaxCachedNblContextSize : `0x200`  
-PortAuthReceiveAuthorizationState : `0x02`  
-PortAuthReceiveControlState : `0x02`  
-PortAuthSendAuthorizationState : `0x02`  
-PortAuthSendControlState : `0x02`  
-ReceiveWorkerDisableAutoStart : `0x00`  
-TrackNblOwner : `0x02`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -8638,9 +8450,9 @@ TrackNblOwner : `0x02`
 
 ##### Service Parameters
   
-PersistentRefCount : `0x01`  
-RefCount : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -8650,42 +8462,69 @@ RefCount : `0x01`
 
 ##### Service Parameters
   
-AdapterFilterAllowList : `6d 00 73 00 5f 00 6e 00 65 00 74 00 6d 00 6f 00 6e 00 00 00 4d 00 53 00 5f 00 4e 00 64 00 69 00 73 00 43 00 61 00 70 00 00 00 00 00`  
-AdapterProtocolAllowList : `00 00 00 00`  
-VirtualMiniportFilterBlockList : `00 00 00 00`  
-VirtualMiniportProtocolBlockList : `00 00 00 00`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NdisTapi Service </span>
 
+##### Summary
+
 |AsyncEventQueueSize|Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`0x300`|`@%systemroot%\system32\mprmsg.dll,-32001`|`@%systemroot%\system32\mprmsg.dll,-32001`|`SERVICE_ERROR_NORMAL`|`NDIS`|`System32\DRIVERS\ndistapi.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`0x300`|`@%systemroot%\system32\mprmsg.dll,-32001`|`@%systemroot%\system32\mprmsg.dll,-32001`|`SERVICE_ERROR_NORMAL`|`NDIS`|`System32\DRIVERS\ndistapi.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Ndisuio Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`NDIS Usermode I/O Protocol`|`SERVICE_ERROR_NORMAL`|`NDIS`|`system32\drivers\ndisuio.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`NDIS Usermode I/O Protocol`|`SERVICE_ERROR_NORMAL`|`NDIS`|`system32\drivers\ndisuio.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NdisVirtualBus Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\NdisVirtualBus.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@%SystemRoot%\System32\drivers\NdisVirtualBus.sys,-200`|`ndisvirtualbus.inf`|
+|`\SystemRoot\System32\drivers\NdisVirtualBus.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@%SystemRoot%\System32\drivers\NdisVirtualBus.sys,-200`|`ndisvirtualbus.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NdisWan Service </span>
+
+##### Summary
 
 |Linkage|
 | :---: |
@@ -8695,56 +8534,105 @@ VirtualMiniportProtocolBlockList : `00 00 00 00`
 
 ##### Service Parameters
   
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ndiswanlegacy Service </span>
 
+##### Summary
+
 |Linkage|
 | :---: |
 |`{'Export': b'\\\x00D\x00e\x00v\x00i\x00c\x00e\x00\\\x00n\x00d\x00i\x00s\x00w\x00a\x00n\x00l\x00e\x00g\x00a\x00c\x00y\x00\x00\x00\x00\x00', 'Bind': b'\x00\x00', 'Route': b'\x00\x00'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NDKPing Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: |
-|`NDKPing Driver`|`SERVICE_ERROR_NORMAL`|`system32\drivers\NDKPing.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`NDKPing Driver`|`SERVICE_ERROR_NORMAL`|`system32\drivers\NDKPing.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ndproxy Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\ndproxy.sys,-6000`|`@%SystemRoot%\system32\drivers\ndproxy.sys,-6000`|`SERVICE_ERROR_NORMAL`|`PNP_TDI`|`System32\DRIVERS\NDProxy.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\ndproxy.sys,-6000`|`@%SystemRoot%\system32\drivers\ndproxy.sys,-6000`|`SERVICE_ERROR_NORMAL`|`PNP_TDI`|`System32\DRIVERS\NDProxy.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Ndu Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`tcpip`|`@%SystemRoot%\system32\drivers\Ndu.sys,-10002`|`@%SystemRoot%\system32\drivers\Ndu.sys,-10001`|`SERVICE_ERROR_NORMAL`|`system32\drivers\Ndu.sys`|`SERVICE_AUTO_START`|`SERVICE_KERNEL_DRIVER`|
+|`tcpip`|`@%SystemRoot%\system32\drivers\Ndu.sys,-10002`|`@%SystemRoot%\system32\drivers\Ndu.sys,-10001`|`SERVICE_ERROR_NORMAL`|`system32\drivers\Ndu.sys`|`0x02`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NetAdapterCx Service </span>
 
+##### Summary
+
 |DependOnService|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`ndis`|`Network Adapter Wdf Class Extension Library`|`SERVICE_ERROR_NORMAL`|`system32\drivers\NetAdapterCx.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`ndis`|`Network Adapter Wdf Class Extension Library`|`SERVICE_ERROR_NORMAL`|`system32\drivers\NetAdapterCx.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NetBIOS Service </span>
+
+##### Summary
 
 |Linkage|
 | :---: |
@@ -8754,21 +8642,33 @@ VirtualMiniportProtocolBlockList : `00 00 00 00`
 
 ##### Service Parameters
   
-MaxLana : `0x03`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NetbiosSmb Service </span>
 
+##### Summary
+
 |Linkage|
 | :---: |
 |`{'Export': b'\\\x00D\x00e\x00v\x00i\x00c\x00e\x00\\\x00N\x00e\x00t\x00b\x00i\x00o\x00s\x00S\x00m\x00b\x00\x00\x00\x00\x00', 'Bind': b'\x00\x00', 'Route': b'\x00\x00'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NetBT Service </span>
+
+##### Summary
 
 |Linkage|
 | :---: |
@@ -8779,49 +8679,9 @@ MaxLana : `0x03`
 ##### Service Parameters
   
 Interfaces : `{}`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-549
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x40
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x40
-    SID: S-1-0-20
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-32-556
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -8831,15 +8691,9 @@ DACL:
 
 ##### Service Parameters
   
-DisablePasswordChange : `0x00`  
-MaximumPasswordAge : `0x1e`  
-RequireSignOrSeal : `0x01`  
-RequireStrongKey : `0x01`  
-SealSecureChannel : `0x01`  
-ServiceDll : `%SystemRoot%\system32\netlogon.dll`  
-SignSecureChannel : `0x01`  
-Update : `no`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -8849,9 +8703,9 @@ Update : `no`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\netman.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -8861,9 +8715,9 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\netprofmsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -8873,105 +8727,30 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\NetSetupSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `NetSetupServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x1d
-    SID: S-1-0-20
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x1d
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x1d
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x1d
-    SID: S-1-0-32-545
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x1d
-    SID: S-1-0-32-556
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 23 0a 8f 12`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 23 0a 8f 12`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`61 00 31 00 31 00 31 00 66 00 31 00 63 00 35 00 2d 00 35 00 39 00 32 00 33 00 2d 00 34 00 37 00 63 00 30 00 2d 00 39 00 61 00 36 00 38 00 2d 00 64 00 30 00 62 00 61 00 66 00 62 00 35 00 37 00 37 00 39 00 30 00 31 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 23 0a 8f 12`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 23 0a 8f 12`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`a111f1c5-5923-47c0-9a68-d0bafb577901`|
   
 <br></br>  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NetTcpPortSharing Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-6
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -8982,7 +8761,9 @@ DACL:
 ##### Service Parameters
   
 Wdf : `{'DbgPrintOn': 0, 'DbgBreakOnError': 0}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -8992,55 +8773,20 @@ Wdf : `{'DbgPrintOn': 0, 'DbgBreakOnError': 0}`
 
 ##### Service Parameters
   
-RecoveryServiceClientId : `9115dd05-fad5-4f9c-acc7-305d08b1b04e`  
-RecoveryServiceDomain : `cred.microsoft.com`  
-RecoveryServiceResource : `https://cred.microsoft.com/`  
-ServiceDll : `%SystemRoot%\System32\NgcCtnrSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-VscHandlerPath : `X:\Windows\System32\NgcCtnrGidsHandler.dll`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20085
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`33 00 30 00 30 00 33 00 34 00 38 00 34 00 33 00 2d 00 30 00 32 00 39 00 64 00 2d 00 34 00 36 00 65 00 63 00 2d 00 38 00 66 00 66 00 66 00 2d 00 35 00 64 00 31 00 32 00 39 00 38 00 37 00 66 00 38 00 35 00 63 00 34 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`32 00 64 00 32 00 34 00 66 00 66 00 30 00 62 00 2d 00 31 00 62 00 61 00 62 00 2d 00 34 00 30 00 34 00 63 00 2d 00 61 00 30 00 66 00 64 00 2d 00 34 00 32 00 63 00 38 00 35 00 35 00 37 00 37 00 62 00 66 00 36 00 38 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`37 00 36 00 34 00 32 00 32 00 34 00 39 00 42 00 2d 00 38 00 34 00 43 00 32 00 2d 00 34 00 34 00 30 00 34 00 2d 00 42 00 36 00 45 00 42 00 2d 00 31 00 45 00 30 00 41 00 32 00 34 00 35 00 38 00 38 00 33 00 39 00 41 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`65 00 36 00 66 00 38 00 39 00 36 00 38 00 30 00 2d 00 66 00 63 00 39 00 38 00 2d 00 31 00 31 00 65 00 33 00 2d 00 38 00 30 00 64 00 34 00 2d 00 31 00 30 00 36 00 30 00 34 00 62 00 36 00 38 00 31 00 63 00 66 00 61 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 28 00 92 13`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 23 09 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|6|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 68 bc a3 23 09 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`30034843-029d-46ec-8fff-5d12987f85c4`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`2d24ff0b-1bab-404c-a0fd-42c85577bf68`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`7642249B-84C2-4404-B6EB-1E0A2458839A`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`e6f89680-fc98-11e3-80d4-10604b681cfa`|
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 28 00 92 13`|
+|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 23 09 85 41`|
+|6|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 68 bc a3 23 09 85 41`|
   
 <br></br>  
 
@@ -9052,63 +8798,29 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\ngcsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `NgcServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20085
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe009d
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x85
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`30 00 65 00 33 00 61 00 65 00 30 00 39 00 35 00 2d 00 38 00 61 00 32 00 33 00 2d 00 34 00 38 00 66 00 34 00 2d 00 39 00 37 00 38 00 32 00 2d 00 30 00 33 00 63 00 31 00 35 00 39 00 34 00 61 00 38 00 39 00 30 00 65 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`63 00 32 00 32 00 35 00 65 00 37 00 39 00 39 00 2d 00 32 00 39 00 64 00 65 00 2d 00 34 00 32 00 61 00 66 00 2d 00 62 00 63 00 30 00 35 00 2d 00 31 00 65 00 32 00 31 00 32 00 37 00 63 00 63 00 30 00 35 00 36 00 65 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`64 00 39 00 38 00 34 00 34 00 65 00 64 00 39 00 2d 00 66 00 37 00 32 00 61 00 2d 00 34 00 37 00 34 00 35 00 2d 00 61 00 34 00 61 00 31 00 2d 00 65 00 65 00 37 00 31 00 66 00 39 00 35 00 30 00 37 00 38 00 31 00 64 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`32 00 62 00 37 00 30 00 62 00 65 00 64 00 36 00 2d 00 31 00 37 00 35 00 37 00 2d 00 34 00 64 00 32 00 32 00 2d 00 39 00 66 00 33 00 39 00 2d 00 34 00 34 00 38 00 35 00 38 00 39 00 66 00 62 00 65 00 62 00 66 00 35 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`39 00 63 00 62 00 63 00 39 00 64 00 33 00 61 00 2d 00 37 00 35 00 38 00 36 00 2d 00 34 00 38 00 31 00 34 00 2d 00 38 00 64 00 37 00 30 00 2d 00 31 00 38 00 37 00 33 00 37 00 64 00 63 00 62 00 65 00 35 00 32 00 33 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`34 00 45 00 32 00 35 00 46 00 34 00 41 00 32 00 2d 00 32 00 31 00 45 00 38 00 2d 00 34 00 30 00 43 00 45 00 2d 00 42 00 34 00 30 00 31 00 2d 00 33 00 32 00 30 00 35 00 30 00 34 00 31 00 33 00 31 00 34 00 33 00 41 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|6|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`38 00 33 00 33 00 37 00 41 00 45 00 42 00 43 00 2d 00 35 00 35 00 36 00 34 00 2d 00 34 00 36 00 46 00 44 00 2d 00 42 00 43 00 34 00 31 00 2d 00 37 00 37 00 39 00 38 00 46 00 31 00 38 00 44 00 32 00 45 00 34 00 42 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|7|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`6509f400-9de8-8744-9890-87c3abb211f4`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`0e3ae095-8a23-48f4-9782-03c1594a890e`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`c225e799-29de-42af-bc05-1e2127cc056e`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`d9844ed9-f72a-4745-a4a1-ee71f950781d`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`2b70bed6-1757-4d22-9f39-448589fbebf5`|
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`9cbc9d3a-7586-4814-8d70-18737dcbe523`|
+|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`4E25F4A2-21E8-40CE-B401-32050413143A`|
+|6|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`8337AEBC-5564-46FD-BC41-7798F18D2E4B`|
+|7|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`6509f400-9de8-8744-9890-87c3abb211f4`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
   
 <br></br>  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NlaSvc Service </span>
+
+##### Summary
 
 |LANIds|
 | :---: |
@@ -9120,56 +8832,44 @@ SACL:
   
 Cache : `{}`  
 Internet : `Internet`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2001d
-    SID: S-1-0-80-3141615172-2057878085-1754447212-2405740020-3916490453
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Npfs Service </span>
 
+##### Summary
+
 |Aliases|
 | :---: |
 |`{'lsass': b'p\x00r\x00o\x00t\x00e\x00c\x00t\x00e\x00d\x00_\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00\x00\x00n\x00e\x00t\x00l\x00o\x00g\x00o\x00n\x00\x00\x00l\x00s\x00a\x00r\x00p\x00c\x00\x00\x00s\x00a\x00m\x00r\x00\x00\x00\x00\x00', 'ntsvcs': b's\x00v\x00c\x00c\x00t\x00l\x00\x00\x00\x00\x00'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">npsvctrig Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -9180,53 +8880,98 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\nsisvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">nsiproxy Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\nsiproxy.sys,-1`|`@%SystemRoot%\system32\drivers\nsiproxy.sys,-2`|`SERVICE_ERROR_NORMAL`|`system32\drivers\nsiproxy.sys`|`SERVICE_SYSTEM_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\nsiproxy.sys,-1`|`@%SystemRoot%\system32\drivers\nsiproxy.sys,-2`|`SERVICE_ERROR_NORMAL`|`system32\drivers\nsiproxy.sys`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">NTDS Service </span>
 
+##### Summary
+
 |RID Values|
 | :---: |
 |`{}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Ntfs Service </span>
 
+##### Summary
+
 |EFS|
 | :---: |
 |`EFS`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Null Service </span>
 
+##### Summary
+
 |ErrorControl|Group|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: |
-|`SERVICE_ERROR_NORMAL`|`Base`|`SERVICE_SYSTEM_START`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+|`SERVICE_ERROR_NORMAL`|`Base`|`0x01`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">nvdimm Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\nvdimm.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`Primary Disk`|`0x01`|`@nvdimm.inf,%nvdimm.SvcDesc%;Microsoft NVDIMM device driver`|`nvdimm.inf`|
+|`System32\drivers\nvdimm.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`Primary Disk`|`0x01`|`@nvdimm.inf,%nvdimm.SvcDesc%;Microsoft NVDIMM device driver`|`nvdimm.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -9238,7 +8983,9 @@ ServiceDllUnloadOnStop : `0x01`
 ##### Service Parameters
   
 Device : `{'EnableQueryAccessAlignment': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -9250,7 +8997,9 @@ Device : `{'EnableQueryAccessAlignment': 1}`
   
 Device : `{'EnableQueryAccessAlignment': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -9260,51 +9009,9 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\APHostService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-11
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -9314,52 +9021,9 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\pnrpsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `IMServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_DENIED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-546
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x200fd
-    SID: S-1-0-32-549
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-32-555
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-32-545
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -9369,60 +9033,26 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\p2psvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `GroupServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_DENIED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-546
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x200fd
-    SID: S-1-0-32-549
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-32-555
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-32-545
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Parport Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\parport.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_IGNORE`|`Parallel arbitrator`|`0x01`|`@msports.inf,%Parport.SVCDESC%;Parallel port driver`|`msports.inf`|
+|`\SystemRoot\System32\drivers\parport.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_IGNORE`|`Parallel arbitrator`|`0x01`|`@msports.inf,%Parport.SVCDESC%;Parallel port driver`|`msports.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -9434,7 +9064,9 @@ DACL:
 ##### Service Parameters
   
 VolumeManagerAltitudes : `{'clusbflt': 4, 'spaceport': 16, 'volmgr': 32}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -9444,48 +9076,9 @@ VolumeManagerAltitudes : `{'clusbflt': 4, 'spaceport': 16, 'volmgr': 32}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\pcasvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -9495,127 +9088,134 @@ SACL:
 
 ##### Service Parameters
   
-DmaRemappingCompatible : `0x02`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">pciide Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\pciide.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`0x08`|`mshdc.inf`|
+|`System32\drivers\pciide.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`0x08`|`mshdc.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">pcmcia Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\pcmcia.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`0x01`|`pcmcia.inf`|
+|`System32\drivers\pcmcia.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`0x01`|`pcmcia.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">pcw Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Performance Counters for Windows Driver`|`SERVICE_ERROR_NORMAL`|`System Reserved`|`System32\drivers\pcw.sys`|`SERVICE_BOOT_START`|`SERVICE_KERNEL_DRIVER`|
+|`Performance Counters for Windows Driver`|`SERVICE_ERROR_NORMAL`|`System Reserved`|`System32\drivers\pcw.sys`|`0x00`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">pdc Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\pdc.sys,-101`|`@%SystemRoot%\system32\drivers\pdc.sys,-100`|`SERVICE_ERROR_CRITICAL`|`Boot Bus Extender`|`system32\drivers\pdc.sys`|`SERVICE_BOOT_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\pdc.sys,-101`|`@%SystemRoot%\system32\drivers\pdc.sys,-100`|`SERVICE_ERROR_CRITICAL`|`Boot Bus Extender`|`system32\drivers\pdc.sys`|`0x00`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PEAUTH Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`{'DefaultInstance': 'PEAUTH'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PeerDistSvc Service </span>
 
+##### Summary
+
+|parameters|
+| :---: |
+|`{'ServiceDll': '%SystemRoot%\\system32\\peerdistsvc.dll', 'ServiceDllUnloadOnStop': 1, 'ServiceMain': 'SVCServiceMain'}`|
+
 
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\peerdistsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `SVCServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-549
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-32-555
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-32-545
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x94
-    SID: S-1-0-2-1
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">perceptionsimulation Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|FailureActions|ImagePath|ObjectName|ServiceSidType|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`rpcss`|`@%systemroot%\system32\PerceptionSimulation\PerceptionSimulationService.exe,-102`|`@%systemroot%\system32\PerceptionSimulation\PerceptionSimulationService.exe,-101`|`SERVICE_ERROR_NORMAL`|`3c 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 14 00 00 00 01 00 00 00 64 00 00 00 01 00 00 00 e8 03 00 00 01 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00`|`%systemroot%\system32\PerceptionSimulation\PerceptionSimulationService.exe`|`LocalSystem`|`SERVICE_SID_TYPE_UNRESTRICTED`|`SERVICE_DEMAND_START`|`SERVICE_WIN32_OWN_PROCESS`|
+|`rpcss`|`@%systemroot%\system32\PerceptionSimulation\PerceptionSimulationService.exe,-102`|`@%systemroot%\system32\PerceptionSimulation\PerceptionSimulationService.exe,-101`|`SERVICE_ERROR_NORMAL`|`3c 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 14 00 00 00 01 00 00 00 64 00 00 00 01 00 00 00 e8 03 00 00 01 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00`|`%systemroot%\system32\PerceptionSimulation\PerceptionSimulationService.exe`|`LocalSystem`|`SERVICE_SID_TYPE_UNRESTRICTED`|`0x03`|`SERVICE_WIN32_OWN_PROCESS`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -9628,7 +9228,9 @@ SACL:
   
 Device : `{'DriverParameter': 'nonuma=1', 'EnableQueryAccessAlignment': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -9640,51 +9242,98 @@ PnpInterface : `{'5': 1}`
   
 Device : `{'DriverParameter': 'placeholder=0', 'EnableQueryAccessAlignment': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PerfDisk Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'CloseDiskObject', 'Collect': 'CollectDiskObjectData', 'Collect Timeout': 2000, 'Library': '%SystemRoot%\\System32\\perfdisk.dll', 'Object List': '234 236', 'Open': 'OpenDiskObject', 'Open Timeout': 5000}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PerfHost Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|FailureActions|ImagePath|ObjectName|RequiredPrivileges|ServiceSidType|Start|Type|WOW64|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`RPCSS`|`@%systemroot%\SysWow64\perfhost.exe,-1`|`@%systemroot%\sysWow64\perfhost.exe,-2`|`SERVICE_ERROR_NORMAL`|`80 51 01 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 60 ea 00 00 01 00 00 00 60 ea 00 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\SysWow64\perfhost.exe`|`NT AUTHORITY\LocalService`|`['SeImpersonatePrivilege']`|`SERVICE_SID_TYPE_RESTRICTED`|`SERVICE_DEMAND_START`|`SERVICE_WIN32_OWN_PROCESS`|`0x14c`|
+|`RPCSS`|`@%systemroot%\SysWow64\perfhost.exe,-1`|`@%systemroot%\sysWow64\perfhost.exe,-2`|`SERVICE_ERROR_NORMAL`|`80 51 01 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 60 ea 00 00 01 00 00 00 60 ea 00 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\SysWow64\perfhost.exe`|`NT AUTHORITY\LocalService`|`['SeImpersonatePrivilege']`|`SERVICE_SID_TYPE_RESTRICTED`|`0x03`|`SERVICE_WIN32_OWN_PROCESS`|`0x14c`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PerfNet Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'CloseNetSvcsObject', 'Collect': 'CollectNetSvcsObjectData', 'Collect Timeout': 5000, 'Library': '%SystemRoot%\\System32\\perfnet.dll', 'Object List': '52 262 330 1300', 'Open': 'OpenNetSvcsObject', 'Open Timeout': 8000}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PerfOS Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'CloseOSObject', 'Collect': 'CollectOSObjectData', 'Collect Timeout': 8000, 'Library': '%SystemRoot%\\System32\\perfos.dll', 'Object List': '2 4 86 238 260 700 1814', 'Open': 'OpenOSObject', 'Open Timeout': 5000}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PerfProc Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'CloseSysProcessObject', 'Collect': 'CollectSysProcessObjectData', 'Collect Timeout': 8000, 'Library': '%SystemRoot%\\System32\\perfproc.dll', 'Object List': '230 232 786 740 816 1408 1500 1548 1760', 'Open': 'OpenSysProcessObject', 'Open Timeout': 10000}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -9695,55 +9344,16 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\PhoneService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-0(NULL)
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-2-1
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`66 00 32 00 36 00 65 00 32 00 33 00 37 00 32 00 2d 00 64 00 36 00 30 00 31 00 2d 00 34 00 34 00 66 00 30 00 2d 00 38 00 34 00 62 00 38 00 2d 00 32 00 35 00 39 00 31 00 64 00 32 00 61 00 66 00 32 00 66 00 38 00 32 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`61 00 33 00 62 00 61 00 65 00 33 00 66 00 37 00 2d 00 62 00 66 00 39 00 37 00 2d 00 34 00 39 00 66 00 62 00 2d 00 62 00 34 00 38 00 64 00 2d 00 32 00 61 00 35 00 65 00 38 00 36 00 35 00 37 00 62 00 34 00 33 00 36 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 68 bc a3 2f 02 92 09`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`f26e2372-d601-44f0-84b8-2591d2af2f82`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`a3bae3f7-bf97-49fb-b48d-2a5e8657b436`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 68 bc a3 2f 02 92 09`|
   
 <br></br>  
 
@@ -9755,56 +9365,33 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\PimIndexMaintenance.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PktMon Service </span>
 
+##### Summary
+
+|parameters|
+| :---: |
+|`{'WppRecorder_PerBufferMaxBytes': 65536}`|
+
 
 
 ##### Service Parameters
   
-WppRecorder_PerBufferMaxBytes : `0x10000`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">pla Service </span>
+
+##### Summary
 
 |Configuration|
 | :---: |
@@ -9814,42 +9401,9 @@ WppRecorder_PerBufferMaxBytes : `0x10000`
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\pla.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x1fd
-    SID: S-1-0-32-549
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x195
-    SID: S-1-0-0(NULL)
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -9859,132 +9413,81 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\umpnpmgr.dll`  
-ServiceMain : `PlugPlayServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">pmem Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\pmem.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`@pmem.inf,%pmem.SvcDesc%;Microsoft persistent memory disk driver`|`pmem.inf`|
+|`System32\drivers\pmem.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`@pmem.inf,%pmem.SvcDesc%;Microsoft persistent memory disk driver`|`pmem.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PNPMEM Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\pnpmem.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@memory.inf,%PNPMEM.SvcDesc%;Microsoft Memory Module Driver`|`memory.inf`|
+|`\SystemRoot\System32\drivers\pnpmem.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@memory.inf,%PNPMEM.SvcDesc%;Microsoft Memory Module Driver`|`memory.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PNRPAutoReg Service </span>
 
+##### Summary
+
+|parameters|
+| :---: |
+|`{'ServiceDll': '%SystemRoot%\\system32\\pnrpauto.dll', 'ServiceDllUnloadOnStop': 1, 'ServiceMain': 'PnrpAutoSVCServiceMain'}`|
+
 
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\pnrpauto.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `PnrpAutoSVCServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_DENIED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-546
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x200fd
-    SID: S-1-0-32-549
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-32-555
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PNRPsvc Service </span>
 
+##### Summary
+
+|parameters|
+| :---: |
+|`{'ServiceDll': '%SystemRoot%\\system32\\pnrpsvc.dll', 'ServiceDllUnloadOnStop': 1, 'ServiceMain': 'SVCServiceMain'}`|
+
 
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\pnrpsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `SVCServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_DENIED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-546
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x200fd
-    SID: S-1-0-32-549
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-32-555
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-32-545
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -10000,9 +9503,9 @@ Cache : `{}`
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`079e56b7-2184-e04e-ad10-86915afdad09`|`SERVICE_TRIGGER_TYPE_FIREWALL_PORT_EVENT`|`52 00 50 00 43 00 00 00 54 00 43 00 50 00 00 00 25 00 77 00 69 00 6e 00 64 00 69 00 72 00 25 00 5c 00 73 00 79 00 73 00 74 00 65 00 6d 00 33 00 32 00 5c 00 73 00 76 00 63 00 68 00 6f 00 73 00 74 00 2e 00 65 00 78 00 65 00 00 00 70 00 6f 00 6c 00 69 00 63 00 79 00 61 00 67 00 65 00 6e 00 74 00 00 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`079e56b7-2184-e04e-ad10-86915afdad09`|`SERVICE_TRIGGER_TYPE_FIREWALL_PORT_EVENT`|`RPCTCP%windir%\system32\svchost.exepolicyagent`|
   
 <br></br>  
 
@@ -10010,14 +9513,30 @@ Cache : `{}`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">portcfg Service </span>
 
+##### Summary
+
 |ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: |
-|`SERVICE_ERROR_NORMAL`|`PnP Filter`|`\SystemRoot\System32\drivers\portcfg.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`SERVICE_ERROR_NORMAL`|`PnP Filter`|`\SystemRoot\System32\drivers\portcfg.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PortProxy Service </span>
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -10028,17 +9547,26 @@ Cache : `{}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\umpo.dll`  
-ServiceMain : `UmpoMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">PptpMiniport Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Description|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\raspptp.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@%systemroot%\system32\mprmsg.dll,-32006`|`@%systemroot%\system32\mprmsg.dll,-32006`|`netrasa.inf`|
+|`\SystemRoot\System32\drivers\raspptp.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@%systemroot%\system32\mprmsg.dll,-32006`|`@%systemroot%\system32\mprmsg.dll,-32006`|`netrasa.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -10049,54 +9577,26 @@ ServiceMain : `UmpoMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\PrintWorkflowService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-3-1024-4044835139-2658482041-3127973164-329287231-3865880861-1938685643-461067658-1087000422
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-21-2702878673-795188819-444038987-2781
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Processor Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\processr.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x1a`|`@cpu.inf,%Processor.SvcDesc%;Processor Driver`|`cpu.inf`|
+|`\SystemRoot\System32\drivers\processr.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x1a`|`@cpu.inf,%Processor.SvcDesc%;Processor Driver`|`cpu.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -10107,12 +9607,9 @@ DACL:
 
 ##### Service Parameters
   
-DeleteRetryAttempts : `0x0f`  
-DeleteRetryWait : `0x3e8`  
-ServiceDll : `%systemroot%\system32\profsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `UserProfileServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -10123,7 +9620,9 @@ ServiceMain : `UserProfileServiceMain`
 ##### Service Parameters
   
 Winsock : `Winsock`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -10133,16 +9632,14 @@ Winsock : `Winsock`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\PushToInstall.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 3d 1a 8f 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 3d 1a 8f 41`|
   
 <br></br>  
 
@@ -10154,79 +9651,38 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-LLTD : `0x01`  
-ProbegapTrace : `0x00`  
-ServiceDll : `%windir%\system32\qwave.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x9d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x9d
-    SID: S-1-0-20
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x9d
-    SID: S-1-0-84-0-0-0-0-0
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">QWAVEdrv Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x9d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x9d
-    SID: S-1-0-20
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x9d
-    SID: S-1-0-84-0-0-0-0-0
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Ramdisk Service </span>
 
+##### Summary
+
 |Debug|
 | :---: |
 |`{'DebugComponents': 2147483647, 'DebugLevel': 5}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -10237,43 +9693,26 @@ DACL:
 
 ##### Service Parameters
   
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">RasAgileVpn Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Description|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\AgileVpn.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@netavpna.inf,%Svc-Mp-AgileVpn-DispName%;WAN Miniport (IKEv2)`|`@netavpna.inf,%Svc-Mp-AgileVpn-DispName%;WAN Miniport (IKEv2)`|`netavpna.inf`|
+|`\SystemRoot\System32\drivers\AgileVpn.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@netavpna.inf,%Svc-Mp-AgileVpn-DispName%;WAN Miniport (IKEv2)`|`@netavpna.inf,%Svc-Mp-AgileVpn-DispName%;WAN Miniport (IKEv2)`|`netavpna.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -10284,44 +9723,33 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\rasauto.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-11
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Rasl2tp Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Description|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\rasl2tp.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@%systemroot%\system32\mprmsg.dll,-32005`|`@%systemroot%\system32\mprmsg.dll,-32005`|`netrasa.inf`|
+|`\SystemRoot\System32\drivers\rasl2tp.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@%systemroot%\system32\mprmsg.dll,-32005`|`@%systemroot%\system32\mprmsg.dll,-32005`|`netrasa.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">RasMan Service </span>
+
+##### Summary
 
 |IKEv2|PPP|ThirdParty|
 | :---: | :---: | :---: |
@@ -10331,166 +9759,207 @@ DACL:
 
 ##### Service Parameters
   
-AllowL2TPWeakCrypto : `0x00`  
-AllowPPTPWeakCrypto : `0x00`  
-KeepRasConnections : `0x00`  
-Medias : `72 00 61 00 73 00 74 00 61 00 70 00 69 00 00 00 00 00`  
-ServiceDll : `%SystemRoot%\System32\rasmans.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-3-1024-1068037383-729401668-2768096886-125909118-1680096985-174794564-3112554050-3241210738
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">RasPppoe Service </span>
 
+##### Summary
+
 |Linkage|
 | :---: |
 |`{'Export': b'\\\x00D\x00e\x00v\x00i\x00c\x00e\x00\\\x00R\x00a\x00s\x00P\x00p\x00p\x00o\x00e\x00\x00\x00\x00\x00', 'Bind': b'\x00\x00', 'Route': b'\x00\x00'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">RasSstp Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Description|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\rassstp.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@%systemroot%\system32\sstpsvc.dll,-202`|`@%systemroot%\system32\sstpsvc.dll,-202`|`netsstpa.inf`|
+|`\SystemRoot\System32\drivers\rassstp.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@%systemroot%\system32\sstpsvc.dll,-202`|`@%systemroot%\system32\sstpsvc.dll,-202`|`netsstpa.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">rdbss Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Mup`|`@%systemroot%\system32\wkssvc.dll,-1001`|`@%systemroot%\system32\wkssvc.dll,-1000`|`SERVICE_ERROR_NORMAL`|`Network`|`system32\DRIVERS\rdbss.sys`|`SERVICE_SYSTEM_START`|`0x04`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`Mup`|`@%systemroot%\system32\wkssvc.dll,-1001`|`@%systemroot%\system32\wkssvc.dll,-1000`|`SERVICE_ERROR_NORMAL`|`Network`|`system32\DRIVERS\rdbss.sys`|`0x01`|`0x04`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">rdpbus Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\rdpbus.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@rdpbus.inf,%rdpbus_svcdesc%;Remote Desktop Device Redirector Bus Driver`|`rdpbus.inf`|
+|`\SystemRoot\System32\drivers\rdpbus.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@rdpbus.inf,%rdpbus_svcdesc%;Remote Desktop Device Redirector Bus Driver`|`rdpbus.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">RDPDR Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`RDBSS`|`@%SystemRoot%\System32\DRIVERS\rdpdr.sys,-101`|`@%SystemRoot%\System32\DRIVERS\rdpdr.sys,-100`|`SERVICE_ERROR_NORMAL`|`System32\drivers\rdpdr.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`RDBSS`|`@%SystemRoot%\System32\DRIVERS\rdpdr.sys,-101`|`@%SystemRoot%\System32\DRIVERS\rdpdr.sys,-100`|`SERVICE_ERROR_NORMAL`|`System32\drivers\rdpdr.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">RDPNP Service </span>
 
+##### Summary
+
 |NetworkProvider|
 | :---: |
 |`{'DeviceName': '\\Device\\RdpDr', 'DisplayName': '@%systemroot%\\system32\\drprov.dll,-100', 'Name': 'Microsoft Terminal Services', 'ProviderPath': '%SystemRoot%\\System32\\drprov.dll'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">RDPUDD Service </span>
 
+##### Summary
+
 |Device0|
 | :---: |
 |`{'Device Description': 'RDPUDD Chained DD', 'InstalledDisplayDrivers': b'R\x00D\x00P\x00U\x00D\x00D\x00\x00\x00\x00\x00', 'VgaCompatible': 0}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">RdpVideoMiniport Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x30
-    SID: S-1-0-80-446051430-1559341753-4161941529-1950928533-810483104
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">rdyboost Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'CloseReadyBoostPerfData', 'Collect': 'CollectReadyBoostPerfData', 'Library': '%systemroot%\\system32\\sysmain.dll', 'Open': 'OpenReadyBoostPerfData', 'InstallType': 1, 'PerfIniFile': 'ReadyBoostPerfCounters.ini', 'First Counter': 8984, 'Last Counter': 9004, 'First Help': 8985, 'Last Help': 9005, 'Object List': '8984'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ReFS Service </span>
 
+##### Summary
+
 |BootFlags|ErrorControl|Group|Start|Type|
 | :---: | :---: | :---: | :---: | :---: |
-|`0x80`|`SERVICE_ERROR_NORMAL`|`Boot File System`|`SERVICE_DEMAND_START`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`0x80`|`SERVICE_ERROR_NORMAL`|`Boot File System`|`0x03`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ReFSv1 Service </span>
 
+##### Summary
+
 |BootFlags|ErrorControl|Group|Start|Type|
 | :---: | :---: | :---: | :---: | :---: |
-|`0x80`|`SERVICE_ERROR_NORMAL`|`Boot File System`|`SERVICE_DEMAND_START`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`0x80`|`SERVICE_ERROR_NORMAL`|`Boot File System`|`0x03`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">RemoteAccess Service </span>
+
+##### Summary
 
 |Accounting|Authentication|DemandDialManager|Interfaces|Performance|Policy|RouterManagers|RoutingDomains|RoutingTableManager|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -10506,29 +9975,9 @@ Ip : `{'AllowClientIpAddresses': 0, 'AllowNetworkAccess': 1, 'EnableIn': 1, 'Ena
 Ipv6 : `{'AdvertiseDefaultRoute': 1, 'AllowNetworkAccess': 1, 'EnableIn': 0, 'EnableRoute': 1, 'UseDhcpAddressing': 0}`  
 L2TP : `{'idleTimeout': 300, 'saDataSize': 250000, 'saLifeTime': 3600}`  
 Nbf : `{'AllowNetworkAccess': 1, 'EnableIn': 1}`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-11
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -10538,16 +9987,14 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\regsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`31d1811f-ac3f-3745-9e0c-7e7b0c2f4b55`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`77 00 69 00 6e 00 72 00 65 00 67 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`31d1811f-ac3f-3745-9e0c-7e7b0c2f4b55`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`winreg`|
   
 <br></br>  
 
@@ -10559,9 +10006,9 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDLL : `%SystemRoot%\system32\RDXService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -10584,15 +10031,26 @@ PM_ServicesAllowedList : `00`
 PM_RequireRestrictedMode : `0x00`  
 ReservedChannels : `ReservedChannels`  
 Winsock : `Winsock`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">rhproxy Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\rhproxy.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x16`|`@rhproxy.inf,%rhproxy.SVCDESC%;Resource Hub proxy driver`|`rhproxy.inf`|
+|`\SystemRoot\System32\drivers\rhproxy.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x16`|`@rhproxy.inf,%rhproxy.SVCDESC%;Resource Hub proxy driver`|`rhproxy.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -10603,36 +10061,9 @@ Winsock : `Winsock`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\RMapi.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x201fd
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x201ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x201ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0x201fd
-    SID: S-1-0-32-545
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -10642,49 +10073,26 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\RpcEpMap.dll`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20085
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x95
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">RpcLocator Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|FailureActions|ImagePath|ObjectName|RequiredPrivileges|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%systemroot%\system32\Locator.exe,-3`|`@%systemroot%\system32\Locator.exe,-2`|`SERVICE_ERROR_NORMAL`|`84 03 00 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 c0 d4 01 00 01 00 00 00 e0 93 04 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\system32\locator.exe`|`NT AUTHORITY\NetworkService`|`['SeChangeNotifyPrivilege']`|`SERVICE_DEMAND_START`|`SERVICE_WIN32_OWN_PROCESS`|
+|`@%systemroot%\system32\Locator.exe,-3`|`@%systemroot%\system32\Locator.exe,-2`|`SERVICE_ERROR_NORMAL`|`84 03 00 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 c0 d4 01 00 01 00 00 00 e0 93 04 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\system32\locator.exe`|`NT AUTHORITY\NetworkService`|`['SeChangeNotifyPrivilege']`|`0x03`|`SERVICE_WIN32_OWN_PROCESS`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -10695,49 +10103,26 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\rpcss.dll`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20085
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x85
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">rspndr Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\lltdres.dll,-5`|`@%SystemRoot%\system32\lltdres.dll,-5`|`SERVICE_ERROR_NORMAL`|`NDIS`|`system32\drivers\rspndr.sys`|`SERVICE_AUTO_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\lltdres.dll,-5`|`@%SystemRoot%\system32\lltdres.dll,-5`|`SERVICE_ERROR_NORMAL`|`NDIS`|`system32\drivers\rspndr.sys`|`0x02`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -10749,53 +10134,38 @@ SACL:
 ##### Service Parameters
   
 Wdf : `{'DbgPrintOn': 0, 'DbgBreakOnError': 0}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">SamSs Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x8d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x8d
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">sbp2port Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\sbp2port.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`@sbp2.inf,%sbp2_ServiceDesc%;SBP-2 Transport/Protocol Bus Driver`|`sbp2.inf`|
+|`System32\drivers\sbp2port.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`@sbp2.inf,%sbp2_ServiceDesc%;SBP-2 Transport/Protocol Bus Driver`|`sbp2.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -10806,53 +10176,17 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\SCardSvr.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `CalaisMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-32-544
-Group: S-1-0-32-544
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0xc0
-    Access: 0xc0000
-    SID: S-1-0-32-544
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`3052dd50-8aba-d111-bf5d-0000f805f530`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`61811d12-6d86-244a-ba58-9058940c0d47`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`63 00 36 00 62 00 35 00 32 00 33 00 35 00 61 00 2d 00 65 00 34 00 31 00 33 00 2d 00 34 00 38 00 31 00 64 00 2d 00 39 00 61 00 63 00 38 00 2d 00 33 00 31 00 36 00 38 00 31 00 62 00 31 00 66 00 61 00 61 00 66 00 35 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`44 00 30 00 39 00 42 00 44 00 45 00 42 00 35 00 2d 00 36 00 31 00 37 00 31 00 2d 00 34 00 41 00 33 00 34 00 2d 00 42 00 46 00 45 00 32 00 2d 00 30 00 36 00 46 00 41 00 38 00 32 00 36 00 35 00 32 00 35 00 36 00 38 00 3a 00 30 00 43 00 43 00 38 00 32 00 38 00 35 00 37 00 2d 00 31 00 45 00 30 00 45 00 2d 00 34 00 36 00 33 00 33 00 2d 00 41 00 36 00 37 00 33 00 2d 00 32 00 35 00 37 00 42 00 41 00 32 00 34 00 45 00 42 00 39 00 41 00 43 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`3052dd50-8aba-d111-bf5d-0000f805f530`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`61811d12-6d86-244a-ba58-9058940c0d47`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`c6b5235a-e413-481d-9ac8-31681b1faaf5`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`D09BDEB5-6171-4A34-BFE2-06FA82652568:0CC82857-1E0E-4633-A673-257BA24EB9AC`|
   
 <br></br>  
 
@@ -10864,57 +10198,16 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\ScDeviceEnum.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ScDeviceEnumServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-32-544
-Group: S-1-0-32-544
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x30
-    SID: S-1-0-80-3993802144-2555107232-3516638766-2735499450-3275915967
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0xc0
-    Access: 0xc0000
-    SID: S-1-0-32-544
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`9f90ddae-c641-1a40-9e41-dfc33006af5d`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`87 66 23 5a 07 d3 e2 44 92 41 e1 c6 c2 7c eb 28`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`dfb92106-4932-5945-9889-21f76b5c80f3`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`8b 9e d9 92 80 96 0b 43 9d ef 9a aa f5 79 01 3c`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`31 00 36 00 39 00 43 00 34 00 35 00 33 00 42 00 2d 00 35 00 39 00 35 00 35 00 2d 00 34 00 36 00 37 00 32 00 2d 00 42 00 45 00 34 00 34 00 2d 00 32 00 31 00 46 00 36 00 31 00 45 00 39 00 45 00 46 00 31 00 38 00 46 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`9f90ddae-c641-1a40-9e41-dfc33006af5d`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`87 66 23 5a 07 d3 e2 44 92 41 e1 c6 c2 7c eb 28`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`dfb92106-4932-5945-9889-21f76b5c80f3`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`8b 9e d9 92 80 96 0b 43 9d ef 9a aa f5 79 01 3c`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`169C453B-5955-4672-BE44-21F61E9EF18F`|
   
 <br></br>  
 
@@ -10927,40 +10220,9 @@ SACL:
 ##### Service Parameters
   
 Wdf : `{'KmdfLibraryVersion': '1.7'}`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-32-544
-Group: S-1-0-32-544
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0xc0
-    Access: 0xc0000
-    SID: S-1-0-32-544
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -10970,51 +10232,26 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\schedsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe01dd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">scmbus Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\scmbus.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`@scmbus.inf,%scmbus.SvcDesc%;Microsoft Storage Class Memory Bus Driver`|`scmbus.inf`|
+|`System32\drivers\scmbus.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`@scmbus.inf,%scmbus.SvcDesc%;Microsoft Storage Class Memory Bus Driver`|`scmbus.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -11025,43 +10262,9 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\certprop.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ScPolicyServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-32-544
-Group: S-1-0-32-544
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0xc0
-    Access: 0xc0000
-    SID: S-1-0-32-544
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -11071,9 +10274,9 @@ SACL:
 
 ##### Service Parameters
   
-SdCmdFlags : `05 01 06 01 08 11 09 19 0a 19 0d 11 10 01 11 01 12 01 17 01 18 05 19 05 1a 01 1b 01 1c 01 20 05 21 05 26 05 2a 01 34 02 35 02 37 01 38 01 22 01 23 05 24 01 25 01`  
-SdAppCmdFlags : `06 01 0d 01 16 01 17 01 33 01 12 01 19 01 1a 01 26 01 2b 01 2c 01 2d 01 2e 01 2f 01 30 01 31 01 33 01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -11084,7 +10287,9 @@ SdAppCmdFlags : `06 01 0d 01 16 01 17 01 33 01 12 01 19 01 1a 01 26 01 2b 01 2c 
 ##### Service Parameters
   
 Wdf : `{'KmdfLibraryVersion': '1.15'}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -11094,8 +10299,9 @@ Wdf : `{'KmdfLibraryVersion': '1.15'}`
 
 ##### Service Parameters
   
-ServiceDll : `%Systemroot%\System32\SDRSVC.dll`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -11105,9 +10311,9 @@ ServiceDll : `%Systemroot%\System32\SDRSVC.dll`
 
 ##### Service Parameters
   
-SdCmdFlags : `09 01 0a 01 0d 01 10 01 2a 01 20 01 21 01 26 01 22 01 23 01 24 01 25 01 32 01 39 01`  
-SdAppCmdFlags : `0d 01 12 01 19 01 1a 01 26 01 2b 01 2c 01 2d 01 2e 01 2f 01 30 01 31 01 33 01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -11117,56 +10323,26 @@ SdAppCmdFlags : `0d 01 12 01 19 01 1a 01 26 01 2b 01 2c 01 2d 01 2e 01 2f 01 30 
 
 ##### Service Parameters
   
-ServiceDll : `%windir%\system32\seclogon.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `SvcEntry_Seclogon`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201dd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201cd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201dd
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">SecurityHealthService Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|FailureActions|ImagePath|LaunchProtected|ObjectName|RequiredPrivileges|ServiceSidType|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`RpcSs`|`@%systemroot%\system32\SecurityHealthAgent.dll,-1001`|`@%systemroot%\system32\SecurityHealthAgent.dll,-1002`|`SERVICE_ERROR_NORMAL`|`80 51 01 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 60 ea 00 00 01 00 00 00 60 ea 00 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\system32\SecurityHealthService.exe`|`0x02`|`LocalSystem`|`['SeImpersonatePrivilege', 'SeBackupPrivilege', 'SeRestorePrivilege', 'SeDebugPrivilege', 'SeChangeNotifyPrivilege', 'SeSecurityPrivilege', 'SeAssignPrimaryTokenPrivilege', 'SeTcbPrivilege', 'SeSystemEnvironmentPrivilege', 'SeShutdownPrivilege']`|`SERVICE_SID_TYPE_UNRESTRICTED`|`SERVICE_DEMAND_START`|`SERVICE_WIN32_OWN_PROCESS`|
+|`RpcSs`|`@%systemroot%\system32\SecurityHealthAgent.dll,-1001`|`@%systemroot%\system32\SecurityHealthAgent.dll,-1002`|`SERVICE_ERROR_NORMAL`|`80 51 01 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 60 ea 00 00 01 00 00 00 60 ea 00 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\system32\SecurityHealthService.exe`|`0x02`|`LocalSystem`|`['SeImpersonatePrivilege', 'SeBackupPrivilege', 'SeRestorePrivilege', 'SeDebugPrivilege', 'SeChangeNotifyPrivilege', 'SeSecurityPrivilege', 'SeAssignPrimaryTokenPrivilege', 'SeTcbPrivilege', 'SeSystemEnvironmentPrivilege', 'SeShutdownPrivilege']`|`SERVICE_SID_TYPE_UNRESTRICTED`|`0x03`|`SERVICE_WIN32_OWN_PROCESS`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -11177,78 +10353,15 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\SEMgrSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x04
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x04
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x04
-    SID: S-1-0-11
-  Object ACE:
-    Type:  ACCESS_ALLOWED_CALLBACK_ACE
-    Flags: 0x00
-    Access: 0x30
-    Object Flags: 2561
-    
-  Object ACE:
-    Type:  ACCESS_ALLOWED_CALLBACK_ACE
-    Flags: 0x00
-    Access: 0x30
-    Object Flags: 257
-    
-  Object ACE:
-    Type:  ACCESS_ALLOWED_CALLBACK_ACE
-    Flags: 0x00
-    Access: 0x30
-    Object Flags: 2305
-    
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`44 00 30 00 39 00 42 00 44 00 45 00 42 00 35 00 2d 00 36 00 31 00 37 00 31 00 2d 00 34 00 41 00 33 00 34 00 2d 00 42 00 46 00 45 00 32 00 2d 00 30 00 36 00 46 00 41 00 38 00 32 00 36 00 35 00 32 00 35 00 36 00 38 00 3a 00 46 00 32 00 41 00 44 00 44 00 35 00 36 00 30 00 2d 00 45 00 42 00 38 00 35 00 2d 00 34 00 31 00 37 00 30 00 2d 00 38 00 32 00 41 00 32 00 2d 00 41 00 34 00 38 00 45 00 37 00 38 00 39 00 36 00 39 00 30 00 43 00 44 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`44 00 30 00 39 00 42 00 44 00 45 00 42 00 35 00 2d 00 36 00 31 00 37 00 31 00 2d 00 34 00 41 00 33 00 34 00 2d 00 42 00 46 00 45 00 32 00 2d 00 30 00 36 00 46 00 41 00 38 00 32 00 36 00 35 00 32 00 35 00 36 00 38 00 3a 00 30 00 34 00 35 00 41 00 44 00 34 00 30 00 43 00 2d 00 35 00 39 00 32 00 30 00 2d 00 34 00 37 00 35 00 37 00 2d 00 39 00 30 00 41 00 35 00 2d 00 41 00 45 00 30 00 45 00 37 00 45 00 36 00 46 00 36 00 38 00 33 00 38 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`D09BDEB5-6171-4A34-BFE2-06FA82652568:F2ADD560-EB85-4170-82A2-A48E789690CD`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`D09BDEB5-6171-4A34-BFE2-06FA82652568:045AD40C-5920-4757-90A5-AE0E7E6F6838`|
   
 <br></br>  
 
@@ -11260,96 +10373,21 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\sens.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x1fd
-    SID: S-1-0-32-549
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20084
-    SID: S-1-0-2-1
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Sense Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x0b
-    Access: 0x10000000
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -11357,11 +10395,16 @@ SACL:
 
 
 
+##### Service Parameters
+  
+<br></br>
+
+
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`31d1811f-ac3f-3745-9e0c-7e7b0c2f4b55`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`50 00 72 00 6f 00 74 00 65 00 63 00 74 00 65 00 64 00 50 00 72 00 65 00 66 00 69 00 78 00 5c 00 41 00 64 00 6d 00 69 00 6e 00 69 00 73 00 74 00 72 00 61 00 74 00 6f 00 72 00 73 00 5c 00 53 00 65 00 6e 00 73 00 6f 00 72 00 44 00 61 00 74 00 61 00 53 00 65 00 72 00 76 00 69 00 63 00 65 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`31d1811f-ac3f-3745-9e0c-7e7b0c2f4b55`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`ProtectedPrefix\Administrators\SensorDataService`|
   
 <br></br>  
 
@@ -11374,60 +10417,17 @@ SACL:
 ##### Service Parameters
   
 Sensors : `Sensors`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x114
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x114
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`5f0ffbc2-d2e2-784c-bcd0-352a9582819d`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`44 00 30 00 39 00 42 00 44 00 45 00 42 00 35 00 2d 00 36 00 31 00 37 00 31 00 2d 00 34 00 41 00 33 00 34 00 2d 00 42 00 46 00 45 00 32 00 2d 00 30 00 36 00 46 00 41 00 38 00 32 00 36 00 35 00 32 00 35 00 36 00 38 00 3a 00 38 00 34 00 38 00 39 00 42 00 45 00 31 00 43 00 2d 00 38 00 30 00 41 00 34 00 2d 00 34 00 38 00 42 00 43 00 2d 00 39 00 30 00 31 00 41 00 2d 00 41 00 41 00 39 00 31 00 42 00 44 00 38 00 32 00 37 00 41 00 37 00 43 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`44 00 42 00 32 00 43 00 45 00 36 00 33 00 34 00 2d 00 31 00 39 00 31 00 44 00 2d 00 34 00 32 00 41 00 46 00 2d 00 41 00 32 00 38 00 43 00 2d 00 31 00 36 00 42 00 45 00 39 00 37 00 39 00 32 00 34 00 43 00 41 00 37 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`39 00 37 00 42 00 45 00 39 00 35 00 30 00 37 00 2d 00 31 00 37 00 44 00 41 00 2d 00 34 00 39 00 39 00 39 00 2d 00 38 00 37 00 44 00 37 00 2d 00 36 00 36 00 43 00 30 00 42 00 32 00 44 00 38 00 33 00 43 00 43 00 37 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`5f0ffbc2-d2e2-784c-bcd0-352a9582819d`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`D09BDEB5-6171-4A34-BFE2-06FA82652568:8489BE1C-80A4-48BC-901A-AA91BD827A7C`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`DB2CE634-191D-42AF-A28C-16BE97924CA7`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`97BE9507-17DA-4999-87D7-66C0B2D83CC7`|
   
 <br></br>  
 
@@ -11439,52 +10439,7 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\sensrsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x114
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x114
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
@@ -11502,45 +10457,90 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">SerCx Service </span>
 
+##### Summary
+
 |DependOnService|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`acpiex`|`Serial UART Support Library`|`SERVICE_ERROR_NORMAL`|`system32\drivers\SerCx.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`acpiex`|`Serial UART Support Library`|`SERVICE_ERROR_NORMAL`|`system32\drivers\SerCx.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">SerCx2 Service </span>
 
+##### Summary
+
 |DependOnService|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`acpiex`|`Serial UART Support Library`|`SERVICE_ERROR_NORMAL`|`system32\drivers\SerCx2.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`acpiex`|`Serial UART Support Library`|`SERVICE_ERROR_NORMAL`|`system32\drivers\SerCx2.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Serenum Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\serenum.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`0x05`|`@msports.inf,%Serenum.SVCDESC%;Serenum Filter Driver`|`msports.inf`|
+|`\SystemRoot\System32\drivers\serenum.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`0x05`|`@msports.inf,%Serenum.SVCDESC%;Serenum Filter Driver`|`msports.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Serial Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\serial.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_IGNORE`|`Extended base`|`0x20`|`@msports.inf,%Serial.SVCDESC%;Serial port driver`|`msports.infhiddigi.inf`|
+|`\SystemRoot\System32\drivers\serial.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_IGNORE`|`Extended base`|`0x20`|`@msports.inf,%Serial.SVCDESC%;Serial port driver`|`msports.infhiddigi.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">sermouse Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\sermouse.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Pointer Port`|`0x01`|`@msmouse.inf,%sermouse.SvcDesc%;Serial Mouse Driver`|`msmouse.inf`|
+|`\SystemRoot\System32\drivers\sermouse.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Pointer Port`|`0x01`|`@msmouse.inf,%sermouse.SvcDesc%;Serial Mouse Driver`|`msmouse.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -11551,103 +10551,39 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDLL : `%SystemRoot%\system32\sessenv.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x30
-    SID: S-1-0-80-446051430-1559341753-4161941529-1950928533-810483104
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x30
-    SID: S-1-0-80-4130899010-3337817248-2959896732-3640118089-1866760602
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">sfloppy Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|AutoRun|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\sfloppy.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@flpydisk.inf,%sfloppy_devdesc%;High-Capacity Floppy Disk Drive`|`flpydisk.inf`|`0x00`|
+|`\SystemRoot\System32\drivers\sfloppy.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@flpydisk.inf,%sfloppy_devdesc%;High-Capacity Floppy Disk Drive`|`flpydisk.inf`|`0x00`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">SgrmAgent Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x0b
-    Access: 0x10000000
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -11655,73 +10591,42 @@ SACL:
 
 
 
+##### Service Parameters
+  
+<br></br>
+
+
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`37 00 61 00 32 00 30 00 66 00 63 00 65 00 63 00 2d 00 64 00 65 00 63 00 34 00 2d 00 34 00 63 00 35 00 39 00 2d 00 62 00 65 00 35 00 37 00 2d 00 32 00 31 00 32 00 65 00 38 00 66 00 36 00 35 00 64 00 33 00 64 00 65 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`7a20fcec-dec4-4c59-be57-212e8f65d3de`|
   
 <br></br>  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">SharedAccess Service </span>
+  
+Default Firewall Policy
+##### Summary
 
-|Defaults|Epoch|Epoch2|
-| :---: | :---: | :---: |
-|`Defaults`|`{}`|`{}`|
+|Epoch|Epoch2|
+| :---: | :---: |
+|`{}`|`{}`|
 
 
 
 ##### Service Parameters
   
-FirewallPolicy : `FirewallPolicy`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201bd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-80-3935728946-315639613-922904133-3250794525-491832002
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`45 00 36 00 34 00 42 00 39 00 41 00 45 00 45 00 2d 00 46 00 33 00 37 00 32 00 2d 00 34 00 33 00 31 00 32 00 2d 00 39 00 41 00 31 00 34 00 2d 00 38 00 46 00 31 00 35 00 30 00 32 00 42 00 35 00 43 00 38 00 45 00 33 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`E64B9AEE-F372-4312-9A14-8F1502B5C8E3`|
   
 <br></br>  
 
@@ -11733,47 +10638,9 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\SharedRealitySvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -11783,10 +10650,9 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\shsvcs.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `HardwareDetectionServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -11796,10 +10662,9 @@ ServiceMain : `HardwareDetectionServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\Windows.SharedPC.AccountManager.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -11810,7 +10675,9 @@ ServiceMain : `ServiceMain`
 ##### Service Parameters
   
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -11821,7 +10688,9 @@ PnpInterface : `{'5': 1}`
 ##### Service Parameters
   
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -11834,15 +10703,26 @@ PnpInterface : `{'5': 1}`
 Device : `{'EnableFull64Bit': b'\x00', 'EnableExtSrbs': b'\x00', 'MaxDeviceQueueDepth': 128}`  
 Drive : `{'EnableQueryAccessAlignment': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">smbdirect Service </span>
 
+##### Summary
+
 |ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: |
-|`SERVICE_ERROR_NORMAL`|`Network`|`System32\DRIVERS\smbdirect.sys`|`SERVICE_DEMAND_START`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`SERVICE_ERROR_NORMAL`|`Network`|`System32\DRIVERS\smbdirect.sys`|`0x03`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -11853,56 +10733,15 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-ServiceDll : `%Systemroot%\System32\smphost.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x15
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-32-582
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">SmsRouter Service </span>
+
+##### Summary
 
 |State|
 | :---: |
@@ -11912,51 +10751,15 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\SmsRouterSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20085
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x95
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`41 00 43 00 44 00 37 00 39 00 32 00 45 00 34 00 2d 00 35 00 32 00 33 00 39 00 2d 00 34 00 38 00 42 00 36 00 2d 00 38 00 42 00 41 00 46 00 2d 00 37 00 44 00 30 00 41 00 37 00 39 00 41 00 36 00 34 00 41 00 43 00 30 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`36 00 37 00 37 00 30 00 36 00 31 00 32 00 42 00 2d 00 42 00 32 00 35 00 36 00 2d 00 34 00 42 00 36 00 45 00 2d 00 38 00 39 00 31 00 42 00 2d 00 32 00 46 00 46 00 39 00 39 00 33 00 36 00 37 00 35 00 35 00 41 00 31 00 3a 00 44 00 31 00 38 00 35 00 46 00 31 00 44 00 36 00 2d 00 41 00 34 00 41 00 46 00 2d 00 34 00 34 00 63 00 32 00 2d 00 38 00 46 00 38 00 37 00 2d 00 46 00 36 00 36 00 34 00 42 00 45 00 35 00 33 00 34 00 43 00 37 00 37 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`ACD792E4-5239-48B6-8BAF-7D0A79A64AC0`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`6770612B-B256-4B6E-891B-2FF9936755A1:D185F1D6-A4AF-44c2-8F87-F664BE534C77`|
   
 <br></br>  
 
@@ -11964,106 +10767,127 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">SMSvcHost 4.0.0.0 Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'CategoryOptions': 3, 'Close': 'ClosePerformanceData', 'Collect': 'CollectPerformanceData', 'Counter Names': b'P\x00r\x00o\x00t\x00o\x00c\x00o\x00l\x00 \x00F\x00a\x00i\x00l\x00u\x00r\x00e\x00s\x00 \x00o\x00v\x00e\x00r\x00 \x00n\x00e\x00t\x00.\x00t\x00c\x00p\x00\x00\x00P\x00r\x00o\x00t\x00o\x00c\x00o\x00l\x00 \x00F\x00a\x00i\x00l\x00u\x00r\x00e\x00s\x00 \x00o\x00v\x00e\x00r\x00 \x00n\x00e\x00t\x00.\x00p\x00i\x00p\x00e\x00\x00\x00D\x00i\x00s\x00p\x00a\x00t\x00c\x00h\x00 \x00F\x00a\x00i\x00l\x00u\x00r\x00e\x00s\x00 \x00o\x00v\x00e\x00r\x00 \x00n\x00e\x00t\x00.\x00t\x00c\x00p\x00\x00\x00D\x00i\x00s\x00p\x00a\x00t\x00c\x00h\x00 \x00F\x00a\x00i\x00l\x00u\x00r\x00e\x00s\x00 \x00o\x00v\x00e\x00r\x00 \x00n\x00e\x00t\x00.\x00p\x00i\x00p\x00e\x00\x00\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00 \x00D\x00i\x00s\x00p\x00a\x00t\x00c\x00h\x00e\x00d\x00 \x00o\x00v\x00e\x00r\x00 \x00n\x00e\x00t\x00.\x00t\x00c\x00p\x00\x00\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00 \x00D\x00i\x00s\x00p\x00a\x00t\x00c\x00h\x00e\x00d\x00 \x00o\x00v\x00e\x00r\x00 \x00n\x00e\x00t\x00.\x00p\x00i\x00p\x00e\x00\x00\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00 \x00A\x00c\x00c\x00e\x00p\x00t\x00e\x00d\x00 \x00o\x00v\x00e\x00r\x00 \x00n\x00e\x00t\x00.\x00t\x00c\x00p\x00\x00\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00 \x00A\x00c\x00c\x00e\x00p\x00t\x00e\x00d\x00 \x00o\x00v\x00e\x00r\x00 \x00n\x00e\x00t\x00.\x00p\x00i\x00p\x00e\x00\x00\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s\x00 \x00A\x00c\x00t\x00i\x00v\x00e\x00 \x00f\x00o\x00r\x00 \x00n\x00e\x00t\x00.\x00t\x00c\x00p\x00\x00\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s\x00 \x00A\x00c\x00t\x00i\x00v\x00e\x00 \x00f\x00o\x00r\x00 \x00n\x00e\x00t\x00.\x00p\x00i\x00p\x00e\x00\x00\x00U\x00r\x00i\x00s\x00 \x00R\x00e\x00g\x00i\x00s\x00t\x00e\x00r\x00e\x00d\x00 \x00f\x00o\x00r\x00 \x00n\x00e\x00t\x00.\x00t\x00c\x00p\x00\x00\x00U\x00r\x00i\x00s\x00 \x00R\x00e\x00g\x00i\x00s\x00t\x00e\x00r\x00e\x00d\x00 \x00f\x00o\x00r\x00 \x00n\x00e\x00t\x00.\x00p\x00i\x00p\x00e\x00\x00\x00U\x00r\x00i\x00s\x00 \x00U\x00n\x00r\x00e\x00g\x00i\x00s\x00t\x00e\x00r\x00e\x00d\x00 \x00f\x00o\x00r\x00 \x00n\x00e\x00t\x00.\x00t\x00c\x00p\x00\x00\x00U\x00r\x00i\x00s\x00 \x00U\x00n\x00r\x00e\x00g\x00i\x00s\x00t\x00e\x00r\x00e\x00d\x00 \x00f\x00o\x00r\x00 \x00n\x00e\x00t\x00.\x00p\x00i\x00p\x00e\x00\x00\x00\x00\x00', 'Counter Types': b'6\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x00\x00\x00', 'IsMultiInstance': 0, 'Library': '%systemroot%\\system32\\NETFXPerf.dll', 'Open': 'OpenPerformanceData', 'InstallType': 1, 'PerfIniFile': '_SMSvcHostPerfCounters_d.ini', 'First Counter': 8710, 'Last Counter': 8738, 'First Help': 8711, 'Last Help': 8739, 'Object List': '8710'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">SNMPTRAP Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|FailureActions|ImagePath|ObjectName|RequiredPrivileges|ServiceSidType|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@firewallapi.dll,-50324`|`@firewallapi.dll,-50323`|`SERVICE_ERROR_NORMAL`|`ff ff ff ff 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 60 ea 00 00 01 00 00 00 60 ea 00 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\System32\snmptrap.exe`|`NT AUTHORITY\LocalService`|`['SeChangeNotifyPrivilege']`|`SERVICE_SID_TYPE_UNRESTRICTED`|`SERVICE_DEMAND_START`|`SERVICE_WIN32_OWN_PROCESS`|
+|`@firewallapi.dll,-50324`|`@firewallapi.dll,-50323`|`SERVICE_ERROR_NORMAL`|`ff ff ff ff 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 60 ea 00 00 01 00 00 00 60 ea 00 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\System32\snmptrap.exe`|`NT AUTHORITY\LocalService`|`['SeChangeNotifyPrivilege']`|`SERVICE_SID_TYPE_UNRESTRICTED`|`0x03`|`SERVICE_WIN32_OWN_PROCESS`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">spaceparser Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%systemroot%\system32\drivers\spaceparser.sys,-1000`|`@%systemroot%\system32\drivers\spaceparser.sys,-1001`|`SERVICE_ERROR_NORMAL`|`Hyper-V Parsers`|`system32\drivers\spaceparser.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%systemroot%\system32\drivers\spaceparser.sys,-1000`|`@%systemroot%\system32\drivers\spaceparser.sys,-1001`|`SERVICE_ERROR_NORMAL`|`Hyper-V Parsers`|`system32\drivers\spaceparser.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">spaceport Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\spaceport.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`0x08`|`@spaceport.inf,%Spaceport_ServiceDesc%;Storage Spaces Driver`|`spaceport.inf`|
+|`System32\drivers\spaceport.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`0x08`|`@spaceport.inf,%Spaceport_ServiceDesc%;Storage Spaces Driver`|`spaceport.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">SpatialGraphFilter Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Holographic Spatial Graph Filter`|`SERVICE_ERROR_NORMAL`|`PnP Filter`|`System32\drivers\SpatialGraphFilter.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`Holographic Spatial Graph Filter`|`SERVICE_ERROR_NORMAL`|`PnP Filter`|`System32\drivers\SpatialGraphFilter.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">SpbCx Service </span>
 
+##### Summary
+
 |DependOnService|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`acpiex`|`Simple Peripheral Bus Support Library`|`SERVICE_ERROR_NORMAL`|`system32\drivers\SpbCx.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`acpiex`|`Simple Peripheral Bus Support Library`|`SERVICE_ERROR_NORMAL`|`system32\drivers\SpbCx.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">spectrum Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-19
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```
+
+
+##### Service Parameters
+  
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`44 00 33 00 43 00 31 00 42 00 36 00 34 00 42 00 2d 00 43 00 44 00 30 00 35 00 2d 00 34 00 46 00 42 00 32 00 2d 00 42 00 42 00 32 00 43 00 2d 00 42 00 42 00 36 00 31 00 44 00 38 00 30 00 43 00 31 00 32 00 33 00 45 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`45 00 35 00 42 00 39 00 32 00 33 00 37 00 38 00 2d 00 30 00 43 00 36 00 35 00 2d 00 34 00 34 00 32 00 43 00 2d 00 41 00 36 00 36 00 42 00 2d 00 46 00 39 00 37 00 31 00 34 00 44 00 32 00 44 00 37 00 42 00 30 00 30 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`D3C1B64B-CD05-4FB2-BB2C-BB61D80C123E`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`E5B92378-0C65-442C-A66B-F9714D2D7B00`|
   
 <br></br>  
 
@@ -12071,94 +10895,37 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Spooler Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'PerfClose', 'Collect': 'PerfCollect', 'Collect Timeout': 2000, 'Library': 'X:\\Windows\\System32\\winspool.drv', 'Object List': '1450', 'Open': 'PerfOpen', 'Open Timeout': 4000}`|
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">sppsvc Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x94
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```
+
+
+##### Service Parameters
+  
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`39 00 34 00 33 00 35 00 63 00 63 00 35 00 36 00 2d 00 31 00 64 00 39 00 63 00 2d 00 34 00 39 00 32 00 34 00 2d 00 61 00 63 00 37 00 64 00 2d 00 62 00 36 00 30 00 61 00 32 00 63 00 33 00 35 00 32 00 30 00 65 00 31 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`da8a52f5-5fbe-144f-8aef-a95de7281161`|`SERVICE_TRIGGER_TYPE_CUSTOM`|||
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`9435cc56-1d9c-4924-ac7d-b60a2c3520e1`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`da8a52f5-5fbe-144f-8aef-a95de7281161`|`SERVICE_TRIGGER_TYPE_CUSTOM`||
   
 <br></br>  
 
@@ -12166,18 +10933,36 @@ SACL:
 <br></br>
 #### <span style="text-align: center; font-size:2em;">srv2 Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`srvnet`|`@%systemroot%\system32\srvsvc.dll,-105`|`@%systemroot%\system32\srvsvc.dll,-104`|`SERVICE_ERROR_NORMAL`|`Network`|`System32\DRIVERS\srv2.sys`|`SERVICE_DEMAND_START`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`srvnet`|`@%systemroot%\system32\srvsvc.dll,-105`|`@%systemroot%\system32\srvsvc.dll,-104`|`SERVICE_ERROR_NORMAL`|`Network`|`System32\DRIVERS\srv2.sys`|`0x03`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">srvnet Service </span>
 
+##### Summary
+
 |DependOnService|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`msquic`|`SERVICE_ERROR_NORMAL`|`Network`|`System32\DRIVERS\srvnet.sys`|`SERVICE_DEMAND_START`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`msquic`|`SERVICE_ERROR_NORMAL`|`Network`|`System32\DRIVERS\srvnet.sys`|`0x03`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -12188,83 +10973,21 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\ssdpsrv.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x200bd
-    SID: S-1-0-32-549
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-20
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ssh-agent Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x10
-    SID: S-1-0-11
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -12275,100 +10998,27 @@ DACL:
 ##### Service Parameters
   
 ConfigStore : `{'ListenerPort': 0, 'UseHttps': 1, 'V4CertPlumbedBySstp': 0, 'V6CertPlumbedBySstp': 0}`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-556
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-3-1024-1068037383-729401668-2768096886-125909118-1680096985-174794564-3112554050-3241210738
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">StateRepository Service </span>
 
+##### Summary
+
+|parameters|
+| :---: |
+|`{'ServiceDll': '%SystemRoot%\\system32\\windows.staterepository.dll', 'ServiceDllUnloadOnStop': 0}`|
+
 
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\windows.staterepository.dll`  
-ServiceDllUnloadOnStop : `0x00`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-Group: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-2-1
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -12380,7 +11030,9 @@ SACL:
   
 Device : `{'RESET': 1, 'NumberOfRequests': 1024}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -12390,46 +11042,9 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\wiaservc.dll`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -12441,15 +11056,26 @@ SACL:
   
 Device : `{'ResetInInit': b'V\x00E\x00N\x00_\x001\x001\x000\x006\x00&\x00D\x00E\x00V\x00_\x006\x002\x008\x007\x00&\x00R\x00E\x00V\x00_\x00*\x00\x00\x00\x00\x00', 'SingleIO': b'V\x00E\x00N\x00_\x001\x001\x000\x006\x00&\x00D\x00E\x00V\x00_\x006\x002\x008\x007\x00&\x00R\x00E\x00V\x00_\x000\x000\x00\x00\x00V\x00E\x00N\x00_\x001\x001\x000\x006\x00&\x00D\x00E\x00V\x00_\x006\x002\x008\x007\x00&\x00R\x00E\x00V\x00_\x001\x000\x00\x00\x00V\x00E\x00N\x00_\x001\x001\x000\x006\x00&\x00D\x00E\x00V\x00_\x006\x002\x008\x007\x00&\x00R\x00E\x00V\x00_\x002\x000\x00\x00\x00\x00\x00', 'IgnoreHotPlug': b'V\x00E\x00N\x00_\x001\x000\x000\x002\x00&\x00D\x00E\x00V\x00_\x004\x003\x008\x000\x00&\x00R\x00E\x00V\x00_\x00*\x00\x00\x00\x00\x00', 'NeverNonQueuedErrorRecovery': b'V\x00E\x00N\x00_\x001\x000\x000\x002\x00&\x00D\x00E\x00V\x00_\x004\x003\x008\x000\x00&\x00R\x00E\x00V\x00_\x00*\x00\x00\x00\x00\x00', 'EnableCLOReset': b'V\x00E\x00N\x00_\x001\x000\x000\x002\x00&\x00D\x00E\x00V\x00_\x004\x003\x009\x001\x00&\x00R\x00E\x00V\x00_\x00*\x00\x00\x00\x00\x00', 'ExpectedMsiMessageCount': b'V\x00E\x00N\x00_\x001\x000\x002\x002\x00&\x00D\x00E\x00V\x00_\x007\x008\x000\x001\x00&\x00R\x00E\x00V\x00_\x000\x000\x00 \x008\x00\x00\x00\x00\x00', 'NoFUACommand': b'H\x00T\x00E\x00*\x00\x00\x00H\x00i\x00t\x00a\x00c\x00h\x00i\x00*\x00\x00\x00H\x00T\x00S\x00*\x00\x00\x00H\x00D\x00S\x00*\x00\x00\x00H\x00D\x00T\x00*\x00\x00\x00\x00\x00', 'NeedSetTransferModeCommand': b'M\x00C\x00B\x00Q\x00E\x006\x004\x00G\x00B\x00M\x00P\x00P\x00*\x00\x00\x00\x00\x00', 'NoLPM': b'W\x00D\x007\x004\x000\x00A\x00D\x00F\x00D\x00?\x000\x000\x00N\x00L\x00R\x001\x00*\x00\x00\x00W\x00D\x00C\x00 \x00W\x00D\x007\x004\x000\x00A\x00D\x00F\x00D\x00?\x000\x000\x00N\x00L\x00R\x001\x00*\x00\x00\x00M\x00a\x00x\x00t\x00o\x00r\x00 \x006\x00V\x00?\x00?\x00?\x00E\x000\x00*\x00\x00\x00M\x00a\x00x\x00t\x00o\x00r\x00 \x006\x00V\x00?\x00?\x00?\x00F\x000\x00*\x00\x00\x00M\x00a\x00x\x00t\x00o\x00r\x00 \x007\x00V\x00?\x00?\x00?\x00E\x000\x00*\x00\x00\x00M\x00a\x00x\x00t\x00o\x00r\x00 \x007\x00V\x00?\x00?\x00?\x00F\x000\x00*\x00\x00\x00S\x00a\x00n\x00D\x00i\x00s\x00k\x00 \x00S\x00S\x00D\x00 \x00P\x004\x00*\x00\x00\x00\x00\x00', 'NoIdleD3': b'I\x00N\x00T\x00E\x00L\x00 \x00S\x00S\x00D\x00?\x00C\x00?\x00?\x00?\x00?\x00?\x00?\x00A\x004\x00\x00\x00I\x00N\x00T\x00E\x00L\x00 \x00S\x00S\x00D\x00?\x00C\x00?\x00?\x00?\x00?\x00?\x00?\x00A\x004\x00?\x00\x00\x00I\x00N\x00T\x00E\x00L\x00 \x00S\x00S\x00D\x00?\x00C\x00?\x00?\x00?\x00?\x00?\x00?\x00A\x004\x00?\x00?\x00\x00\x00I\x00N\x00T\x00E\x00L\x00 \x00S\x00S\x00D\x00?\x00C\x00?\x00?\x00?\x00?\x00?\x00?\x00A\x005\x00\x00\x00I\x00N\x00T\x00E\x00L\x00 \x00S\x00S\x00D\x00?\x00C\x00?\x00?\x00?\x00?\x00?\x00?\x00A\x005\x00?\x00\x00\x00I\x00N\x00T\x00E\x00L\x00 \x00S\x00S\x00D\x00?\x00C\x00?\x00?\x00?\x00?\x00?\x00?\x00A\x005\x00?\x00?\x00\x00\x00\x00\x00', 'PRDTSplit': b'V\x00E\x00N\x00_\x001\x000\x002\x002\x00&\x00D\x00E\x00V\x00_\x004\x003\x00B\x005\x00&\x00R\x00E\x00V\x00_\x00*\x00\x00\x00V\x00E\x00N\x00_\x001\x000\x002\x002\x00&\x00D\x00E\x00V\x00_\x004\x003\x00B\x006\x00&\x00R\x00E\x00V\x00_\x00*\x00\x00\x00V\x00E\x00N\x00_\x001\x000\x002\x002\x00&\x00D\x00E\x00V\x00_\x004\x003\x00B\x007\x00&\x00R\x00E\x00V\x00_\x00*\x00\x00\x00V\x00E\x00N\x00_\x001\x000\x002\x002\x00&\x00D\x00E\x00V\x00_\x004\x003\x00B\x008\x00&\x00R\x00E\x00V\x00_\x00*\x00\x00\x00V\x00E\x00N\x00_\x001\x000\x002\x002\x00&\x00D\x00E\x00V\x00_\x004\x003\x00C\x008\x00&\x00R\x00E\x00V\x00_\x00*\x00\x00\x00\x00\x00'}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">storflt Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|Enabled|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\vmstorfl.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x2e`|`@wstorflt.inf,%service_desc%;Microsoft Hyper-V Storage Accelerator`|`wstorflt.inf`|`0x01`|
+|`System32\drivers\vmstorfl.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x2e`|`@wstorflt.inf,%service_desc%;Microsoft Hyper-V Storage Accelerator`|`wstorflt.inf`|`0x01`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -12462,15 +11088,26 @@ PnpInterface : `{'5': 1}`
   
 Device : `{'IoStripeAlignment': b'V\x00E\x00N\x00_\x008\x000\x008\x006\x00&\x00D\x00E\x00V\x00_\x000\x009\x005\x003\x00&\x00R\x00E\x00V\x00_\x00?\x00?\x00 \x001\x002\x008\x00\x00\x00V\x00E\x00N\x00_\x008\x000\x008\x006\x00&\x00D\x00E\x00V\x00_\x000\x009\x008\x004\x00&\x00R\x00E\x00V\x00_\x00?\x00?\x00 \x001\x002\x008\x00\x00\x00V\x00E\x00N\x00_\x008\x000\x008\x006\x00&\x00D\x00E\x00V\x00_\x000\x00A\x005\x003\x00&\x00R\x00E\x00V\x00_\x00?\x00?\x00 \x001\x002\x008\x00\x00\x00V\x00E\x00N\x00_\x008\x000\x008\x006\x00&\x00D\x00E\x00V\x00_\x000\x00A\x005\x004\x00&\x00R\x00E\x00V\x00_\x00?\x00?\x00 \x001\x002\x008\x00\x00\x00V\x00E\x00N\x00_\x008\x000\x008\x006\x00&\x00D\x00E\x00V\x00_\x000\x00A\x005\x005\x00&\x00R\x00E\x00V\x00_\x00?\x00?\x00 \x001\x002\x008\x00\x00\x00\x00\x00'}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">storqosflt Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -12481,18 +11118,16 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\storsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`6f00404f-33b9-5045-b532-2b58cee614d3`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`35 00 34 00 42 00 34 00 43 00 36 00 38 00 39 00 2d 00 39 00 36 00 39 00 41 00 2d 00 34 00 37 00 36 00 66 00 2d 00 38 00 44 00 43 00 32 00 2d 00 39 00 39 00 30 00 38 00 38 00 35 00 45 00 39 00 46 00 35 00 36 00 32 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`42 00 45 00 36 00 32 00 39 00 33 00 44 00 33 00 2d 00 32 00 38 00 32 00 37 00 2d 00 34 00 44 00 44 00 41 00 2d 00 38 00 30 00 35 00 37 00 2d 00 38 00 35 00 38 00 38 00 32 00 34 00 30 00 31 00 32 00 34 00 43 00 39 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`6f00404f-33b9-5045-b532-2b58cee614d3`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`54B4C689-969A-476f-8DC2-990885E9F562`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`BE6293D3-2827-4DDA-8057-8588240124C9`|
   
 <br></br>  
 
@@ -12504,9 +11139,9 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-BusType : `0x13`  
-IoTimeoutValue : `0x1e`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -12517,7 +11152,9 @@ IoTimeoutValue : `0x1e`
 ##### Service Parameters
   
 Device : `{'EnableQueryAccessAlignment': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -12527,16 +11164,14 @@ Device : `{'EnableQueryAccessAlignment': 1}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\svsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`03536a8e-cea4-8f49-afdb-e03a8a82b077`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`53 00 76 00 53 00 76 00 63 00 20 00 53 00 74 00 61 00 72 00 74 00`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`03536a8e-cea4-8f49-afdb-e03a8a82b077`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`53 00 76 00 53 00 76 00 63 00 20 00 53 00 74 00 61 00 72 00 74 00`|
   
 <br></br>  
 
@@ -12544,9 +11179,18 @@ ServiceDllUnloadOnStop : `0x01`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">swenum Service </span>
 
+##### Summary
+
 |Devices|
 | :---: |
 |`Devices`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -12557,17 +11201,26 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%Systemroot%\System32\swprv.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Synth3dVsc Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\Synth3dVsc.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Video Init`|`0x01`|`wsynth3dvsc.inf`|
+|`\SystemRoot\System32\drivers\Synth3dVsc.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Video Init`|`0x01`|`wsynth3dvsc.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -12578,10 +11231,9 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\sysmain.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `SysMtServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -12592,48 +11244,15 @@ ServiceMain : `SysMtServiceMain`
 ##### Service Parameters
   
 EventPolicyTable : `EventPolicyTable`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20085
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x95
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`39 00 42 00 30 00 30 00 38 00 39 00 35 00 33 00 2d 00 46 00 31 00 39 00 35 00 2d 00 34 00 42 00 46 00 39 00 2d 00 42 00 44 00 45 00 30 00 2d 00 34 00 34 00 37 00 31 00 39 00 37 00 31 00 45 00 35 00 38 00 45 00 44 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 3e 06 83 0d`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`9B008953-F195-4BF9-BDE0-4471971E58ED`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 3e 06 83 0d`|
   
 <br></br>  
 
@@ -12645,54 +11264,22 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\TabSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x10
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|Data1|Data2|Data3|DataType0|DataType1|DataType2|DataType3|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`b2551e4d-6ff1-cf11-88cb-001111000030`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|`48 00 49 00 44 00 5f 00 44 00 45 00 56 00 49 00 43 00 45 00 5f 00 55 00 50 00 3a 00 30 00 30 00 30 00 44 00 5f 00 55 00 3a 00 30 00 30 00 30 00 31 00 00 00`|`48 00 49 00 44 00 5f 00 44 00 45 00 56 00 49 00 43 00 45 00 5f 00 55 00 50 00 3a 00 30 00 30 00 30 00 44 00 5f 00 55 00 3a 00 30 00 30 00 30 00 32 00 00 00`|`48 00 49 00 44 00 5f 00 44 00 45 00 56 00 49 00 43 00 45 00 5f 00 55 00 50 00 3a 00 30 00 30 00 30 00 44 00 5f 00 55 00 3a 00 30 00 30 00 30 00 33 00 00 00`|`48 00 49 00 44 00 5f 00 44 00 45 00 56 00 49 00 43 00 45 00 5f 00 55 00 50 00 3a 00 30 00 30 00 30 00 44 00 5f 00 55 00 3a 00 30 00 30 00 30 00 34 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|Parameter 1|Parameter 2|Parameter 3|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`b2551e4d-6ff1-cf11-88cb-001111000030`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|`HID_DEVICE_UP:000D_U:0001`|`HID_DEVICE_UP:000D_U:0002`|`HID_DEVICE_UP:000D_U:0003`|`HID_DEVICE_UP:000D_U:0004`|
   
 <br></br>  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">TapiSrv Service </span>
+
+##### Summary
 
 |Performance|
 | :---: |
@@ -12702,46 +11289,15 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\tapisrv.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Tcpip Service </span>
+
+##### Summary
 
 |Linkage|Performance|ServiceProvider|
 | :---: | :---: | :---: |
@@ -12756,11 +11312,15 @@ Interfaces : `{}`
 NsiObjectSecurity : `{}`  
 PersistentRoutes : `{}`  
 Winsock : `Winsock`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Tcpip6 Service </span>
+
+##### Summary
 
 |Linkage|
 | :---: |
@@ -12772,65 +11332,123 @@ Winsock : `Winsock`
   
 Interfaces : `Interfaces`  
 Winsock : `Winsock`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">TCPIP6TUNNEL Service </span>
 
+##### Summary
+
 |Linkage|
 | :---: |
 |`{'Export': b'\\\x00D\x00e\x00v\x00i\x00c\x00e\x00\\\x00T\x00C\x00P\x00I\x00P\x006\x00T\x00U\x00N\x00N\x00E\x00L\x00_\x00{\x000\x007\x003\x007\x004\x007\x005\x000\x00-\x00E\x006\x008\x00B\x00-\x004\x009\x000\x00E\x00-\x009\x003\x003\x000\x00-\x009\x00F\x00D\x007\x008\x005\x00C\x00D\x007\x001\x00B\x006\x00}\x00\x00\x00\\\x00D\x00e\x00v\x00i\x00c\x00e\x00\\\x00T\x00C\x00P\x00I\x00P\x006\x00T\x00U\x00N\x00N\x00E\x00L\x00_\x00{\x002\x00E\x00E\x002\x00C\x007\x000\x00C\x00-\x00A\x000\x009\x002\x00-\x004\x00D\x008\x008\x00-\x00A\x006\x005\x004\x00-\x009\x008\x00C\x008\x00D\x007\x006\x004\x005\x00C\x00D\x005\x00}\x00\x00\x00\\\x00D\x00e\x00v\x00i\x00c\x00e\x00\\\x00T\x00C\x00P\x00I\x00P\x006\x00T\x00U\x00N\x00N\x00E\x00L\x00_\x00{\x009\x003\x001\x002\x003\x002\x001\x001\x00-\x009\x006\x002\x009\x00-\x004\x00E\x000\x004\x00-\x008\x002\x00F\x000\x00-\x00E\x00A\x002\x00E\x004\x00F\x002\x002\x001\x004\x006\x008\x00}\x00\x00\x00\x00\x00', 'Bind': b'\\\x00D\x00e\x00v\x00i\x00c\x00e\x00\\\x00{\x000\x007\x003\x007\x004\x007\x005\x000\x00-\x00E\x006\x008\x00B\x00-\x004\x009\x000\x00E\x00-\x009\x003\x003\x000\x00-\x009\x00F\x00D\x007\x008\x005\x00C\x00D\x007\x001\x00B\x006\x00}\x00\x00\x00\\\x00D\x00e\x00v\x00i\x00c\x00e\x00\\\x00{\x002\x00E\x00E\x002\x00C\x007\x000\x00C\x00-\x00A\x000\x009\x002\x00-\x004\x00D\x008\x008\x00-\x00A\x006\x005\x004\x00-\x009\x008\x00C\x008\x00D\x007\x006\x004\x005\x00C\x00D\x005\x00}\x00\x00\x00\\\x00D\x00e\x00v\x00i\x00c\x00e\x00\\\x00{\x009\x003\x001\x002\x003\x002\x001\x001\x00-\x009\x006\x002\x009\x00-\x004\x00E\x000\x004\x00-\x008\x002\x00F\x000\x00-\x00E\x00A\x002\x00E\x004\x00F\x002\x002\x001\x004\x006\x008\x00}\x00\x00\x00\x00\x00', 'Route': b'"\x00{\x000\x007\x003\x007\x004\x007\x005\x000\x00-\x00E\x006\x008\x00B\x00-\x004\x009\x000\x00E\x00-\x009\x003\x003\x000\x00-\x009\x00F\x00D\x007\x008\x005\x00C\x00D\x007\x001\x00B\x006\x00}\x00"\x00\x00\x00"\x00{\x002\x00E\x00E\x002\x00C\x007\x000\x00C\x00-\x00A\x000\x009\x002\x00-\x004\x00D\x008\x008\x00-\x00A\x006\x005\x004\x00-\x009\x008\x00C\x008\x00D\x007\x006\x004\x005\x00C\x00D\x005\x00}\x00"\x00\x00\x00"\x00{\x009\x003\x001\x002\x003\x002\x001\x001\x00-\x009\x006\x002\x009\x00-\x004\x00E\x000\x004\x00-\x008\x002\x00F\x000\x00-\x00E\x00A\x002\x00E\x004\x00F\x002\x002\x001\x004\x006\x008\x00}\x00"\x00\x00\x00\x00\x00'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">tcpipreg Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`tcpip`|`Provides compatibility for legacy applications which interact with TCP/IP through the registry. If this service is stopped, certain applications may have impaired functionality.`|`TCP/IP Registry Compatibility`|`SERVICE_ERROR_NORMAL`|`System32\drivers\tcpipreg.sys`|`SERVICE_AUTO_START`|`SERVICE_KERNEL_DRIVER`|
+|`tcpip`|`Provides compatibility for legacy applications which interact with TCP/IP through the registry. If this service is stopped, certain applications may have impaired functionality.`|`TCP/IP Registry Compatibility`|`SERVICE_ERROR_NORMAL`|`System32\drivers\tcpipreg.sys`|`0x02`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">TCPIPTUNNEL Service </span>
 
+##### Summary
+
 |Linkage|
 | :---: |
 |`{'Export': b'\\\x00D\x00e\x00v\x00i\x00c\x00e\x00\\\x00T\x00C\x00P\x00I\x00P\x00T\x00U\x00N\x00N\x00E\x00L\x00\x00\x00\x00\x00', 'Bind': b'\x00\x00', 'Route': b'\x00\x00'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">tdx Service </span>
 
+##### Summary
+
 |DependOnService|Description|DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`tcpip`|`@%SystemRoot%\system32\tcpipcfg.dll,-50004`|`@%SystemRoot%\system32\tcpipcfg.dll,-50004`|`SERVICE_ERROR_NORMAL`|`PNP_TDI`|`\SystemRoot\system32\DRIVERS\tdx.sys`|`SERVICE_SYSTEM_START`|`0x04`|`SERVICE_KERNEL_DRIVER`|
+|`tcpip`|`@%SystemRoot%\system32\tcpipcfg.dll,-50004`|`@%SystemRoot%\system32\tcpipcfg.dll,-50004`|`SERVICE_ERROR_NORMAL`|`PNP_TDI`|`\SystemRoot\system32\DRIVERS\tdx.sys`|`0x01`|`0x04`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Telemetry Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\IntelTA.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`Core Security Extensions`|`0x02`|`@intelta.inf,%Telemetry.SVCDESC%;Intel(R) Telemetry Service`|`intelta.inf`|
+|`System32\drivers\IntelTA.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`Core Security Extensions`|`0x02`|`@intelta.inf,%Telemetry.SVCDESC%;Intel(R) Telemetry Service`|`intelta.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">terminpt Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\terminpt.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x2b`|`@termmou.inf,%TermInpt.SVCDESC%;Microsoft Remote Desktop Input Driver`|`termmou.inftermkbd.inf`|
+|`\SystemRoot\System32\drivers\terminpt.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x2b`|`@termmou.inf,%TermInpt.SVCDESC%;Microsoft Remote Desktop Input Driver`|`termmou.inftermkbd.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">TermService Service </span>
+
+##### Summary
 
 |Performance|
 | :---: |
@@ -12840,9 +11458,9 @@ Winsock : `Winsock`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\termsrv.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -12852,18 +11470,26 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\themeservice.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ThemeServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">TieringEngineService Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|FailureActions|ImagePath|ObjectName|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\TieringEngineService.exe,-701`|`@%SystemRoot%\system32\TieringEngineService.exe,-702`|`SERVICE_ERROR_NORMAL`|`68 5b 00 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 c0 d4 01 00 01 00 00 00 e0 93 04 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\system32\TieringEngineService.exe`|`localSystem`|`SERVICE_DEMAND_START`|`SERVICE_WIN32_OWN_PROCESS`|
+|`@%SystemRoot%\system32\TieringEngineService.exe,-701`|`@%SystemRoot%\system32\TieringEngineService.exe,-702`|`SERVICE_ERROR_NORMAL`|`68 5b 00 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 c0 d4 01 00 01 00 00 00 e0 93 04 00 00 00 00 00 00 00 00 00`|`%SystemRoot%\system32\TieringEngineService.exe`|`localSystem`|`0x03`|`SERVICE_WIN32_OWN_PROCESS`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -12874,52 +11500,16 @@ ServiceMain : `ThemeServiceMain`
 
 ##### Service Parameters
   
-MinKeepAliveTolerance : `0x12c`  
-ServiceDll : `%SystemRoot%\System32\TimeBrokerServer.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x20085
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe00fd
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x95
-    SID: S-1-0-32-545
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`61 00 35 00 30 00 30 00 64 00 34 00 63 00 36 00 2d 00 30 00 64 00 64 00 31 00 2d 00 34 00 35 00 34 00 33 00 2d 00 62 00 63 00 30 00 63 00 2d 00 64 00 35 00 66 00 39 00 33 00 34 00 38 00 36 00 65 00 61 00 66 00 38 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`64 00 30 00 39 00 62 00 64 00 65 00 62 00 35 00 2d 00 36 00 31 00 37 00 31 00 2d 00 34 00 61 00 33 00 34 00 2d 00 62 00 66 00 65 00 32 00 2d 00 30 00 36 00 66 00 61 00 38 00 32 00 36 00 35 00 32 00 35 00 36 00 38 00 3a 00 62 00 35 00 63 00 63 00 64 00 35 00 65 00 66 00 2d 00 34 00 32 00 33 00 38 00 2d 00 34 00 34 00 30 00 62 00 2d 00 62 00 62 00 61 00 30 00 2d 00 39 00 39 00 39 00 66 00 38 00 32 00 38 00 66 00 31 00 63 00 66 00 65 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 3e 06 83 0d`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`a500d4c6-0dd1-4543-bc0c-d5f93486eaf8`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`d09bdeb5-6171-4a34-bfe2-06fa82652568:b5ccd5ef-4238-440b-bba0-999f828f1cfe`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 3e 06 83 0d`|
   
 <br></br>  
 
@@ -12931,18 +11521,26 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\TokenBroker.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">TPM Service </span>
 
+##### Summary
+
 |KeyAttestationKeys|PlatformQuoteKeys|WMI|
 | :---: | :---: | :---: |
 |`{}`|`{}`|`WMI`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -12953,9 +11551,9 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\trkwks.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -12965,65 +11563,56 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\MitigationClient.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">TrustedInstaller Service </span>
-  
-Security : 
-```
-Owner: S-1-0-32-544
-Group: S-1-0-32-544
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x02
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0xc0
-    Access: 0xc0000
-    SID: S-1-0-32-544
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">TSDDD Service </span>
 
+##### Summary
+
 |Device0|
 | :---: |
 |`{'InstalledDisplayDrivers': b'T\x00S\x00D\x00D\x00D\x00\x00\x00\x00\x00', 'VgaCompatible': 0}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">TsUsbFlt Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\tsusbflt.sys,-1000`|`@%SystemRoot%\system32\drivers\tsusbflt.sys,-1000`|`SERVICE_ERROR_NORMAL`|`system32\drivers\tsusbflt.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\tsusbflt.sys,-1000`|`@%SystemRoot%\system32\drivers\tsusbflt.sys,-1000`|`SERVICE_ERROR_NORMAL`|`system32\drivers\tsusbflt.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -13035,7 +11624,9 @@ SACL:
 ##### Service Parameters
   
 Wdf : `{'KmdfLibraryVersion': '1.11'}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -13046,20 +11637,33 @@ Wdf : `{'KmdfLibraryVersion': '1.11'}`
 ##### Service Parameters
   
 Wdf : `{'KmdfLibraryVersion': '1.11'}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">tunnel Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\System32\drivers\tunnel.sys,-500`|`SERVICE_ERROR_NORMAL`|`NDIS`|`System32\drivers\tunnel.sys`|`SERVICE_DEMAND_START`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\System32\drivers\tunnel.sys,-500`|`SERVICE_ERROR_NORMAL`|`NDIS`|`System32\drivers\tunnel.sys`|`0x03`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">tzautoupdate Service </span>
+
+##### Summary
 
 |Config|
 | :---: |
@@ -13069,20 +11673,17 @@ Wdf : `{'KmdfLibraryVersion': '1.11'}`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\tzautoupdate.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 3e 0b 84 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 50 bc a3 21 08 95 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 30 bc a3 2e 0b 8a 0d`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 d0 be a3 2e 0b 8a 0d`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 3e 0b 84 41`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 50 bc a3 21 08 95 41`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 30 bc a3 2e 0b 8a 0d`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 d0 be a3 2e 0b 8a 0d`|
   
 <br></br>  
 
@@ -13094,71 +11695,134 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-BusType : `0x07`  
-IoTimeoutValue : `0x0f`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UcmCx0101 Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`USB Connector Manager KMDF Class Extension`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`System32\Drivers\UcmCx.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`USB Connector Manager KMDF Class Extension`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`System32\Drivers\UcmCx.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UcmTcpciCx0101 Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`UCM-TCPCI KMDF Class Extension`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`System32\Drivers\UcmTcpciCx.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`UCM-TCPCI KMDF Class Extension`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`System32\Drivers\UcmTcpciCx.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UcmUcsiAcpiClient Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DependOnService|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\UcmUcsiAcpiClient.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`UcmUcsiCx`|`@UcmUcsiAcpiClient.inf,%UcmUcsiAcpiClient.ServiceName%;UCM-UCSI ACPI Client`|`UcmUcsiAcpiClient.inf`|
+|`\SystemRoot\System32\drivers\UcmUcsiAcpiClient.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`UcmUcsiCx`|`@UcmUcsiAcpiClient.inf,%UcmUcsiAcpiClient.ServiceName%;UCM-UCSI ACPI Client`|`UcmUcsiAcpiClient.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UcmUcsiCx0101 Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`UCM-UCSI KMDF Class Extension`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`System32\Drivers\UcmUcsiCx.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`UCM-UCSI KMDF Class Extension`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`System32\Drivers\UcmUcsiCx.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Ucx01000 Service </span>
 
+##### Summary
+
 |BootFlags|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`0x10`|`USB Host Support Library`|`SERVICE_ERROR_NORMAL`|`Boot Bus Extender`|`system32\drivers\ucx01000.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`0x10`|`USB Host Support Library`|`SERVICE_ERROR_NORMAL`|`Boot Bus Extender`|`system32\drivers\ucx01000.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UdeCx Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: |
-|`USB Device Emulation Support Library`|`SERVICE_ERROR_NORMAL`|`system32\drivers\udecx.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`USB Device Emulation Support Library`|`SERVICE_ERROR_NORMAL`|`system32\drivers\udecx.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">udfs Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Reads/Writes UDF 1.02,1.5,2.0x,2.5 disc formats, usually found on C/DVD discs. (Core) (All pieces)`|`udfs`|`SERVICE_ERROR_NORMAL`|`Boot File System`|`system32\DRIVERS\udfs.sys`|`SERVICE_DISABLED`|`SERVICE_FILE_SYSTEM_DRIVER`|
+|`Reads/Writes UDF 1.02,1.5,2.0x,2.5 disc formats, usually found on C/DVD discs. (Core) (All pieces)`|`udfs`|`SERVICE_ERROR_NORMAL`|`Boot File System`|`system32\DRIVERS\udfs.sys`|`0x04`|`SERVICE_FILE_SYSTEM_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -13169,155 +11833,182 @@ IoTimeoutValue : `0x0f`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\windowsudk.shellcommon.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UEFI Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\DriverStore\FileRepository\uefi.inf_amd64_c1628ffa62c8e54c\UEFI.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@uefi.inf,%UEFI.SvcDesc%;Microsoft UEFI Driver`|`uefi.inf`|
+|`\SystemRoot\System32\DriverStore\FileRepository\uefi.inf_amd64_c1628ffa62c8e54c\UEFI.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@uefi.inf,%UEFI.SvcDesc%;Microsoft UEFI Driver`|`uefi.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UevAgentDriver Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UevAgentService Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Ufx01000 Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`USB Function Class Extension`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`system32\drivers\ufx01000.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`USB Function Class Extension`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`system32\drivers\ufx01000.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UfxChipidea Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\DriverStore\FileRepository\ufxchipidea.inf_amd64_1c78775fffab6a0a\UfxChipidea.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x12`|`ufx01000`|`@ufxchipidea.inf,%UfxChipidea.ServiceName%;USB Chipidea Controller`|`ufxchipidea.inf`|
+|`\SystemRoot\System32\DriverStore\FileRepository\ufxchipidea.inf_amd64_1c78775fffab6a0a\UfxChipidea.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x12`|`ufx01000`|`@ufxchipidea.inf,%UfxChipidea.ServiceName%;USB Chipidea Controller`|`ufxchipidea.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">ufxsynopsys Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\ufxsynopsys.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x13`|`ufx01000`|`@ufxsynopsys.inf,%ufxsynopsys.ServiceName%;USB Synopsys Controller`|`ufxsynopsys.inf`|
+|`\SystemRoot\System32\drivers\ufxsynopsys.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x13`|`ufx01000`|`@ufxsynopsys.inf,%ufxsynopsys.ServiceName%;USB Synopsys Controller`|`ufxsynopsys.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UGatherer Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'Close', 'Collect': 'Collect', 'Library': '%systemroot%\\system32\\msscntrs.dll', 'Open': 'Open', 'InstallType': 1, 'PerfIniFile': 'gsrvctr.ini', 'First Counter': 9134, 'Last Counter': 9238, 'First Help': 9135, 'Last Help': 9239}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UGTHRSVC Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'Close', 'Collect': 'Collect', 'Library': '%systemroot%\\system32\\msscntrs.dll', 'Open': 'Open', 'InstallType': 1, 'PerfIniFile': 'gthrctr.ini', 'First Counter': 9240, 'Last Counter': 9310, 'First Help': 9241, 'Last Help': 9311}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">umbus Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\DriverStore\FileRepository\umbus.inf_amd64_b78a9c5b6fd62c27\umbus.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x21`|`@umbus.inf,%umbus.SVCDESC%;UMBus Enumerator Driver`|`umbus.inf`|
+|`\SystemRoot\System32\DriverStore\FileRepository\umbus.inf_amd64_b78a9c5b6fd62c27\umbus.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x21`|`@umbus.inf,%umbus.SVCDESC%;UMBus Enumerator Driver`|`umbus.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UmPass Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\umpass.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x0e`|`@umpass.inf,%UmPass.SVCDESC%;Microsoft UMPass Driver`|`bthleenum.infumpass.infeaphost.infpnpxinternetgatewaydevices.inf`|
+|`\SystemRoot\System32\drivers\umpass.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x0e`|`@umpass.inf,%UmPass.SVCDESC%;Microsoft UMPass Driver`|`bthleenum.infumpass.infeaphost.infpnpxinternetgatewaydevices.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -13328,41 +12019,9 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\umrdp.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x30
-    SID: S-1-0-80-446051430-1559341753-4161941529-1950928533-810483104
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -13372,41 +12031,9 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\unistore.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -13416,104 +12043,123 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\upnphost.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x200bd
-    SID: S-1-0-32-549
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-20
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UrsChipidea Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|BootFlags|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\DriverStore\FileRepository\urschipidea.inf_amd64_78ad1c14e33df968\urschipidea.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x0f`|`urscx01000`|`@urschipidea.inf,%UrsChipidea.ServiceName%;Chipidea USB Role-Switch Driver`|`urschipidea.inf`|`0x04`|
+|`\SystemRoot\System32\DriverStore\FileRepository\urschipidea.inf_amd64_78ad1c14e33df968\urschipidea.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x0f`|`urscx01000`|`@urschipidea.inf,%UrsChipidea.ServiceName%;Chipidea USB Role-Switch Driver`|`urschipidea.inf`|`0x04`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UrsCx01000 Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`USB Role-Switch Support Library`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`system32\drivers\urscx01000.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`USB Role-Switch Support Library`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`system32\drivers\urscx01000.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">UrsSynopsys Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\DriverStore\FileRepository\urssynopsys.inf_amd64_057fa37902020500\urssynopsys.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x10`|`urscx01000`|`@urssynopsys.inf,%UrsSynopsys.ServiceName%;Synopsys USB Role-Switch Driver`|`urssynopsys.inf`|
+|`\SystemRoot\System32\DriverStore\FileRepository\urssynopsys.inf_amd64_057fa37902020500\urssynopsys.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x10`|`urscx01000`|`@urssynopsys.inf,%UrsSynopsys.ServiceName%;Synopsys USB Role-Switch Driver`|`urssynopsys.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">usbaudio Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\system32\drivers\usbaudio.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@wdma_usb.inf,%USBAudio.SvcDesc%;USB Audio Driver (WDM)`|`wdma_usb.inf`|
+|`\SystemRoot\system32\drivers\usbaudio.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@wdma_usb.inf,%USBAudio.SvcDesc%;USB Audio Driver (WDM)`|`wdma_usb.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">usbaudio2 Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\usbaudio2.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@usbaudio2.inf,%usbaudio2.SVCDESC%;USB Audio 2.0 Service`|`usbaudio2.inf`|
+|`\SystemRoot\System32\drivers\usbaudio2.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@usbaudio2.inf,%usbaudio2.SVCDESC%;USB Audio 2.0 Service`|`usbaudio2.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">usbccgp Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|BootFlags|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\usbccgp.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x09`|`@usb.inf,%GenericParent.SvcDesc%;Microsoft USB Generic Parent Driver`|`usb.infwmbclass_wmc_union.inf`|`0x14`|
+|`\SystemRoot\System32\drivers\usbccgp.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x09`|`@usb.inf,%GenericParent.SvcDesc%;Microsoft USB Generic Parent Driver`|`usb.infwmbclass_wmc_union.inf`|`0x14`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">usbcir Service </span>
+
+##### Summary
 
 |PowerKey|
 | :---: |
@@ -13524,24 +12170,44 @@ DACL:
 ##### Service Parameters
   
 Wdf : `{'KmdfLibraryVersion': '1.5'}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">usbehci Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|BootFlags|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\usbehci.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x17`|`@usbport.inf,%EHCIMP.SvcDesc%;Microsoft USB 2.0 Enhanced Host Controller Miniport Driver`|`usbport.inf`|`0x04`|
+|`\SystemRoot\System32\drivers\usbehci.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x17`|`@usbport.inf,%EHCIMP.SvcDesc%;Microsoft USB 2.0 Enhanced Host Controller Miniport Driver`|`usbport.inf`|`0x04`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">usbhub Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'CloseUsbPerformanceData', 'Collect': 'CollectUsbPerformanceData', 'Library': '%SystemRoot%\\system32\\usbperf.dll', 'Open': 'OpenUsbPerformanceData', 'InstallType': 1, 'PerfIniFile': 'usbperf.ini', 'First Counter': 9006, 'Last Counter': 9040, 'First Help': 9007, 'Last Help': 9041}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -13553,51 +12219,98 @@ Wdf : `{'KmdfLibraryVersion': '1.5'}`
 ##### Service Parameters
   
 Wdf : `{'LogPages': 3}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">usbohci Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\usbohci.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x16`|`@usbport.inf,%OHCIMP.SvcDesc%;Microsoft USB Open Host Controller Miniport Driver`|`usbport.inf`|
+|`\SystemRoot\System32\drivers\usbohci.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x16`|`@usbport.inf,%OHCIMP.SvcDesc%;Microsoft USB Open Host Controller Miniport Driver`|`usbport.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">usbprint Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\usbprint.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`extended base`|`0x14`|`@usbprint.inf,%USBPRINT.SvcDesc%;Microsoft USB PRINTER Class`|`usbprint.inf`|
+|`\SystemRoot\System32\drivers\usbprint.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`extended base`|`0x14`|`@usbprint.inf,%USBPRINT.SvcDesc%;Microsoft USB PRINTER Class`|`usbprint.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">usbser Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\usbser.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@usbser.inf,%UsbSerial.DriverDesc%;Microsoft USB Serial Driver`|`usbser.inf`|
+|`\SystemRoot\System32\drivers\usbser.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@usbser.inf,%UsbSerial.DriverDesc%;Microsoft USB Serial Driver`|`usbser.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">USBSTOR Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|BootFlags|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\USBSTOR.SYS`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver`|`usbstor.infv_mscdsc.inf`|`0x14`|
+|`\SystemRoot\System32\drivers\USBSTOR.SYS`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver`|`usbstor.infv_mscdsc.inf`|`0x14`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">usbuhci Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\usbuhci.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x18`|`@usbport.inf,%UHCIMP.SvcDesc%;Microsoft USB Universal Host Controller Miniport Driver`|`usbport.inf`|
+|`\SystemRoot\System32\drivers\usbuhci.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x18`|`@usbport.inf,%UHCIMP.SvcDesc%;Microsoft USB Universal Host Controller Miniport Driver`|`usbport.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -13608,9 +12321,9 @@ Wdf : `{'LogPages': 3}`
 
 ##### Service Parameters
   
-DmaRemappingCompatibleSelfhost : `0x01`  
-DmaRemappingCompatible : `0x02`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -13620,41 +12333,9 @@ DmaRemappingCompatible : `0x02`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\userdataservice.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -13664,17 +12345,14 @@ DACL:
 
 ##### Service Parameters
   
-DeviceAccessBrokerConsentRequired : `0x01`  
-ServiceDll : `%SystemRoot%\System32\usermgr.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`42 00 31 00 38 00 46 00 42 00 41 00 42 00 36 00 2d 00 35 00 36 00 46 00 38 00 2d 00 34 00 37 00 30 00 32 00 2d 00 38 00 34 00 45 00 30 00 2d 00 34 00 31 00 30 00 35 00 33 00 32 00 39 00 33 00 41 00 38 00 36 00 39 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`B18FBAB6-56F8-4702-84E0-41053293A869`|
   
 <br></br>  
 
@@ -13686,38 +12364,9 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\usosvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -13727,9 +12376,9 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\vac.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -13739,120 +12388,62 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `X:\Windows\System32\vaultsvc.dll`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-20
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x14
-    SID: S-1-0-2-1
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">vdrvroot Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\vdrvroot.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_CRITICAL`|`Boot Bus Extender`|`0x04`|`@vdrvroot.inf,%vdrvroot_svcdesc%;Microsoft Virtual Drive Enumerator`|`vdrvroot.inf`|
+|`System32\drivers\vdrvroot.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_CRITICAL`|`Boot Bus Extender`|`0x04`|`@vdrvroot.inf,%vdrvroot_svcdesc%;Microsoft Virtual Drive Enumerator`|`vdrvroot.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">vds Service </span>
 
+##### Summary
+
 |Alignment|SoftwareProviders|VirtualDiskProviders|
 | :---: | :---: | :---: |
 |`{'(Default)': 'Alignment Settings in Bytes', 'Between4_8GB': 1048576, 'Between8_32GB': 1048576, 'GreaterThan32GB': 1048576, 'LessThan4GB': 65536}`|`SoftwareProviders`|`VirtualDiskProviders`|
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x70
-    SID: S-1-0-32-551
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">VerifierExt Service </span>
 
+##### Summary
+
 |BootFlags|Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`0x40`|`@%SystemRoot%\System32\drivers\VerifierExt.sys,-1001`|`@%SystemRoot%\System32\drivers\VerifierExt.sys,-1000`|`SERVICE_ERROR_NORMAL`|`WdfLoadGroup`|`System32\drivers\VerifierExt.sys`|`SERVICE_DISABLED`|`SERVICE_KERNEL_DRIVER`|
+|`0x40`|`@%SystemRoot%\System32\drivers\VerifierExt.sys,-1001`|`@%SystemRoot%\System32\drivers\VerifierExt.sys,-1000`|`SERVICE_ERROR_NORMAL`|`WdfLoadGroup`|`System32\drivers\VerifierExt.sys`|`0x04`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -13864,15 +12455,26 @@ SACL:
 ##### Service Parameters
   
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">vhf Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Description|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\vhf.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x0a`|`@hidvhf.inf,%VhfService%;Virtual HID Framework (VHF) Driver`|`@hidvhf.inf,%VhfDesc%;Kernel mode driver that implements the Virtual HID Framework (VHF)`|`BthLCPen.infhidvhf.inf`|
+|`\SystemRoot\System32\drivers\vhf.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x0a`|`@hidvhf.inf,%VhfService%;Virtual HID Framework (VHF) Driver`|`@hidvhf.inf,%VhfDesc%;Kernel mode driver that implements the Virtual HID Framework (VHF)`|`BthLCPen.infhidvhf.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -13883,16 +12485,26 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-ExoDeviceEnabledClient : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">VirtualRender Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Owners|
 | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\DriverStore\FileRepository\vrd.inf_amd64_81fbd405ff2470fc\vrd.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_IGNORE`|`vrd.inf`|
+|`\SystemRoot\System32\DriverStore\FileRepository\vrd.inf_amd64_81fbd405ff2470fc\vrd.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_IGNORE`|`vrd.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -13904,24 +12516,44 @@ ExoDeviceEnabledClient : `0x01`
 ##### Service Parameters
   
 Winsock : `Winsock`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">VMBusHID Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\VMBusHID.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_IGNORE`|`Extended Base`|`0x2c`|`wvmbushid.inf`|
+|`\SystemRoot\System32\drivers\VMBusHID.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_IGNORE`|`Extended Base`|`0x2c`|`wvmbushid.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">vmgid Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\vmgid.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@wvmgid.inf,%VmGid.SVCDESC%;Microsoft Hyper-V Guest Infrastructure Driver`|`wvmgid.inf`|
+|`\SystemRoot\System32\drivers\vmgid.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@wvmgid.inf,%VmGid.SVCDESC%;Microsoft Hyper-V Guest Infrastructure Driver`|`wvmgid.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -13932,9 +12564,6 @@ Winsock : `Winsock`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\icsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `GuestInterfaceServiceMain`  
 <br></br>
 
 
@@ -13954,9 +12583,6 @@ ServiceMain : `GuestInterfaceServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\icsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `HeartbeatServiceMain`  
 <br></br>
 
 
@@ -13976,9 +12602,6 @@ ServiceMain : `HeartbeatServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\icsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `KvpexchangeServiceMain`  
 <br></br>
 
 
@@ -13998,9 +12621,6 @@ ServiceMain : `KvpexchangeServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\icsvcext.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `RdvServiceMain`  
 <br></br>
 
 
@@ -14020,9 +12640,6 @@ ServiceMain : `RdvServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\icsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ShutdownServiceMain`  
 <br></br>
 
 
@@ -14042,9 +12659,6 @@ ServiceMain : `ShutdownServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\icsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `TimesyncServiceMain`  
 <br></br>
 
 
@@ -14064,9 +12678,6 @@ ServiceMain : `TimesyncServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\icsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `VMSessionServiceMain`  
 <br></br>
 
 
@@ -14086,9 +12697,6 @@ ServiceMain : `VMSessionServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\icsvcext.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `VssServiceMain`  
 <br></br>
 
 
@@ -14104,45 +12712,90 @@ ServiceMain : `VssServiceMain`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">volmgr Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\volmgr.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`0x09`|`@volmgr.inf,%volmgr_svcdesc%;Volume Manager Driver`|`volmgr.inf`|
+|`System32\drivers\volmgr.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`0x09`|`@volmgr.inf,%volmgr_svcdesc%;Volume Manager Driver`|`volmgr.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">volmgrx Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\volmgrx.sys,-101`|`@%SystemRoot%\system32\drivers\volmgrx.sys,-100`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`System32\drivers\volmgrx.sys`|`SERVICE_BOOT_START`|`0x0a`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\volmgrx.sys,-101`|`@%SystemRoot%\system32\drivers\volmgrx.sys,-100`|`SERVICE_ERROR_CRITICAL`|`System Bus Extender`|`System32\drivers\volmgrx.sys`|`0x00`|`0x0a`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">volsnap Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\volsnap.sys,-101`|`@%SystemRoot%\system32\drivers\volsnap.sys,-100`|`SERVICE_ERROR_CRITICAL`|`System32\drivers\volsnap.sys`|`SERVICE_BOOT_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\volsnap.sys,-101`|`@%SystemRoot%\system32\drivers\volsnap.sys,-100`|`SERVICE_ERROR_CRITICAL`|`System32\drivers\volsnap.sys`|`0x00`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">volume Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\volume.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_CRITICAL`|`@volume.inf,%VolumeServiceDesc%;Volume driver`|`volume.infsmrvolume.infscmvolume.inf`|
+|`System32\drivers\volume.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_CRITICAL`|`@volume.inf,%VolumeServiceDesc%;Volume driver`|`volume.infsmrvolume.infscmvolume.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">vpci Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\vpci.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`0x0c`|`@wvpci.inf,%vpci.SVCDESC%;Microsoft Hyper-V Virtual PCI Bus`|`wvpci.inf`|
+|`System32\drivers\vpci.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`System Bus Extender`|`0x0c`|`@wvpci.inf,%vpci.SVCDESC%;Microsoft Hyper-V Virtual PCI Bus`|`wvpci.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -14155,15 +12808,26 @@ ServiceMain : `VssServiceMain`
   
 Device : `{'CreateInitiatorLU': 1}`  
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">VSS Service </span>
 
+##### Summary
+
 |Diag|Providers|Settings|VssAccessControl|
 | :---: | :---: | :---: | :---: |
 |`{}`|`Providers`|`Settings`|`{'NT Authority\\NetworkService': 1}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -14175,29 +12839,51 @@ PnpInterface : `{'5': 1}`
 ##### Service Parameters
   
 PnpInterface : `{'5': 1}`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">vwifibus Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Description|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\vwifibus.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@%SystemRoot%\System32\drivers\vwifibus.sys,-257`|`@%SystemRoot%\System32\drivers\vwifibus.sys,-258`|`netvwifibus.inf`|
+|`\SystemRoot\System32\drivers\vwifibus.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@%SystemRoot%\System32\drivers\vwifibus.sys,-257`|`@%SystemRoot%\System32\drivers\vwifibus.sys,-258`|`netvwifibus.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">vwififlt Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\System32\drivers\vwififlt.sys,-260`|`@%SystemRoot%\System32\drivers\vwififlt.sys,-259`|`SERVICE_ERROR_NORMAL`|`NDIS`|`System32\drivers\vwififlt.sys`|`SERVICE_SYSTEM_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\System32\drivers\vwififlt.sys,-260`|`@%SystemRoot%\System32\drivers\vwififlt.sys,-259`|`SERVICE_ERROR_NORMAL`|`NDIS`|`System32\drivers\vwififlt.sys`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">W32Time Service </span>
+
+##### Summary
 
 |Config|SecureTimeLimits|TimeProviders|
 | :---: | :---: | :---: |
@@ -14207,54 +12893,7 @@ PnpInterface : `{'5': 1}`
 
 ##### Service Parameters
   
-NtpServer : `time.windows.com,0x9`  
-ServiceDll : `%systemroot%\system32\w32time.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `SvchostEntry_W32Time`  
-Type : `NTP`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x200a9
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-3169285310-278349998-1452333686-3865143136-4212226833
-
-```
+<br></br>
 
 
 ##### Service Triggers
@@ -14273,46 +12912,26 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\WaaSMedicSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WacomPen Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\wacompen.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x1f`|`@hiddigi.inf,%WacomPen.SVCDESC%;Wacom Serial Pen HID Driver`|`hiddigi.inf`|
+|`\SystemRoot\System32\drivers\wacompen.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x1f`|`@hiddigi.inf,%WacomPen.SVCDESC%;Wacom Serial Pen HID Driver`|`hiddigi.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -14323,27 +12942,44 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDLL : `%SystemRoot%\system32\WalletService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">wanarp Service </span>
 
+##### Summary
+
 |Linkage|
 | :---: |
 |`{'Export': b'\\\x00D\x00e\x00v\x00i\x00c\x00e\x00\\\x00w\x00a\x00n\x00a\x00r\x00p\x00\x00\x00\x00\x00', 'Bind': b'\x00\x00', 'Route': b'\x00\x00'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">wanarpv6 Service </span>
 
+##### Summary
+
 |Linkage|
 | :---: |
 |`{'Export': b'\\\x00D\x00e\x00v\x00i\x00c\x00e\x00\\\x00w\x00a\x00n\x00a\x00r\x00p\x00v\x006\x00\x00\x00\x00\x00', 'Bind': b'\x00\x00', 'Route': b'\x00\x00'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -14354,17 +12990,14 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\Windows.WARP.JITService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`35 00 41 00 30 00 43 00 45 00 37 00 34 00 44 00 2d 00 46 00 39 00 43 00 46 00 2d 00 34 00 44 00 45 00 41 00 2d 00 41 00 34 00 43 00 31 00 2d 00 32 00 44 00 35 00 46 00 45 00 34 00 43 00 38 00 39 00 44 00 35 00 31 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`5A0CE74D-F9CF-4DEA-A4C1-2D5FE4C89D51`|
   
 <br></br>  
 
@@ -14372,14 +13005,25 @@ ServiceMain : `ServiceMain`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">wbengine Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|FailureActions|ImagePath|ObjectName|RequiredPrivileges|ServiceSidType|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%systemroot%\system32\wbengine.exe,-105`|`@%systemroot%\system32\wbengine.exe,-104`|`SERVICE_ERROR_NORMAL`|`84 03 00 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 c0 d4 01 00 01 00 00 00 e0 93 04 00 00 00 00 00 00 00 00 00`|`"%systemroot%\system32\wbengine.exe"`|`localSystem`|`['SeImpersonatePrivilege', 'SeBackupPrivilege', 'SeManageVolumePrivilege', 'SeRestorePrivilege', 'SeSystemEnvironmentPrivilege', 'SeSecurityPrivilege', 'SeTakeOwnershipPrivilege', 'SeShutdownPrivilege']`|`SERVICE_SID_TYPE_UNRESTRICTED`|`SERVICE_DEMAND_START`|`SERVICE_WIN32_OWN_PROCESS`|
+|`@%systemroot%\system32\wbengine.exe,-105`|`@%systemroot%\system32\wbengine.exe,-104`|`SERVICE_ERROR_NORMAL`|`84 03 00 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 c0 d4 01 00 01 00 00 00 e0 93 04 00 00 00 00 00 00 00 00 00`|`"%systemroot%\system32\wbengine.exe"`|`localSystem`|`['SeImpersonatePrivilege', 'SeBackupPrivilege', 'SeManageVolumePrivilege', 'SeRestorePrivilege', 'SeSystemEnvironmentPrivilege', 'SeSecurityPrivilege', 'SeTakeOwnershipPrivilege', 'SeShutdownPrivilege']`|`SERVICE_SID_TYPE_UNRESTRICTED`|`0x03`|`SERVICE_WIN32_OWN_PROCESS`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WbioSrvc Service </span>
+
+##### Summary
 
 |Databases|Service Providers|
 | :---: | :---: |
@@ -14389,66 +13033,23 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\wbiosrvc.dll`  
-ServiceDllUnloadOnStop : `0x00`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x15
-    SID: S-1-0-2-1
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`43 00 30 00 45 00 39 00 36 00 37 00 31 00 45 00 2d 00 33 00 33 00 43 00 36 00 2d 00 34 00 34 00 33 00 38 00 2d 00 39 00 34 00 36 00 34 00 2d 00 35 00 36 00 42 00 32 00 45 00 31 00 42 00 31 00 43 00 37 00 42 00 34 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`34 00 42 00 45 00 39 00 36 00 41 00 30 00 46 00 2d 00 39 00 46 00 35 00 32 00 2d 00 34 00 37 00 32 00 39 00 2d 00 41 00 35 00 31 00 44 00 2d 00 43 00 37 00 30 00 36 00 31 00 30 00 46 00 31 00 31 00 38 00 42 00 30 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`C0E9671E-33C6-4438-9464-56B2E1B1C7B4`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`4BE96A0F-9F52-4729-A51D-C70610F118B0`|
   
 <br></br>  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">wcifs Service </span>
+
+##### Summary
 
 |Instances|
 | :---: |
@@ -14458,12 +13059,15 @@ SACL:
 
 ##### Service Parameters
   
-DebugOptions : `0x0c`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Wcmsvc Service </span>
+
+##### Summary
 
 |Csps|
 | :---: |
@@ -14473,44 +13077,14 @@ DebugOptions : `0x0c`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\wcmsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `WcmSvcMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`e8731faa-fd15-d245-abfd-e7f64f78eb11`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`01 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`e8731faa-fd15-d245-abfd-e7f64f78eb11`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`01 00 00 00`|
   
 <br></br>  
 
@@ -14522,52 +13096,15 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\wcncsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `WcnServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x301fd
-    SID: S-1-0-32-556
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">wcnfs Service </span>
+
+##### Summary
 
 |Instances|
 | :---: |
@@ -14577,117 +13114,57 @@ SACL:
 
 ##### Service Parameters
   
-DebugOptions : `0x00`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WdBoot Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x0b
-    Access: 0x10000000
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Wdf01000 Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\Wdf01000.sys,-1000`|`SERVICE_ERROR_NORMAL`|`WdfLoadGroup`|`system32\drivers\Wdf01000.sys`|`SERVICE_BOOT_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\Wdf01000.sys,-1000`|`SERVICE_ERROR_NORMAL`|`WdfLoadGroup`|`system32\drivers\Wdf01000.sys`|`0x00`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WdFilter Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x0b
-    Access: 0x10000000
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -14697,48 +13174,9 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\wdi.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201ef
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-80-2970612574-78537857-698502321-558674196-1451644582
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -14748,48 +13186,9 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\wdi.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201ef
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-80-2970612574-78537857-698502321-558674196-1451644582
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -14799,65 +13198,39 @@ SACL:
 
 ##### Service Parameters
   
-ForceLogsInMiniDump : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WdmCompanionFilter Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%SystemRoot%\system32\drivers\WdmCompanionFilter.sys,-1000`|`SERVICE_ERROR_NORMAL`|`base`|`system32\drivers\WdmCompanionFilter.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%SystemRoot%\system32\drivers\WdmCompanionFilter.sys,-1000`|`SERVICE_ERROR_NORMAL`|`base`|`system32\drivers\WdmCompanionFilter.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WdNisDrv Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x0b
-    Access: 0x10000000
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -14867,44 +13240,15 @@ SACL:
 
 ##### Service Parameters
   
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WebClient Service </span>
+
+##### Summary
 
 |NetworkProvider|
 | :---: |
@@ -14914,19 +13258,6 @@ SACL:
 
 ##### Service Parameters
   
-AcceptOfficeAndTahoeServers : `0x01`  
-BasicAuthLevel : `0x01`  
-ClientDebug : `0x00`  
-FileAttributesLimitInBytes : `0xf4240`  
-FileSizeLimitInBytes : `0x2faf080`  
-InternetServerTimeoutInSec : `0x1e`  
-LocalServerTimeoutInSec : `0x0f`  
-SendReceiveTimeoutInSec : `0x3c`  
-ServerNotFoundCacheLifeTimeInSec : `0x3c`  
-ServiceDebug : `0x00`  
-ServiceDll : `%SystemRoot%\System32\webclnt.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-SupportLocking : `0x01`  
 <br></br>
 
 
@@ -14946,10 +13277,9 @@ SupportLocking : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\wecsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -14959,16 +13289,14 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\wephostsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`35 00 36 00 32 00 34 00 34 00 32 00 34 00 33 00 2d 00 33 00 45 00 44 00 33 00 2d 00 34 00 30 00 31 00 33 00 2d 00 42 00 33 00 45 00 37 00 2d 00 30 00 46 00 43 00 38 00 30 00 39 00 45 00 33 00 35 00 46 00 42 00 41 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`56244243-3ED3-4013-B3E7-0FC809E35FBA`|
   
 <br></br>  
 
@@ -14980,9 +13308,9 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\wercplsupport.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -14992,8 +13320,6 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\WerSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
@@ -15013,17 +13339,14 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\wfdsconmgrsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`39 00 46 00 41 00 36 00 41 00 46 00 46 00 36 00 2d 00 45 00 30 00 41 00 44 00 2d 00 34 00 38 00 44 00 46 00 2d 00 41 00 36 00 42 00 34 00 2d 00 45 00 36 00 34 00 42 00 45 00 36 00 36 00 41 00 31 00 37 00 41 00 31 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`9FA6AFF6-E0AD-48DF-A6B4-E64BE66A17A1`|
   
 <br></br>  
 
@@ -15031,9 +13354,18 @@ ServiceMain : `ServiceMain`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WFPLWFS Service </span>
 
+##### Summary
+
 |BootFlags|DependOnService|Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`0x01`|`ndis`|`@%SystemRoot%\System32\drivers\wfplwfs.sys,-6000`|`@%SystemRoot%\System32\drivers\wfplwfs.sys,-6000`|`SERVICE_ERROR_NORMAL`|`PNP_TDI`|`System32\drivers\wfplwfs.sys`|`SERVICE_BOOT_START`|`SERVICE_KERNEL_DRIVER`|
+|`0x01`|`ndis`|`@%SystemRoot%\System32\drivers\wfplwfs.sys,-6000`|`@%SystemRoot%\System32\drivers\wfplwfs.sys,-6000`|`SERVICE_ERROR_NORMAL`|`PNP_TDI`|`System32\drivers\wfplwfs.sys`|`0x00`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -15044,135 +13376,92 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\wiarpc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-80-3182985763-1431228038-2757062859-428472846-3914011746
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WIMMount Service </span>
 
+##### Summary
+
 |Instances|
 | :---: |
 |`Instances`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WinDefend Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x0b
-    Access: 0x10000000
-    SID: S-1-0-80-956008885-3418522649-1831038044-1853292631-2271478464
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xe01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Windows Workflow Foundation 4.0.0.0 Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'CategoryOptions': 1, 'Close': 'ClosePerformanceData', 'Collect': 'CollectPerformanceData', 'Counter Names': b'W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00C\x00r\x00e\x00a\x00t\x00e\x00d\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00C\x00r\x00e\x00a\x00t\x00e\x00d\x00/\x00s\x00e\x00c\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00U\x00n\x00l\x00o\x00a\x00d\x00e\x00d\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00U\x00n\x00l\x00o\x00a\x00d\x00e\x00d\x00/\x00s\x00e\x00c\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00L\x00o\x00a\x00d\x00e\x00d\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00L\x00o\x00a\x00d\x00e\x00d\x00/\x00s\x00e\x00c\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00C\x00o\x00m\x00p\x00l\x00e\x00t\x00e\x00d\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00C\x00o\x00m\x00p\x00l\x00e\x00t\x00e\x00d\x00/\x00s\x00e\x00c\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00S\x00u\x00s\x00p\x00e\x00n\x00d\x00e\x00d\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00S\x00u\x00s\x00p\x00e\x00n\x00d\x00e\x00d\x00/\x00s\x00e\x00c\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00T\x00e\x00r\x00m\x00i\x00n\x00a\x00t\x00e\x00d\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00T\x00e\x00r\x00m\x00i\x00n\x00a\x00t\x00e\x00d\x00/\x00s\x00e\x00c\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00I\x00n\x00 \x00M\x00e\x00m\x00o\x00r\x00y\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00A\x00b\x00o\x00r\x00t\x00e\x00d\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00A\x00b\x00o\x00r\x00t\x00e\x00d\x00/\x00s\x00e\x00c\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00P\x00e\x00r\x00s\x00i\x00s\x00t\x00e\x00d\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00P\x00e\x00r\x00s\x00i\x00s\x00t\x00e\x00d\x00/\x00s\x00e\x00c\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00E\x00x\x00e\x00c\x00u\x00t\x00i\x00n\x00g\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00I\x00d\x00l\x00e\x00/\x00s\x00e\x00c\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00R\x00u\x00n\x00n\x00a\x00b\x00l\x00e\x00\x00\x00W\x00o\x00r\x00k\x00f\x00l\x00o\x00w\x00s\x00 \x00P\x00e\x00n\x00d\x00i\x00n\x00g\x00\x00\x00\x00\x00', 'Counter Types': b'6\x005\x005\x003\x006\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x006\x005\x005\x003\x006\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x006\x005\x005\x003\x006\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x006\x005\x005\x003\x006\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x006\x005\x005\x003\x006\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x006\x005\x005\x003\x006\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x006\x005\x005\x003\x006\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x006\x005\x005\x003\x006\x00\x00\x002\x007\x002\x006\x009\x006\x003\x002\x000\x00\x00\x006\x005\x005\x003\x006\x00\x00\x006\x005\x005\x003\x006\x00\x00\x00\x00\x00', 'IsMultiInstance': 1, 'Library': '%systemroot%\\system32\\NETFXPerf.dll', 'Open': 'OpenPerformanceData', 'InstallType': 1, 'PerfIniFile': 'PerfCounters_d.ini', 'First Counter': 9090, 'Last Counter': 9132, 'First Help': 9091, 'Last Help': 9133, 'Object List': '9090'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WindowsTrustedRT Service </span>
 
+##### Summary
+
 |DisplayName|ErrorControl|Group|ImagePath|Start|Tag|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`Windows Trusted Execution Environment Class Extension`|`SERVICE_ERROR_CRITICAL`|`Core Security Extensions`|`system32\drivers\WindowsTrustedRT.sys`|`SERVICE_BOOT_START`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+|`Windows Trusted Execution Environment Class Extension`|`SERVICE_ERROR_CRITICAL`|`Core Security Extensions`|`system32\drivers\WindowsTrustedRT.sys`|`0x00`|`0x01`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WindowsTrustedRTProxy Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`System32\drivers\WindowsTrustedRTProxy.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_BOOT_START`|`SERVICE_ERROR_NORMAL`|`Core Security Extensions`|`0x02`|`@WindowsTrustedRTProxy.inf,%WindowsTrustedRTProxy.SVCDESC%;Microsoft Windows Trusted Runtime Secure Service`|`WindowsTrustedRTProxy.inf`|
+|`System32\drivers\WindowsTrustedRTProxy.sys`|`SERVICE_KERNEL_DRIVER`|`0x00`|`SERVICE_ERROR_NORMAL`|`Core Security Extensions`|`0x02`|`@WindowsTrustedRTProxy.inf,%WindowsTrustedRTProxy.SVCDESC%;Microsoft Windows Trusted Runtime Secure Service`|`WindowsTrustedRTProxy.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -15183,77 +13472,26 @@ SACL:
 
 ##### Service Parameters
   
-ProxyDllFile : `%SystemRoot%\system32\jsproxy.dll`  
-ServiceDll : `%SystemRoot%\system32\winhttp.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `WinHttpAutoProxySvcMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x3009d
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x3009d
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x94
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x94
-    SID: S-1-0-3-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x94
-    SID: S-1-0-3-2
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x94
-    SID: S-1-0-3-3
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0x3009d
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WinMad Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|BootFlags|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\winmad.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`0x04`|`winverbs`|`@mlx4_bus.inf,%WinMad.ServiceDesc%;WinMad Service`|`mlx4_bus.inf`|`0x01`|
+|`\SystemRoot\System32\drivers\winmad.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`0x04`|`winverbs`|`@mlx4_bus.inf,%WinMad.ServiceDesc%;WinMad Service`|`mlx4_bus.inf`|`0x01`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -15264,49 +13502,21 @@ SACL:
 
 ##### Service Parameters
   
-LegacyCOMBehavior : `0x01`  
-ServiceDll : `%SystemRoot%\system32\wbem\WMIsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WinNat Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -15316,14 +13526,15 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\WsmSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Winsock Service </span>
+
+##### Summary
 
 |Setup Migration|
 | :---: |
@@ -15333,8 +13544,9 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-Transports : `54 00 63 00 70 00 69 00 70 00 00 00 54 00 63 00 70 00 69 00 70 00 36 00 00 00 61 00 66 00 75 00 6e 00 69 00 78 00 00 00 50 00 73 00 63 00 68 00 65 00 64 00 00 00 76 00 6d 00 62 00 75 00 73 00 00 00 52 00 46 00 43 00 4f 00 4d 00 4d 00 00 00 00 00`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -15347,24 +13559,44 @@ Transports : `54 00 63 00 70 00 69 00 70 00 00 00 54 00 63 00 70 00 69 00 70 00 
 AppId_Catalog : `AppId_Catalog`  
 NameSpace_Catalog5 : `NameSpace_Catalog5`  
 Protocol_Catalog9 : `Protocol_Catalog9`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WINUSB Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|DisplayName|Description|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\WinUSB.SYS`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`@winusb.inf,%WINUSB_SvcName%;WinUsb Driver`|`@winusb.inf,%WINUSB_SvcDesc%;Generic driver for USB devices`|`winusb.inftransfercable.inf`|
+|`\SystemRoot\System32\drivers\WinUSB.SYS`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`@winusb.inf,%WINUSB_SvcName%;WinUsb Driver`|`@winusb.inf,%WINUSB_SvcDesc%;Generic driver for USB devices`|`winusb.inftransfercable.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WinVerbs Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DependOnService|DisplayName|Owners|BootFlags|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\winverbs.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`0x03`|`ibbus`|`@mlx4_bus.inf,%WinVerbs.ServiceDesc%;WinVerbs Service`|`mlx4_bus.inf`|`0x01`|
+|`\SystemRoot\System32\drivers\winverbs.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`PNP Filter`|`0x03`|`ibbus`|`@mlx4_bus.inf,%WinVerbs.ServiceDesc%;WinVerbs Service`|`mlx4_bus.inf`|`0x01`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -15375,23 +13607,22 @@ Protocol_Catalog9 : `Protocol_Catalog9`
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\flightsettings.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 2b 02 92 0f`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 2b 02 92 0f`|
   
 <br></br>  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WlanSvc Service </span>
+
+##### Summary
 
 |VirtualizationManager|
 | :---: |
@@ -15408,39 +13639,9 @@ OneXAuthenticator : `{'(Default)': '%SystemRoot%\\System32\\WcnEapAuthProxy.dll'
 VendorSpecificIEProviders : `VendorSpecificIEProviders`  
 WfdInterfaceManagement : `{'DisablePhyTypeRestriction': 0, 'DisableSetActiveWfdMgrSidCheck': 0}`  
 WFDProvPlugin : `{'(Default)': '%SystemRoot%\\System32\\wfdprov.dll', 'DllEntryPoint': 'WFDProvGetInfo'}`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x70
-    SID: S-1-0-80-3906544942-1489856346-3706913989-164347954-1900376235
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -15450,48 +13651,19 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\wlidsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`43 00 43 00 31 00 30 00 35 00 36 00 31 00 30 00 2d 00 44 00 41 00 30 00 33 00 2d 00 34 00 36 00 37 00 45 00 2d 00 42 00 43 00 37 00 33 00 2d 00 35 00 42 00 39 00 45 00 32 00 39 00 33 00 37 00 34 00 35 00 38 00 44 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`46 00 41 00 46 00 32 00 34 00 34 00 37 00 42 00 2d 00 42 00 33 00 34 00 38 00 2d 00 34 00 46 00 45 00 42 00 2d 00 38 00 44 00 42 00 45 00 2d 00 42 00 45 00 45 00 45 00 35 00 42 00 37 00 46 00 37 00 37 00 37 00 38 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 21 07 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 21 07 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 30 bc a3 21 07 85 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 20 bc a3 20 1d 87 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`CC105610-DA03-467E-BC73-5B9E2937458D`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`FAF2447B-B348-4FEB-8DBE-BEEE5B7F7778`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 21 07 85 41`|
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 21 07 85 41`|
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 30 bc a3 21 07 85 41`|
+|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 20 bc a3 20 1d 87 41`|
   
 <br></br>  
 
@@ -15503,65 +13675,15 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\lpasvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `LpaSvcMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-2-3083765670-2301828090-3288705196-2597965991-2057664196-4044987863-2761340229
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-2-3784866113-3187381476-3433752343-3391928953-3760210436-1684329488-1912184601
-
-```
+<br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 3a 19 87 0f`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`34 00 66 00 34 00 66 00 61 00 37 00 38 00 36 00 2d 00 32 00 66 00 38 00 66 00 2d 00 34 00 39 00 65 00 38 00 2d 00 38 00 61 00 61 00 65 00 2d 00 36 00 36 00 36 00 39 00 66 00 65 00 62 00 64 00 35 00 64 00 31 00 64 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 10 bc a3 3a 19 87 0f`|
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`4f4fa786-2f8f-49e8-8aae-6669febd5d1d`|
   
 <br></br>  
 
@@ -15573,79 +13695,81 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\Windows.Management.Service.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WmiAcpi Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\wmiacpi.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x24`|`@wmiacpi.inf,%WMIMAP.SvcDesc%;Microsoft Windows Management Interface for ACPI`|`wmiacpi.inf`|
+|`\SystemRoot\System32\drivers\wmiacpi.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Extended Base`|`0x24`|`@wmiacpi.inf,%WMIMAP.SvcDesc%;Microsoft Windows Management Interface for ACPI`|`wmiacpi.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WmiApRpl Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'WmiClosePerfData', 'Collect': 'WmiCollectPerfData', 'Library': '%systemroot%\\system32\\wbem\\wmiaprpl.dll', 'Open': 'WmiOpenPerfData', 'PerfIniFile': 'WmiApRpl.ini'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">wmiApSrv Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|FailureActions|ImagePath|ObjectName|ServiceSidType|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%Systemroot%\system32\wbem\wmiapsrv.exe,-111`|`@%Systemroot%\system32\wbem\wmiapsrv.exe,-110`|`SERVICE_ERROR_NORMAL`|`84 03 00 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 c0 d4 01 00 01 00 00 00 e0 93 04 00 00 00 00 00 00 00 00 00`|`%systemroot%\system32\wbem\WmiApSrv.exe`|`localSystem`|`SERVICE_SID_TYPE_UNRESTRICTED`|`SERVICE_DEMAND_START`|`SERVICE_WIN32_OWN_PROCESS`|
+|`@%Systemroot%\system32\wbem\wmiapsrv.exe,-111`|`@%Systemroot%\system32\wbem\wmiapsrv.exe,-110`|`SERVICE_ERROR_NORMAL`|`84 03 00 00 00 00 00 00 00 00 00 00 03 00 00 00 14 00 00 00 01 00 00 00 c0 d4 01 00 01 00 00 00 e0 93 04 00 00 00 00 00 00 00 00 00`|`%systemroot%\system32\wbem\WmiApSrv.exe`|`localSystem`|`SERVICE_SID_TYPE_UNRESTRICTED`|`0x03`|`SERVICE_WIN32_OWN_PROCESS`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WMPNetworkSvc Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">Wof Service </span>
+
+##### Summary
 
 |Instances|
 | :---: |
@@ -15655,15 +13779,26 @@ SACL:
 
 ##### Service Parameters
   
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">workerdd Service </span>
 
+##### Summary
+
 |Device0|
 | :---: |
 |`{'InstalledDisplayDrivers': b'W\x00O\x00R\x00K\x00E\x00R\x00D\x00D\x00\x00\x00\x00\x00', 'VgaCompatible': 0}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -15674,8 +13809,9 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\workfolderssvc.dll`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -15685,14 +13821,15 @@ ServiceDll : `%systemroot%\system32\workfolderssvc.dll`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\WpcDesktopMonSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `ServiceMain`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WPDBusEnum Service </span>
+
+##### Summary
 
 |BthActiveConnect|
 | :---: |
@@ -15702,27 +13839,25 @@ ServiceMain : `ServiceMain`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\wpdbusenum.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`0763f553-bfb6-d011-94f2-00a0c91efb8b`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`6dbce9c1-ae1d-1a42-9369-cc7ff0d6e359`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|10|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 a0 be a3 28 00 92 13`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|11|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 a8 be a3 28 00 92 13`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`7878c26a-faa6-5541-ba85-f98f491d4f33`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`|||
-|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 28 00 92 13`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 70 be a3 28 00 92 13`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`e6ca9f65-db5b-a94d-b1ff-ca2a178d46e0`|`SERVICE_TRIGGER_TYPE_GROUP_POLICY`|||
-|6|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`c846fb54-89f0-4c46-b1fd-59d1b62c3b50`|`SERVICE_TRIGGER_TYPE_GROUP_POLICY`|||
-|7|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`37e09f19-822b-a940-82ac-e1d46c792b99`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`01 00 00 00 00 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_KEYWORD_ANY`|
-|8|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 90 be a3 28 00 92 13`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
-|9|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 98 be a3 28 00 92 13`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`0763f553-bfb6-d011-94f2-00a0c91efb8b`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|1|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`6dbce9c1-ae1d-1a42-9369-cc7ff0d6e359`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|10|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 a0 be a3 28 00 92 13`|
+|11|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 a8 be a3 28 00 92 13`|
+|2|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`7878c26a-faa6-5541-ba85-f98f491d4f33`|`SERVICE_TRIGGER_TYPE_DEVICE_INTERFACE_ARRIVAL`||
+|3|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 18 bc a3 28 00 92 13`|
+|4|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 70 be a3 28 00 92 13`|
+|5|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`e6ca9f65-db5b-a94d-b1ff-ca2a178d46e0`|`SERVICE_TRIGGER_TYPE_GROUP_POLICY`||
+|6|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`c846fb54-89f0-4c46-b1fd-59d1b62c3b50`|`SERVICE_TRIGGER_TYPE_GROUP_POLICY`||
+|7|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`37e09f19-822b-a940-82ac-e1d46c792b99`|`SERVICE_TRIGGER_TYPE_CUSTOM`|`(1,)`|
+|8|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 90 be a3 28 00 92 13`|
+|9|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 98 be a3 28 00 92 13`|
   
 <br></br>  
 
@@ -15730,49 +13865,37 @@ ServiceDllUnloadOnStop : `0x01`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WpdUpFltr Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%systemroot%\System32\drivers\WpdUpFltr.sys,-100`|`@%systemroot%\System32\drivers\WpdUpFltr.sys,-100`|`SERVICE_ERROR_NORMAL`|`PnP Filter`|`System32\drivers\WpdUpFltr.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%systemroot%\System32\drivers\WpdUpFltr.sys,-100`|`@%systemroot%\System32\drivers\WpdUpFltr.sys,-100`|`SERVICE_ERROR_NORMAL`|`PnP Filter`|`System32\drivers\WpdUpFltr.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WpnService Service </span>
 
+##### Summary
+
+|parameters|
+| :---: |
+|`{'ServiceDll': '%SystemRoot%\\system32\\WpnService.dll', 'ServiceDllUnloadOnStop': 1}`|
+
 
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\WpnService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -15782,41 +13905,9 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\WpnUserService.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-2-1
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -15826,7 +13917,9 @@ DACL:
 
 ##### Service Parameters
   
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -15836,97 +13929,38 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\wscsvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2019d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x100
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x15
-    SID: S-1-0-80-2006800713-1441093265-249754844-3404434343-1444102779
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf01ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WSearch Service </span>
-  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2008d
-    SID: S-1-0-3-1024-724741592-1210917904-489960769-637019204-3345707629-3097053430-1727148295-85063603
 
-```  
+
+
+##### Service Parameters
+  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WSearchIdxPi Service </span>
 
+##### Summary
+
 |Performance|
 | :---: |
 |`{'Close': 'PerfmonIDXClose', 'Collect': 'PerfmonIDXCollect', 'Library': '%systemroot%\\system32\\tquery.dll', 'Open': 'PerfmonIDXOpen', 'InstallType': 1, 'PerfIniFile': 'idxcntrs.ini', 'First Counter': 9312, 'Last Counter': 9438, 'First Help': 9313, 'Last Help': 9439, 'Object List': '9312'}`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -15937,55 +13971,44 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%systemroot%\system32\wuaueng.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `WUServiceMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2009d
-    SID: S-1-0-11
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-18
-SACL:
-  ACE:
-    Type:  SYSTEM_AUDIT_ACE
-    Flags: 0x80
-    Access: 0xf00ff
-    SID: S-1-0-0(NULL)
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WudfPf Service </span>
 
+##### Summary
+
 |Description|DisplayName|ErrorControl|Group|ImagePath|Start|Type|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`@%systemroot%\system32\drivers\Wudfpf.sys,-1001`|`@%SystemRoot%\system32\drivers\Wudfpf.sys,-1000`|`SERVICE_ERROR_NORMAL`|`base`|`system32\drivers\WudfPf.sys`|`SERVICE_DEMAND_START`|`SERVICE_KERNEL_DRIVER`|
+|`@%systemroot%\system32\drivers\Wudfpf.sys,-1001`|`@%SystemRoot%\system32\drivers\Wudfpf.sys,-1000`|`SERVICE_ERROR_NORMAL`|`base`|`system32\drivers\WudfPf.sys`|`0x03`|`SERVICE_KERNEL_DRIVER`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">WUDFRd Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Owners|DisplayName|ObjectName|Group|Tag|Description|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\WUDFRd.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`HidTelephonyDriver.infhidbthle.infrdpidd.infehstorpwddrv.infxinputhid.infstorfwupdate.infhidcfu.infSDFLauncher.infuiccspb.inf`|`@%SystemRoot%\system32\drivers\WudfRd.sys,-1000`|`\Driver\WudfRd`|`base`|`0x0d`|`@%systemroot%\system32\drivers\WudfRd.sys,-1001`|
+|`\SystemRoot\System32\drivers\WUDFRd.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`HidTelephonyDriver.infhidbthle.infrdpidd.infehstorpwddrv.infxinputhid.infstorfwupdate.infhidcfu.infSDFLauncher.infuiccspb.inf`|`@%SystemRoot%\system32\drivers\WudfRd.sys,-1000`|`\Driver\WudfRd`|`base`|`0x0d`|`@%systemroot%\system32\drivers\WudfRd.sys,-1001`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -15996,47 +14019,9 @@ SACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\wwansvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceMain : `WwanSvcMain`  
-<br></br>  
-Security : 
-```
-Owner: S-1-0-18
-Group: S-1-0-18
-DACL:
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x201fd
-    SID: S-1-0-18
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0xf01ff
-    SID: S-1-0-32-544
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-4
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x2018d
-    SID: S-1-0-6
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x95
-    SID: S-1-0-19
-  ACE:
-    Type:  ACCESS_ALLOWED_ACE
-    Flags: 0x00
-    Access: 0x04
-    SID: S-1-0-2-1
+<br></br>
 
-```  
+  
 
 ---
 <br></br>
@@ -16046,9 +14031,9 @@ DACL:
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\XblAuthManager.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
@@ -16058,17 +14043,14 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\XblGameSave.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-ServiceIdleTimeout : `0x258`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`46 00 36 00 43 00 39 00 38 00 37 00 30 00 38 00 2d 00 43 00 37 00 42 00 38 00 2d 00 34 00 39 00 31 00 39 00 2d 00 38 00 38 00 37 00 43 00 2d 00 32 00 43 00 45 00 36 00 36 00 45 00 37 00 38 00 42 00 39 00 41 00 30 00 00 00`|`SERVICE_TRIGGER_DATA_TYPE_STRING`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`67d190bc-7094-3941-a9ba-be0bbbf5b74d`|`SERVICE_TRIGGER_TYPE_NETWORK_ENDPOINT`|`F6C98708-C7B8-4919-887C-2CE66E78B9A0`|
   
 <br></br>  
 
@@ -16076,14 +14058,25 @@ ServiceIdleTimeout : `0x258`
 <br></br>
 #### <span style="text-align: center; font-size:2em;">xboxgip Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Description|Owners|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\xboxgip.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`NDIS`|`0x01`|`@xboxgip.inf,%XBOXGIP_Desc%;Xbox Game Input Protocol Driver`|`@xboxgip.inf,%XBOXGIP_Desc%;Xbox Game Input Protocol Driver`|`xboxgip.inf`|
+|`\SystemRoot\System32\drivers\xboxgip.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`NDIS`|`0x01`|`@xboxgip.inf,%XBOXGIP_Desc%;Xbox Game Input Protocol Driver`|`@xboxgip.inf,%XBOXGIP_Desc%;Xbox Game Input Protocol Driver`|`xboxgip.inf`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">XboxGipSvc Service </span>
+
+##### Summary
 
 |CoExAdapters|
 | :---: |
@@ -16093,16 +14086,14 @@ ServiceIdleTimeout : `0x258`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\System32\XboxGipSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
 <br></br>
 
 
 ##### Service Triggers
 
-|ID|Action|GUID|Type|Data0|DataType0|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 2a 07 96 41`|`SERVICE_TRIGGER_DATA_TYPE_BINARY`|
+|ID|Action|GUID|Type|Parameter 0|
+| :---: | :---: | :---: | :---: | :---: |
+|0|`SERVICE_TRIGGER_ACTION_SERVICE_START`|`16287a2d-5e0c-fc45-9ce7-570e5ecde9c9`|`SERVICE_TRIGGER_TYPE_CUSTOM_SYSTEM_STATE_CHANGE`|`75 08 bc a3 2a 07 96 41`|
   
 <br></br>  
 
@@ -16114,17 +14105,26 @@ ServiceDllUnloadOnStop : `0x01`
 
 ##### Service Parameters
   
-ServiceDll : `%SystemRoot%\system32\XboxNetApiSvc.dll`  
-ServiceDllUnloadOnStop : `0x01`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>
 #### <span style="text-align: center; font-size:2em;">xinputhid Service </span>
 
+##### Summary
+
 |ImagePath|Type|Start|ErrorControl|Group|Tag|DisplayName|Owners|DevicePropertyFlags|ConfigFlags|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|`\SystemRoot\System32\drivers\xinputhid.sys`|`SERVICE_KERNEL_DRIVER`|`SERVICE_DEMAND_START`|`SERVICE_ERROR_NORMAL`|`Base`|`0x01`|`@xinputhid.inf,%xinputhid.SvcDesc%;XINPUT HID Filter Driver`|`xinputhid.inf`|`0x0e`|`0x01`|
+|`\SystemRoot\System32\drivers\xinputhid.sys`|`SERVICE_KERNEL_DRIVER`|`0x03`|`SERVICE_ERROR_NORMAL`|`Base`|`0x01`|`@xinputhid.inf,%xinputhid.SvcDesc%;XINPUT HID Filter Driver`|`xinputhid.inf`|`0x0e`|`0x01`|
+
+
+
+##### Service Parameters
+  
+<br></br>
+
   
 
 ---
@@ -16136,7 +14136,9 @@ ServiceDllUnloadOnStop : `0x01`
 ##### Service Parameters
   
 SchemaGroups : `SchemaGroups`  
-<br></br>  
+<br></br>
+
+  
 
 ---
 <br></br>  

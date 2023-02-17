@@ -3,7 +3,6 @@ from reporting.visitors import *
 from reporting.system import *
 from reporting.markdown import *
 from windows.registry.services import *
-import uuid
 
 
 class ITextHelper():
@@ -249,7 +248,18 @@ class CoreReportMarkdownAutoLoggerVisitor(Visitor,ITextHelper):
                 len(known_keys), (len(v.keys()) + 1), known_keys+d)
             self.md.new_line("\n---\n<br></br>")
 
+class CoreReportMarkdownRegFileSystemVisitor(Visitor,ITextHelper):
+    def handle_filesystem(self, entry: RegFileSystem):
 
+        column_headings = []
+        row_entries = []
+
+        for heading,value  in entry.data.entries.items():
+            column_headings.append(heading)
+            row_entries.append(value)
+        if len(column_headings) >0:
+            self.md.new_header(3, "FileSystem Configurations")
+            self.md = table_helper(self.md, column_headings, row_entries)
 
 class CoreReportMarkdownVisitor(MarkdownVisitor):
     def get_markdown(self, md: MdUtils, data: list) -> MdUtils:
@@ -288,6 +298,8 @@ class CoreReportMarkdownVisitor(MarkdownVisitor):
                 CoreReportMarkdownAutoLoggerVisitor(self.md).handle_system_auto_logger(entry)
             elif isinstance(entry, RegServices):
                 CoreReportMarkdownRegServicesVisitor(self.md).handle_system_services(entry)
+            elif isinstance(entry, RegFileSystem):
+                CoreReportMarkdownRegFileSystemVisitor(self.md).handle_filesystem(entry)
             else:
                 raise Exception(f"Unhandled visitable: {type(entry)}")
             self.md.new_line("<br></br>")

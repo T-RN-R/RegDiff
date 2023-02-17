@@ -36,7 +36,7 @@ class RegHiveDictView(Mapping):
 
     def __str__(self):
         return self._hive.get_name()
-    def __getitem__(self, key: str):
+    def __getitem__(self, key: str, default = None):
         """
         Returns a RegHiveDictView at path {key}
         ie. key = CurrentControlSet\\Control\\Services
@@ -44,6 +44,9 @@ class RegHiveDictView(Mapping):
         h = self._hive.get_sub_key_by_path(key)
         return RegHiveDictView(h) if h is not None else None
 
+    def get(self, key: str, default = None):
+        h = self.__getitem__(key)
+        return  h if h is not None else default
     def keys(self):
         return [RegHiveDictView(k) for k in self._hive.sub_keys if k is not None ]
 
@@ -64,7 +67,7 @@ class RegHiveDictView(Mapping):
         return [(k.name,self._hive_or_value_for_keyname(k)) for k in self._hive.sub_keys ]
     
     def __iter__(self):
-        return iter(self.keys)
+        return iter(self.keys())
 
     def __len__(self):
         return self._hive.get_number_of_sub_keys

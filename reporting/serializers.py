@@ -2,7 +2,7 @@ from reporting import *
 from reporting.system import *
 from reporting.visitors import DiffContainer, AddedContainer, RemovedContainer
 import functools
-
+from windows.registry.filesystem import SystemHiveFileSystem
 
 from collections.abc import Mapping
 
@@ -122,12 +122,17 @@ class SystemHiveSerializer(HiveSerializer):
     def handle_services(self, d:dict) -> MarkdownVisitable:
         return RegServices(SystemHiveServices(d))
         
+    def handle_filesystem(self, d:dict) -> MarkdownVisitable:
+        return RegFileSystem(SystemHiveFileSystem(d))
+    
+
     def handle_control_set(self,data:dict) -> list[MarkdownVisitable]:
         WMI_AUTOLOGGER = "Control\\WMI\\Autologger"
         SERVICES = "Services"
+        FILESYSTEM = "Control\\FileSystem"
         results = []
-        wmi_al = self.filter_on_key_string(data, WMI_AUTOLOGGER)
-        results  += [self.handle_wmi_autologger(wmi_al)]
+        results += [self.handle_filesystem(self.filter_on_key_string(data,FILESYSTEM))]
+        results += [self.handle_wmi_autologger( self.filter_on_key_string(data, WMI_AUTOLOGGER))]
         results += [self.handle_services(self.filter_on_key_string(data,SERVICES))]
 
         return results

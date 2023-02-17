@@ -633,7 +633,7 @@ EapProvPlugin : `{'(Default)': '%SystemRoot%\\System32\\eapprovp.dll', 'DllEntry
 <br></br>
 
   
-`<windows.registry.services.SystemHiveServiceMethod object at 0x0000028515397950>`  
+`<windows.registry.services.SystemHiveServiceMethod object at 0x000002B1EC126110>`  
 
 ---
 <br></br>
@@ -1737,6 +1737,7 @@ FeatureLevel : `0x01`
 ---
 <br></br>  
 <br></br>  
+<br></br>  
 <br></br><br></br>Deleted
 ### WMI AutoLoggers
   
@@ -1989,7 +1990,7 @@ EapProvPlugin : `{'(Default)': '%SystemRoot%\\System32\\eapprovp.dll', 'DllEntry
 <br></br>
 
   
-`<windows.registry.services.SystemHiveServiceMethod object at 0x00000285153BA4D0>`  
+`<windows.registry.services.SystemHiveServiceMethod object at 0x000002B1EC14D390>`  
 
 ---
 <br></br>
@@ -2290,12 +2291,12 @@ Sensors : `{'{0D49D945-FA83-4630-A22C-01387F906DE6}': {'PersistentUniqueId': '{9
 Default Firewall Policy
 ##### Firewall Rules
 
-|Rule Name|RPort|Protocol|Action|Dir|RA4|RA6|App|Svc|Profile|Active|Version|Name|Desc|LPort|EmbedCtxt|
+|Rule Name|Active|Action|LPort|RPort|Profile|RA4|Svc|Desc|EmbedCtxt|RA6|Version|Name|App|Dir|Protocol|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-In||`6`|`Allow`|`In`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`p2psvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-200`|`@%systemroot%\system32\provsvc.dll,-201`|`3587`|`@%systemroot%\system32\provsvc.dll,-202`|
-|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-Out|`3587`|`6`|`Allow`|`Out`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`p2psvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-203`|`@%systemroot%\system32\provsvc.dll,-204`||`@%systemroot%\system32\provsvc.dll,-202`|
-|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-In||`17`|`Allow`|`In`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`pnrpsvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-205`|`@%systemroot%\system32\provsvc.dll,-206`|`3540`|`@%systemroot%\system32\provsvc.dll,-202`|
-|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-Out|`3540`|`17`|`Allow`|`Out`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`pnrpsvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-207`|`@%systemroot%\system32\provsvc.dll,-208`||`@%systemroot%\system32\provsvc.dll,-202`|
+|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-In|`FALSE`|`Allow`|`3587`||`Private`|`LocalSubnet`|`p2psvc`|`@%systemroot%\system32\provsvc.dll,-201`|`@%systemroot%\system32\provsvc.dll,-202`|`LocalSubnet`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-200`|`%systemroot%\system32\svchost.exe`|`In`|`6`|
+|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-Out|`FALSE`|`Allow`||`3587`|`Private`|`LocalSubnet`|`p2psvc`|`@%systemroot%\system32\provsvc.dll,-204`|`@%systemroot%\system32\provsvc.dll,-202`|`LocalSubnet`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-203`|`%systemroot%\system32\svchost.exe`|`Out`|`6`|
+|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-In|`FALSE`|`Allow`|`3540`||`Private`|`LocalSubnet`|`pnrpsvc`|`@%systemroot%\system32\provsvc.dll,-206`|`@%systemroot%\system32\provsvc.dll,-202`|`LocalSubnet`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-205`|`%systemroot%\system32\svchost.exe`|`In`|`17`|
+|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-Out|`FALSE`|`Allow`||`3540`|`Private`|`LocalSubnet`|`pnrpsvc`|`@%systemroot%\system32\provsvc.dll,-208`|`@%systemroot%\system32\provsvc.dll,-202`|`LocalSubnet`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-207`|`%systemroot%\system32\svchost.exe`|`Out`|`17`|
 
 
 
@@ -2303,26 +2304,26 @@ Default Firewall Policy
 
 ##### Firewall Rules
 
-|Rule Name|RPort|Protocol|Action|Dir|RA4|RA6|App|Svc|Profile|Active|Version|Name|Desc|LPort|EmbedCtxt|
+|Rule Name|Active|Action|LPort|RPort|Profile|RA4|Svc|Desc|EmbedCtxt|RA6|Version|Name|App|Dir|Protocol|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-In||`6`|`Allow`|`In`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`p2psvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-200`|`@%systemroot%\system32\provsvc.dll,-201`|`3587`|`@%systemroot%\system32\provsvc.dll,-202`|
-|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-Out|`3587`|`6`|`Allow`|`Out`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`p2psvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-203`|`@%systemroot%\system32\provsvc.dll,-204`||`@%systemroot%\system32\provsvc.dll,-202`|
-|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-In||`17`|`Allow`|`In`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`pnrpsvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-205`|`@%systemroot%\system32\provsvc.dll,-206`|`3540`|`@%systemroot%\system32\provsvc.dll,-202`|
-|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-Out|`3540`|`17`|`Allow`|`Out`|`LocalSubnet`|`LocalSubnet`|`%systemroot%\system32\svchost.exe`|`pnrpsvc`|`Private`|`FALSE`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-207`|`@%systemroot%\system32\provsvc.dll,-208`||`@%systemroot%\system32\provsvc.dll,-202`|
+|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-In|`FALSE`|`Allow`|`3587`||`Private`|`LocalSubnet`|`p2psvc`|`@%systemroot%\system32\provsvc.dll,-201`|`@%systemroot%\system32\provsvc.dll,-202`|`LocalSubnet`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-200`|`%systemroot%\system32\svchost.exe`|`In`|`6`|
+|Microsoft-Windows-HomeGroup-ProvSvc-TCP3587-Out|`FALSE`|`Allow`||`3587`|`Private`|`LocalSubnet`|`p2psvc`|`@%systemroot%\system32\provsvc.dll,-204`|`@%systemroot%\system32\provsvc.dll,-202`|`LocalSubnet`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-203`|`%systemroot%\system32\svchost.exe`|`Out`|`6`|
+|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-In|`FALSE`|`Allow`|`3540`||`Private`|`LocalSubnet`|`pnrpsvc`|`@%systemroot%\system32\provsvc.dll,-206`|`@%systemroot%\system32\provsvc.dll,-202`|`LocalSubnet`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-205`|`%systemroot%\system32\svchost.exe`|`In`|`17`|
+|Microsoft-Windows-HomeGroup-ProvSvc-UDP3540-Out|`FALSE`|`Allow`||`3540`|`Private`|`LocalSubnet`|`pnrpsvc`|`@%systemroot%\system32\provsvc.dll,-208`|`@%systemroot%\system32\provsvc.dll,-202`|`LocalSubnet`|`v2.30`|`@%systemroot%\system32\provsvc.dll,-207`|`%systemroot%\system32\svchost.exe`|`Out`|`17`|
 
 ##### Restricted Services Static Firewall Rules
 
-|Rule Name|RPort|Protocol|Action|Dir|App|Svc|Name|Version|LPort|
+|Rule Name|Action|LPort|RPort|Svc|Version|Name|App|Dir|Protocol|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|HomeGroup Allow In||`6`|`Allow`|`In`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupProvider`|`Allow Grouping to receive from port 3587`|`v2.0`|`3587`|
-|HomeGroup Allow In (PRNP)||`17`|`Allow`|`In`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupProvider`|`Allow PNRP to receive from port 3540`|`v2.0`|`3540`|
-|HomeGroup Allow Out|`3587`|`6`|`Allow`|`Out`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupProvider`|`Allow Grouping to send to port 3587`|`v2.0`||
-|HomeGroup Allow Out (PRNP)|`3540`|`17`|`Allow`|`Out`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupProvider`|`Allow PNRP to send from port 3540`|`v2.0`||
-|HomeGroup Block In|||`Block`|`In`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupProvider`|`Block homegroup incoming`|`V2.0`||
-|HomeGroup Block Out|||`Block`|`Out`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupProvider`|`Block homegroup outgoing`|`V2.0`||
-|HomeGroup Listener Block In|||`Block`|`In`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupListener`|`Block all incoming`|`V2.0`||
-|HomeGroup Listener Block Out|||`Block`|`Out`|`%SystemRoot%\system32\svchost.exe`|`HomeGroupListener`|`Block all outgoing`|`V2.0`||
-|SettingSyncHost|||`Block`|`In`|`%SystemRoot%\system32\settingsynchost.exe`||`Block IP traffic to SettingSyncHost`|`V2.0`||
+|HomeGroup Allow In|`Allow`|`3587`||`HomeGroupProvider`|`v2.0`|`Allow Grouping to receive from port 3587`|`%SystemRoot%\system32\svchost.exe`|`In`|`6`|
+|HomeGroup Allow In (PRNP)|`Allow`|`3540`||`HomeGroupProvider`|`v2.0`|`Allow PNRP to receive from port 3540`|`%SystemRoot%\system32\svchost.exe`|`In`|`17`|
+|HomeGroup Allow Out|`Allow`||`3587`|`HomeGroupProvider`|`v2.0`|`Allow Grouping to send to port 3587`|`%SystemRoot%\system32\svchost.exe`|`Out`|`6`|
+|HomeGroup Allow Out (PRNP)|`Allow`||`3540`|`HomeGroupProvider`|`v2.0`|`Allow PNRP to send from port 3540`|`%SystemRoot%\system32\svchost.exe`|`Out`|`17`|
+|HomeGroup Block In|`Block`|||`HomeGroupProvider`|`V2.0`|`Block homegroup incoming`|`%SystemRoot%\system32\svchost.exe`|`In`||
+|HomeGroup Block Out|`Block`|||`HomeGroupProvider`|`V2.0`|`Block homegroup outgoing`|`%SystemRoot%\system32\svchost.exe`|`Out`||
+|HomeGroup Listener Block In|`Block`|||`HomeGroupListener`|`V2.0`|`Block all incoming`|`%SystemRoot%\system32\svchost.exe`|`In`||
+|HomeGroup Listener Block Out|`Block`|||`HomeGroupListener`|`V2.0`|`Block all outgoing`|`%SystemRoot%\system32\svchost.exe`|`Out`||
+|SettingSyncHost|`Block`||||`V2.0`|`Block IP traffic to SettingSyncHost`|`%SystemRoot%\system32\settingsynchost.exe`|`In`||
   
 <br></br>
 
@@ -2477,5 +2478,6 @@ DebugOptions : `0x00`
   
 
 ---
+<br></br>  
 <br></br>  
 <br></br>

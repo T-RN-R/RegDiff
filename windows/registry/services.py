@@ -320,10 +320,12 @@ class SystemHiveServiceFirewallRestrictedServices:
         """
         If any of these exceptions are trggered, this is going to need to be rewritten as a Factory.
         """
+        """
         if name != "Static":
             raise Exception(f" Found a new Restricted Firewall Rule type ('{name}')! Please implement me!")
         if data.get("System") is None:
             raise Exception(f" Found a new Static Restricted Firewall Rule type ('{data.keys()}')! Please implement me!")
+        """
         self._name = name
         self._data = data.get("System", {})
     @property
